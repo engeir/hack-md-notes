@@ -1,5 +1,7 @@
 # State-of-the-art: volcanic impact of Earth's climate
 
+[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w)
+
 > ___Overview of papers.___
 
 ## Global Cooling After the Eruption of Mount Pinatubo
