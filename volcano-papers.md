@@ -158,3 +158,22 @@
 - This highlight __importance of spatial structures__.
 - Crucial to obtain an accurate reconstruction of volcanic aerosol radiative property
   spatial structure.
+
+## Robust Inter-Hemispheric Asymmetry in the Response to Symmetric Volcanic Forcing in Model Large Ensembles
+
+> DOI: [10.1029/2021GL092558](https://doi.org/10.1029/2021GL092558)
+
+### Introduction
+
+- Makes use of CMIP6 to evaluate high-latitude climate response during large eruptions
+- Simulations are forced with historical GHG, ozone, solar and aerosol forcing.
+
+### Results and discussion
+
+- Sea ice volume in CESM2 is much greater and persists longer than in the other models
+- Symmetric forcing (Pinatubo) give asymmetry in zonal-mean TAS
+- Some ensemble members warm at high latitudes
+- __Robust feature:__ The inter-hemispheric asymmetry in the temperature response of the
+  climate system response to approximately hemispherically symmetric volcanic forcing
+- __Despite the very different physical nature of the forcings, same asymmetric fast
+  response to CO2 is what they find here for symmetric volcanic forcing__
