@@ -149,12 +149,10 @@
 - Pinatubo reduces precipitation over tropics
 - Asymmetric reduces where the load is, enhances on opposite hemisphere. Global mean
   somewhat enhanced.
-
 - TAS in high load hemispheres are comparable to Pinatubo
 - Stronger impact on precipitation and TC than Pinatubo
 - __Transient climate sensitivity is not proportional:__ largest from Santa Maria (NH),
   identical from Pinatubo (both) and Agung (SH).
-
 - Usually it is assumed that weaker eruptions have weaker impact, this demonstrate the
   opposite can be the case.
 - This highlight __importance of spatial structures__.
