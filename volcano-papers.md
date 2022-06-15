@@ -131,3 +131,32 @@
 > Climate Model: The importance of Forcing Structure._
 >
 > DOI: [10.1029/2019GL082367](https://doi.org/10.1029/2019GL082367)
+
+### Introduction
+
+- Volcanoes impact ENSO, tropical cyclones, NAO and more, but has low signal-to-noise
+  ratio or depend on initial state, perhaps even model dependent.
+- FLOR coupled climate model, $50\,\mathrm{km}$ horizontal resolution.
+
+### Questions
+
+- Temperature and precipitation response to different eruptions ((a)symmetric)
+- What is the response of TC activity?
+- Proportional climate response?
+
+### Results and discussion
+
+- Pinatubo reduces precipitation over tropics
+- Asymmetric reduces where the load is, enhances on opposite hemisphere. Global mean
+  somewhat enhanced.
+
+- TAS in high load hemispheres are comparable to Pinatubo
+- Stronger impact on precipitation and TC than Pinatubo
+- __Transient climate sensitivity is not proportional:__ largest from Santa Maria (NH),
+  identical from Pinatubo (both) and Agung (SH).
+
+- Usually it is assumed that weaker eruptions have weaker impact, this demonstrate the
+  opposite can be the case.
+- This highlight __importance of spatial structures__.
+- Crucial to obtain an accurate reconstruction of volcanic aerosol radiative property
+  spatial structure.
