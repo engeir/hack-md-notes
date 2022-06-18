@@ -15,7 +15,7 @@
 
 - They show: without the strong _positive_ feedback from water-vapour, the model is
   unable to reproduce the observed cooling.
-- Thus, climate models heavily rely on the water-vapour feedback.
+- Hence, climate models heavily rely on the water-vapour feedback.
 - WV the dominant greenhouse gas and provides the largest feedback for amplifying
   climate change.
 - Increases with temperature → doubles the sensitivity of temperature to an increase in
@@ -34,7 +34,7 @@
 ### Simulations
 
 - Uses a GCM, mixed-layer ocean.
-- Starting 5 months before the eruption, lasting a total of 5 years.
+- Starting 5 months before the eruption, lasting 5 years.
 - Three pairs with: control & Mount Pinatubo (observed zonal mean distribution of
   aerosols).
 - Data indicate peak 18 months after eruption (0.5 K cooling).
@@ -55,10 +55,9 @@
 - Problems when comparing modelled and observed effects are
   1. Poor forcing precision at earlier times
   2. Signal to noise ratio. Response is quick and decays after a relatively short time
-  3. Forcing events lasting less than 5 years are less sensitive to $\Delta T2x$ than
+  3. Forcing events lasting shorter than 5 years are less sensitive to $\Delta T2x$ than
      longer ones.
-  4. Sensitivity may depend on the nature of the forcing and/or the spatial
-     distribution.
+  4. Sensitivity may depend on the nature of the forcing and the spatial distribution.
 - [LG98](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JD00125) note that
   response to consecutive eruptions has closer dependence with $\Delta T2x$.
   - 3-box EBM, $400\,$m deep, diffusive ocean
@@ -153,7 +152,7 @@
 - Stronger impact on precipitation and TC than Pinatubo
 - __Transient climate sensitivity is not proportional:__ largest from Santa Maria (NH),
   identical from Pinatubo (both) and Agung (SH).
-- Usually it is assumed that weaker eruptions have weaker impact, this demonstrate the
+- Usually it is assumed that weaker eruptions have weaker impact, this demonstrates the
   opposite can be the case.
 - This highlight __importance of spatial structures__.
 - Crucial to obtain an accurate reconstruction of volcanic aerosol radiative property
@@ -175,5 +174,5 @@
 - Some ensemble members warm at high latitudes
 - __Robust feature:__ The inter-hemispheric asymmetry in the temperature response of the
   climate system response to approximately hemispherically symmetric volcanic forcing
-- __Despite the very different physical nature of the forcings, same asymmetric fast
+- __Despite the dissimilar physical nature of the forcings, same asymmetric fast
   response to CO2 is what they find here for symmetric volcanic forcing__
