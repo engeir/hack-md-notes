@@ -100,7 +100,7 @@
 - __Subject of ongoing research:__ how (and if) Southern Annular Mode is confounded by
   superposition of eruptions and El Niño events.
 
-## 2016 — Gregory: Small global-mean cooling due to volcanic radiative forcing
+## 2016 — Gregory et al.: Small global-mean cooling due to volcanic radiative forcing
 
 > DOI: [10.1007/s00382-016-3055-1](https://doi.org/10.1007/s00382-016-3055-1)
 
