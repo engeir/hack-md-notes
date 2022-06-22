@@ -4,7 +4,7 @@
 
 > ___Overview of papers.___
 
-## Global Cooling After the Eruption of Mount Pinatubo
+## 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo
 
 > _Full title: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate
 > Feedback by Water Vapor._
@@ -39,7 +39,7 @@
   aerosols).
 - Data indicate peak 18 months after eruption (0.5 K cooling).
 
-## Effect of climate sensitivity on the response to volcanic forcing
+## 2004 — Wigley et al.: Effect of climate sensitivity on the response to volcanic forcing
 
 > DOI: [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
 
@@ -67,7 +67,7 @@
 - Good agreement between MAGICC (model) and AOGCM.
 - They quantified relaxation timescales by fitting exponential decay curves.
 
-## On the climatic implications of volcanic cooling
+## 1998 — Lindzen, Giannitsis: On the climatic implications of volcanic cooling
 
 > DOI: [10.1029/98JD00125](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JD00125)
 
@@ -78,7 +78,7 @@
 - Sensitivity matter less in first year or two, then larger sensitivity give a slower
   recovery to equilibrium than the weak sensitivity case.
 
-## Climate Sensitivity Parameter in the Test of the Mount Pinatubo Eruption
+## 2016 — Ollila: Climate Sensitivity Parameter in the Test of the Mount Pinatubo Eruption
 
 > DOI: [10.9734/PSIJ/2016/23242](https://doi.org/10.9734/PSIJ/2016/23242)
   ([PDF](https://www.academia.edu/download/48400134/Ollila-Pinatubo_eruption.pdf))
@@ -86,7 +86,7 @@
 - Time constants for the ocean of $2.74$ months and for the land of $1.04$ months are
   accurate and applicable in the dynamic analysis.
 
-## The importance of ENSO phase during volcanic eruptions for detection and attribution
+## 2016 — Lehner et al.: The importance of ENSO phase during volcanic eruptions for detection and attribution
 
 > DOI: [10.1002/2016GL067935](https://doi.org/10.1002/2016GL067935)
 
@@ -100,7 +100,7 @@
 - __Subject of ongoing research:__ how (and if) Southern Annular Mode is confounded by
   superposition of eruptions and El Niño events.
 
-## Small global-mean cooling due to volcanic radiative forcing
+## 2016 — Gregory: Small global-mean cooling due to volcanic radiative forcing
 
 > DOI: [10.1007/s00382-016-3055-1](https://doi.org/10.1007/s00382-016-3055-1)
 
@@ -117,14 +117,14 @@
   - _Do other models also exhibit a cloud adjustment and a lower climate sensitivity for
     volcanic forcing?_
 
-## An AOGCM simulation of the climate response to a volcanic super-eruption
+## 2005 — Jones et al.: An AOGCM simulation of the climate response to a volcanic super-eruption
 
 > DOI: [10.1007/s00382-005-0066-8](https://doi.org/10.1007/s00382-005-0066-8)
 
 - AOD of ~15, similar in size to Toba 72ky ago (two orders of magnitude larger than
   Mount Pinatubo, i.e., Pinatubo volcanic aerosol time 100).
 
-## Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model
+## 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model
 
 > _Full title: Climate Impacts From Large Volcanic Eruptions in a High-Resolution
 > Climate Model: The importance of Forcing Structure._
@@ -158,7 +158,7 @@
 - Crucial to obtain an accurate reconstruction of volcanic aerosol radiative property
   spatial structure.
 
-## Robust Inter-Hemispheric Asymmetry in the Response to Symmetric Volcanic Forcing in Model Large Ensembles
+## 2021 — Pauling et al.: Robust Inter-Hemispheric Asymmetry in the Response to Symmetric Volcanic Forcing in Model Large Ensembles
 
 > DOI: [10.1029/2021GL092558](https://doi.org/10.1029/2021GL092558)
 
