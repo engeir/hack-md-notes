@@ -191,4 +191,15 @@
 - Finally calls for further work to settle disagreement between their and Richardson
   (2019) results (i.e., that aerosols give greater sensitivity than GHG)
 
+## 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
+
+- Quantifying forcing efficacies and understanding how robust they are across different
+  models are of significant importance
+- Compares six different ways of estimating forcing from different forcing agents, and
+  evaluates their appropriateness based on the efficacies, which should be unity.
+  $\mathrm{ERF}_\mathrm{sst}$ comes out best (effective radiative forcing from fixed
+  sea-surface temperature).
+- Uses large aerosol perturbations, and it is assumed that the temperature response
+  scales linearly with forcing strengths. Calls for further studies to explore that.
+
 ## 2020 — Gregory et al.:
