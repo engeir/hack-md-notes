@@ -176,3 +176,19 @@
   climate system response to approximately hemispherically symmetric volcanic forcing
 - __Despite the dissimilar physical nature of the forcings, same asymmetric fast
   response to CO2 is what they find here for symmetric volcanic forcing__
+
+## 2022 — Salvi et al.: Interpreting differences in radiative feedbacks from aerosols versus greenhouse gases
+
+- __Not__ a consensus on whether $\alpha$ (climate feedback parameter — $N=F-\alpha T$)
+  depends on the different forcing agents.
+- Differences in radiative feedback across forcing agents may be explained in terms of
+  different tropospheric stability responses and their impact on cloud and lapse-rate
+  feedbacks.
+- Higher tropospheric stability → low boundary-layer clouds over marine regions
+- Low clouds reflect solar → cooling effect on radiation
+- Expect a positive correlation between net $\alpha$ and the stability response per unit
+  global warming ($\mathrm{d}S/\mathrm{d}T$)
+- Finally calls for further work to settle disagreement between their and Richardson
+  (2019) results (i.e., that aerosols give greater sensitivity than GHG)
+
+## 2020 — Gregory et al.:
