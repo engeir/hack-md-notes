@@ -209,7 +209,10 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 - ==Uses large aerosol perturbations, and it is assumed that the temperature response
   scales linearly with forcing strengths. Calls for further studies to explore that.==
 
-## 2020 — Gregory et al.: How accurately can the climate sensitivity to C-O-2 be estimated from historical climate change?
+## 2020 — Gregory et al.: How accurately can the climate sensitivity to CO~2~ be estimated from historical climate change?
+
+- Volcanic forcing in the mean of CMIP5 is 80% of the AR5 estimate, which is attributed
+  to rapid cloud adjustments not included in the AR5 estimate
 
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
