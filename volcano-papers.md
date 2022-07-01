@@ -6,8 +6,8 @@
 
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
-are: '[volc-cluster-ctrl]' (VolMIP tier 2), '[volc-cluster-mill]' (VolMIP tier 3) and
-'[past1000-volc-cluster]' (PMIP tier 3, although this include all external drivers).
+are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMIP tier
+3) and '__[past1000-volc-cluster]__' (PMIP tier 3, this include all external drivers).
 :::
 
 ## 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo
@@ -185,8 +185,8 @@ are: '[volc-cluster-ctrl]' (VolMIP tier 2), '[volc-cluster-mill]' (VolMIP tier 3
 
 ## 2022 — Salvi et al.: Interpreting differences in radiative feedbacks from aerosols versus greenhouse gases
 
-- __Not__ a consensus on whether $\alpha$ (climate feedback parameter — $N=F-\alpha T$)
-  depends on the different forcing agents.
+- ==Not a consensus on whether $\alpha$ (climate feedback parameter — $N=F-\alpha T$)
+  depends on the different forcing agents.==
 - Differences in radiative feedback across forcing agents may be explained in terms of
   different tropospheric stability responses and their impact on cloud and lapse-rate
   feedbacks.
@@ -194,8 +194,8 @@ are: '[volc-cluster-ctrl]' (VolMIP tier 2), '[volc-cluster-mill]' (VolMIP tier 3
 - Low clouds reflect solar → cooling effect on radiation
 - Expect a positive correlation between net $\alpha$ and the stability response per unit
   global warming ($\mathrm{d}S/\mathrm{d}T$)
-- Finally calls for further work to settle disagreement between their and Richardson
-  (2019) results (i.e., that aerosols give greater sensitivity than GHG)
+- ==Finally calls for further work to settle disagreement between their and Richardson
+  (2019) results (i.e., that aerosols give greater sensitivity than GHG)==
 
 ## 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
 
@@ -205,8 +205,8 @@ are: '[volc-cluster-ctrl]' (VolMIP tier 2), '[volc-cluster-mill]' (VolMIP tier 3
   evaluates their appropriateness based on the efficacies, which should be unity.
   $\mathrm{ERF}_\mathrm{sst}$ comes out best (effective radiative forcing from fixed
   sea-surface temperature).
-- Uses large aerosol perturbations, and it is assumed that the temperature response
-  scales linearly with forcing strengths. Calls for further studies to explore that.
+- ==Uses large aerosol perturbations, and it is assumed that the temperature response
+  scales linearly with forcing strengths. Calls for further studies to explore that.==
 
 ## 2020 — Gregory et al.:
 
