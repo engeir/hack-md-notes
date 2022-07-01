@@ -4,6 +4,12 @@
 
 > ___Overview of papers.___
 
+:::info
+Potential simulations from MIPs (although I haven't found any realizations of them yet)
+are: '[volc-cluster-ctrl]' (VolMIP tier 2), '[volc-cluster-mill]' (VolMIP tier 3) and
+'[past1000-volc-cluster]' (PMIP tier 3, although this include all external drivers).
+:::
+
 ## 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo
 
 > _Full title: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate
@@ -172,7 +178,7 @@
 - Sea ice volume in CESM2 is much greater and persists longer than in the other models
 - Symmetric forcing (Pinatubo) give asymmetry in zonal-mean TAS
 - Some ensemble members warm at high latitudes
-- __Robust feature:__ The inter-hemispheric asymmetry in the temperature response of the
+- ==Robust feature:== The inter-hemispheric asymmetry in the temperature response of the
   climate system response to approximately hemispherically symmetric volcanic forcing
 - __Despite the dissimilar physical nature of the forcings, same asymmetric fast
   response to CO2 is what they find here for symmetric volcanic forcing__
@@ -203,3 +209,7 @@
   scales linearly with forcing strengths. Calls for further studies to explore that.
 
 ## 2020 — Gregory et al.:
+
+[volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
+[volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
+[past1000-volc-cluster]: https://gmd.copernicus.org/articles/10/4005/2017/gmd-10-4005-2017.pdf
