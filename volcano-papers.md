@@ -3,6 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w)
 
 > ___Overview of papers.___
+> [color=#907bf7]
 
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
