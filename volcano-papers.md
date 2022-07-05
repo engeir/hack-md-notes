@@ -213,6 +213,11 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 
 - Volcanic forcing in the mean of CMIP5 is 80% of the AR5 estimate, which is attributed
   to rapid cloud adjustments not included in the AR5 estimate
+- For volcanic aerosol, $\alpha$ _may_ be larger than for CO~2~ (EffCS smaller,
+  efficacy, less than unity), since regression of $R=F-N$ (annual mean) against $T$ is
+  much steeper.
+- EffCS is higher when volcanic forcing is relatively less important (see similar trend
+  when volcanoes are not present, 1945-1975, and when CO~2~ is dominant, 1975–2005).
 
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
