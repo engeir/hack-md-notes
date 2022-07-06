@@ -8,7 +8,7 @@
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
 are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMIP tier
-3) and '__[past1000-volc-cluster]__' (PMIP tier 3, this include all external drivers).
+3) and '__[past1000-volc-cluster]__' (PMIP tier 3, this includes all external drivers).
 :::
 
 ## 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo
@@ -218,6 +218,9 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
   much steeper.
 - EffCS is higher when volcanic forcing is relatively less important (see similar trend
   when volcanoes are not present, 1945-1975, and when CO~2~ is dominant, 1975–2005).
+- CMIP5 AOGCMs are not realistic in their response to volcanic forcing. In the real
+  world, instead of causing a rapid cooling of $T$, volcanoes have the effect of
+  "sucking" heat from the ocean beneath.
 
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
