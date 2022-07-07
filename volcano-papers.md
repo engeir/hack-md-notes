@@ -65,6 +65,30 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 - Crucial to obtain an accurate reconstruction of volcanic aerosol radiative property
   spatial structure.
 
+### 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
+
+- Quantifying forcing efficacies and understanding how robust they are across different
+  models are of significant importance
+- Compares six different ways of estimating forcing from different forcing agents, and
+  evaluates their appropriateness based on the efficacies, which should be unity.
+  $\mathrm{ERF}_\mathrm{sst}$ comes out best (effective radiative forcing from fixed
+  sea-surface temperature).
+- ==Uses large aerosol perturbations, and it is assumed that the temperature response
+  scales linearly with forcing strengths. Calls for further studies to explore that.==
+
+### 2020 — Gregory et al.: How accurately can the climate sensitivity to CO~2~ be estimated from historical climate change?
+
+- Volcanic forcing in the mean of CMIP5 is 80% of the AR5 estimate, which is attributed
+  to rapid cloud adjustments not included in the AR5 estimate
+- For volcanic aerosol, $\alpha$ _may_ be larger than for CO~2~ (EffCS smaller,
+  efficacy, less than unity), since regression of $R=F-N$ (annual mean) against $T$ is
+  much steeper.
+- EffCS is higher when volcanic forcing is relatively less important (see similar trend
+  when volcanoes are not present, 1945-1975, and when CO~2~ is dominant, 1975–2005).
+- CMIP5 AOGCMs are not realistic in their response to volcanic forcing. In the real
+  world, instead of causing a rapid cooling of $T$, volcanoes have the effect of
+  "sucking" heat from the ocean beneath.
+
 ### 2021 — Pauling et al.: Robust Inter-Hemispheric Asymmetry in the Response to Symmetric Volcanic Forcing in Model Large Ensembles
 
 > DOI: [10.1029/2021GL092558](https://doi.org/10.1029/2021GL092558)
@@ -98,35 +122,86 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 - ==Finally calls for further work to settle disagreement between their and Richardson
   (2019) results (i.e., that aerosols give greater sensitivity than GHG)==
 
-### 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
-
-- Quantifying forcing efficacies and understanding how robust they are across different
-  models are of significant importance
-- Compares six different ways of estimating forcing from different forcing agents, and
-  evaluates their appropriateness based on the efficacies, which should be unity.
-  $\mathrm{ERF}_\mathrm{sst}$ comes out best (effective radiative forcing from fixed
-  sea-surface temperature).
-- ==Uses large aerosol perturbations, and it is assumed that the temperature response
-  scales linearly with forcing strengths. Calls for further studies to explore that.==
-
-### 2020 — Gregory et al.: How accurately can the climate sensitivity to CO~2~ be estimated from historical climate change?
-
-- Volcanic forcing in the mean of CMIP5 is 80% of the AR5 estimate, which is attributed
-  to rapid cloud adjustments not included in the AR5 estimate
-- For volcanic aerosol, $\alpha$ _may_ be larger than for CO~2~ (EffCS smaller,
-  efficacy, less than unity), since regression of $R=F-N$ (annual mean) against $T$ is
-  much steeper.
-- EffCS is higher when volcanic forcing is relatively less important (see similar trend
-  when volcanoes are not present, 1945-1975, and when CO~2~ is dominant, 1975–2005).
-- CMIP5 AOGCMs are not realistic in their response to volcanic forcing. In the real
-  world, instead of causing a rapid cooling of $T$, volcanoes have the effect of
-  "sucking" heat from the ocean beneath.
-
 ## Original source paper
+
+### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo
+
+> _Full title: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate
+> Feedback by Water Vapor._
+>
+> DOI: [10.1126/science.296.5568.727](https://www.science.org/doi/10.1126/science.296.5568.727)
+
+#### Water vapour introduction
+
+- They show: without the strong _positive_ feedback from water-vapour, the model is
+  unable to reproduce the observed cooling.
+- Hence, climate models heavily rely on the water-vapour feedback.
+- WV the dominant greenhouse gas and provides the largest feedback for amplifying
+  climate change.
+- Increases with temperature → doubles the sensitivity of temperature to an increase in
+  anthropogenic greenhouse gases.
+- If the actual feedback is weaker, uncertainty would be smaller.
+- __How well represented is it in climate models?__ (Refs. 6 & 7)
+
+#### Role of volcanoes
+
+- Volcanoes provide valuable observations of the system's response (transient) to an
+  external radiative forcing. Aerosols spread largely in the lower stratosphere.
+- Effective at scattering sunlight, bad at absorbing long wave radiation.
+- Mount Pinatubo cooled the lower troposphere → reduction in global water vapour
+  concentration.
+
+#### Simulations
+
+- Uses a GCM, mixed-layer ocean.
+- Starting 5 months before the eruption, lasting 5 years.
+- Three pairs with: control & Mount Pinatubo (observed zonal mean distribution of
+  aerosols).
+- Data indicate peak 18 months after eruption (0.5 K cooling).
+
+### 2004 — Wigley et al.: Effect of climate sensitivity on the response to volcanic forcing
+
+> DOI: [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
+
+#### Introduction
+
+- Wants to: obtain improved estimate of the underlying response of 20th century global
+  mean temperature to volcanic forcing.
+- Also use simulations to reduce internally generated noise (16 coupled AOGCM)
+- __Maximum cooling depend on sensitivity raised to power 0.37.__
+- Temperature relaxes back with $e$-folding time of 29--43 months.
+- Pinatubo requires sensitivity above the $1.5^\circ\text{C}$ (lower bound). None of the
+  eruptions rule out sensitivity above $4.5^\circ$C.
+- Problems when comparing modelled and observed effects are
+  1. Poor forcing precision at earlier times
+  2. Signal to noise ratio. Response is quick and decays after a relatively short time
+  3. Forcing events lasting shorter than 5 years are less sensitive to $\Delta T2x$ than
+     longer ones.
+  4. Sensitivity may depend on the nature of the forcing and the spatial distribution.
+- [LG98](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JD00125) note that
+  response to consecutive eruptions has closer dependence with $\Delta T2x$.
+  - 3-box EBM, $400\,$m deep, diffusive ocean
+
+#### Simulations
+
+- Good agreement between MAGICC (model) and AOGCM.
+- They quantified relaxation timescales by fitting exponential decay curves.
+
+### 2005 — Yokohata et al.: Climate response to volcanic forcing: Validation of climate sensitivity of a coupled atmosphere-ocean general circulation model
+
+### 2006 — Douglass et al.: Thermocline flux exchange during the Pinatubo event
 
 ### 2007 — Boer et al.: Inferring climate sensitivity from volcanic events
 
+### 2010 — Bender et al.: Response to the eruption of Mount Pinatubo in relation to climate sensitivity in the CMIP3 models
+
 ### 2012 — Lovejoy and Schertzer: Stochastic and scaling climate sensitivities: Solar, volcanic, and orbital forcings
+
+### 2014 — Merlis et al.: Constraining Transient Climate Sensitivity Using Coupled Climate Model Simulations of Volcanic Eruptions
+
+### 2014 — Arfeuille et al.: Volcanic forcing for a climate modelling: a new microphysics-based data set covering years 1600-present
+
+### 2015 — Sigl et al.: Timing and climate forcing of volcanic eruptions for the past 2,500 years
 
 ### 2016 — Ollila: Climate Sensitivity Parameter in the Test of the Mount Pinatubo Eruption
 
@@ -172,86 +247,11 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 
 ### 2016 — Santer et al.: Volcanic effects on climate
 
-### 2014 — Merlis et al.: Constraining Transient Climate Sensitivity Using Coupled Climate Model Simulations of Volcanic Eruptions
-
-### 2004 — Wigley et al.: Effect of climate sensitivity on the response to volcanic forcing
-
-> DOI: [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
-
-#### Introduction
-
-- Wants to: obtain improved estimate of the underlying response of 20th century global
-  mean temperature to volcanic forcing.
-- Also use simulations to reduce internally generated noise (16 coupled AOGCM)
-- __Maximum cooling depend on sensitivity raised to power 0.37.__
-- Temperature relaxes back with $e$-folding time of 29--43 months.
-- Pinatubo requires sensitivity above the $1.5^\circ\text{C}$ (lower bound). None of the
-  eruptions rule out sensitivity above $4.5^\circ$C.
-- Problems when comparing modelled and observed effects are
-  1. Poor forcing precision at earlier times
-  2. Signal to noise ratio. Response is quick and decays after a relatively short time
-  3. Forcing events lasting shorter than 5 years are less sensitive to $\Delta T2x$ than
-     longer ones.
-  4. Sensitivity may depend on the nature of the forcing and the spatial distribution.
-- [LG98](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JD00125) note that
-  response to consecutive eruptions has closer dependence with $\Delta T2x$.
-  - 3-box EBM, $400\,$m deep, diffusive ocean
-
-#### Simulations
-
-- Good agreement between MAGICC (model) and AOGCM.
-- They quantified relaxation timescales by fitting exponential decay curves.
-
-### 2005 — Yokohata et al.: Climate response to volcanic forcing: Validation of climate sensitivity of a coupled atmosphere-ocean general circulation model
-
-### 2010 — Bender et al.: Response to the eruption of Mount Pinatubo in relation to climate sensitivity in the CMIP3 models
-
-### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo
-
-> _Full title: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate
-> Feedback by Water Vapor._
->
-> DOI: [10.1126/science.296.5568.727](https://www.science.org/doi/10.1126/science.296.5568.727)
-
-#### Water vapour introduction
-
-- They show: without the strong _positive_ feedback from water-vapour, the model is
-  unable to reproduce the observed cooling.
-- Hence, climate models heavily rely on the water-vapour feedback.
-- WV the dominant greenhouse gas and provides the largest feedback for amplifying
-  climate change.
-- Increases with temperature → doubles the sensitivity of temperature to an increase in
-  anthropogenic greenhouse gases.
-- If the actual feedback is weaker, uncertainty would be smaller.
-- __How well represented is it in climate models?__ (Refs. 6 & 7)
-
-#### Role of volcanoes
-
-- Volcanoes provide valuable observations of the system's response (transient) to an
-  external radiative forcing. Aerosols spread largely in the lower stratosphere.
-- Effective at scattering sunlight, bad at absorbing long wave radiation.
-- Mount Pinatubo cooled the lower troposphere → reduction in global water vapour
-  concentration.
-
-#### Simulations
-
-- Uses a GCM, mixed-layer ocean.
-- Starting 5 months before the eruption, lasting 5 years.
-- Three pairs with: control & Mount Pinatubo (observed zonal mean distribution of
-  aerosols).
-- Data indicate peak 18 months after eruption (0.5 K cooling).
-
-### 2006 — Douglass et al.: Thermocline flux exchange during the Pinatubo event
-
-### 2020 — Ghil and Lucarini: The physics of climate variability and climate change
-
 ### 2016 — Lovejoy and Varotsos: Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings
 
 ### 2016 — Rypdal and Rypdal: Late Quaternary temperature variability described as abrupt transitions on a $1/f$ noise background
 
 ### 2016 — Rypdal and Rypdal: Comment on “Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings" by S. Lovejoy and C. Varotsos (2016)
-
-### 2019 — Rugenstein et al.: LongRunMIP: Motivation and Design for a Large Collection of Millennial-Length AOGCM Simulations
 
 ### 2017 — Knutti et al.: Beyond equilibrium climate sensitivity
 
@@ -259,9 +259,9 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 
 ### 2018 — Sukhodolov et al.: Stratospheric aerosol evolution after Pinatubo simulated with a coupled size-resolved aerosol-chemistry-climate model, SOCOL-AERv1.0
 
-### 2015 — Sigl et al.: Timing and climate forcing of volcanic eruptions for the past 2,500 years
+### 2019 — Rugenstein et al.: LongRunMIP: Motivation and Design for a Large Collection of Millennial-Length AOGCM Simulations
 
-### 2014 — Arfeuille et al.: Volcanic forcing for a climate modelling: a new microphysics-based data set covering years 1600-present
+### 2020 — Ghil and Lucarini: The physics of climate variability and climate change
 
 ### 2020 — Danabasoglu et al.: The Community Earth System Model Version 2 (CESM2)
 
