@@ -2,13 +2,13 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w)
 
-> ___Overview of papers.___
+> **_Overview of papers._**
 > [color=#907bf7]
 
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
-are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMIP tier
-3) and '__[past1000-volc-cluster]__' (PMIP tier 3, this includes all external drivers).
+are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMIP tier
+3) and '**[past1000-volc-cluster]**' (PMIP tier 3, this includes all external drivers).
 :::
 
 ## Literature
@@ -57,22 +57,22 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
   somewhat enhanced.
 - TAS in high load hemispheres are comparable to Pinatubo
 - Stronger impact on precipitation and TC than Pinatubo
-- __Transient climate sensitivity is not proportional:__ largest from Santa Maria (NH),
+- **Transient climate sensitivity is not proportional:** largest from Santa Maria (NH),
   identical from Pinatubo (both) and Agung (SH).
 - Usually it is assumed that weaker eruptions have weaker impact, this demonstrates the
   opposite can be the case.
-- This highlight __importance of spatial structures__.
+- This highlight **importance of spatial structures**.
 - Crucial to obtain an accurate reconstruction of volcanic aerosol radiative property
   spatial structure.
 
 ### 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
 
 - Quantifying forcing efficacies and understanding how robust they are across different
-  models are of significant importance
+  models are of substantial importance
 - Compares six different ways of estimating forcing from different forcing agents, and
   evaluates their appropriateness based on the efficacies, which should be unity.
-  $\mathrm{ERF}_\mathrm{sst}$ comes out best (effective radiative forcing from fixed
-  sea-surface temperature).
+  $\mathrm{ERF}_\mathrm{sst}$ comes out as optimal (effective radiative forcing from
+  fixed sea-surface temperature).
 - ==Uses large aerosol perturbations, and it is assumed that the temperature response
   scales linearly with forcing strengths. Calls for further studies to explore that.==
 
@@ -105,8 +105,8 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 - Some ensemble members warm at high latitudes
 - ==Robust feature:== The inter-hemispheric asymmetry in the temperature response of the
   climate system response to approximately hemispherically symmetric volcanic forcing
-- __Despite the dissimilar physical nature of the forcings, same asymmetric fast
-  response to CO2 is what they find here for symmetric volcanic forcing__
+- **Despite the dissimilar physical nature of the forcings, same asymmetric fast
+  response to CO2 is what they find here for symmetric volcanic forcing**
 
 ### 2022 — Salvi et al.: Interpreting differences in radiative feedbacks from aerosols versus greenhouse gases
 
@@ -141,7 +141,7 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 - Increases with temperature → doubles the sensitivity of temperature to an increase in
   anthropogenic greenhouse gases.
 - If the actual feedback is weaker, uncertainty would be smaller.
-- __How well represented is it in climate models?__ (Refs. 6 & 7)
+- **How well represented is it in climate models?** (Refs. 6 & 7)
 
 #### Role of volcanoes
 
@@ -168,7 +168,7 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 - Wants to: obtain improved estimate of the underlying response of 20th century global
   mean temperature to volcanic forcing.
 - Also use simulations to reduce internally generated noise (16 coupled AOGCM)
-- __Maximum cooling depend on sensitivity raised to power 0.37.__
+- **Maximum cooling depend on sensitivity raised to power 0.37.**
 - Temperature relaxes back with $e$-folding time of 29--43 months.
 - Pinatubo requires sensitivity above the $1.5^\circ\text{C}$ (lower bound). None of the
   eruptions rule out sensitivity above $4.5^\circ$C.
@@ -193,6 +193,20 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 
 ### 2007 — Boer et al.: Inferring climate sensitivity from volcanic events
 
+- For volcano-like forcing the global mean surface temperature responses of the models
+  are very similar, despite their differing equilibrium climate sensitivities,
+  indicating that climate sensitivity cannot be inferred from the temperature record
+  alone even if the forcing is known.
+- The overall conclusion is that climate sensitivity cannot be inferred directly from
+  the global average temperature response to volcano-like forcing even if the forcing is
+  known. An independent knowledge of the heat penetration into the deep ocean is
+  required.
+- One possibility is that the real climate system operates in a manner similar to the
+  slab ocean model (rather than the full ocean model).
+- The experiments support the possibility of inferring the climate sensitivity of the
+  real system by studying the impact of volcanoes provided that both the forcing and the
+  heat storage in the system are known with sufficient accuracy.
+
 ### 2010 — Bender et al.: Response to the eruption of Mount Pinatubo in relation to climate sensitivity in the CMIP3 models
 
 ### 2012 — Lovejoy and Schertzer: Stochastic and scaling climate sensitivities: Solar, volcanic, and orbital forcings
@@ -201,7 +215,16 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 
 ### 2014 — Arfeuille et al.: Volcanic forcing for a climate modelling: a new microphysics-based data set covering years 1600-present
 
+- NH extra-tropical eruptions tend to exhibit smaller effective radii than tropical
+  eruptison for a given SO~2~ erupted mass
+
 ### 2015 — Sigl et al.: Timing and climate forcing of volcanic eruptions for the past 2,500 years
+
+- The findings indicate that eruption-induced climate anomalies following large tropical
+  eruptions may last longer than is indicated in many climate simulations (<3–5 years).
+- They suggest that potential positive feedbacks initiated after large tropical
+  eruptions (for example, sea-ice feedbacks) may not be adequately represented in
+  climate simulations.
 
 ### 2016 — Ollila: Climate Sensitivity Parameter in the Test of the Mount Pinatubo Eruption
 
@@ -210,7 +233,6 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 
 - Time constants for the ocean of $2.74$ months and for the land of $1.04$ months are
   accurate and applicable in the dynamic analysis.
-
 
 ### 2016 — Marvel et al.: Implications for climate sensitivity form the response to individual forcings
 
@@ -225,7 +247,7 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
   response to volcanic eruptions is consistent, within uncertainties, between models and
   observations. This holds in particular for the coincidence of El Niño events (be it by
   chance or due to an eruption triggering an El Niño event).
-- __Subject of ongoing research:__ how (and if) Southern Annular Mode is confounded by
+- **Subject of ongoing research:** how (and if) Southern Annular Mode is confounded by
   superposition of eruptions and El Niño events.
 
 ### 2016 — Gregory et al.: Small global-mean cooling due to volcanic radiative forcing
@@ -236,8 +258,8 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
   $\text{W}\text{m}^{-2}$) show a linear trend (fig. 4)
 - Their zero layer model overestimate the sudden cooling in the AOGCMs from short-lived
   large negative forcing from volcanic eruptions. Assumed to be due to the zero layer
-  model neglecting upper-layer heat capacity. __Thus, difference in CO2 vs. volcano
-  forcing is not the sign, but the timescale__.
+  model neglecting upper-layer heat capacity. **Thus, difference in CO2 vs. volcano
+  forcing is not the sign, but the timescale**.
 - Would be useful for investigation of volcanic forcing and feedback in CMIP6 if
   ensemble experiments had only historical aerosol forcing, to diagnose the climate
   response. Further, with AGCMs with prescribed sea surface conditions, to diagnose the
@@ -249,15 +271,65 @@ are: '__[volc-cluster-ctrl]__' (VolMIP tier 2), '__[volc-cluster-mill]__' (VolMI
 
 ### 2016 — Lovejoy and Varotsos: Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings
 
+- One study suggested that volcanic forcing never equilibrates (too little time in
+  between eruptions, eruptions occur over all observed timescales)
+- Volcanic forcings was seen to be strong at annual scales but decreasing ($H<0$) while
+  the solar forcing was small at annual scales and increasing ($H>0$)
+
 ### 2016 — Rypdal and Rypdal: Late Quaternary temperature variability described as abrupt transitions on a $1/f$ noise background
+
+- The $1/f$ noise characterization of the temporal fluctuations in global mean surface
+  temperature is robust — accurate for the Holocene climate
+- Processes that exhibit power-law structure functions and strictly concave scaling
+  functions can be characterized as multifractal intermittent
+- For a monofractal (monoscaling) process, the scaling function is linear in
+- The analysis give no evidence of multifractal intermittency in the temperature records
+- Multifractal intermittency implies that amplitudes of random fluctuations are
+  clustered in time on all timescales (e.g., intermittent turbulence). This is not
+  observed here, most reasonably modelled as monofractals
 
 ### 2016 — Rypdal and Rypdal: Comment on “Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings" by S. Lovejoy and C. Varotsos (2016)
 
+- The question is not whether non-linearities are present in the Zebiak-Cane or GCM
+  models (it is), but whether these non-linearities are detectable in the global
+  temperature response
+- No reason why responses should be more linear on short than on long timescales, in
+  particular not the response to burst-like volcanic forcing
+
 ### 2017 — Knutti et al.: Beyond equilibrium climate sensitivity
+
+- “But even more pressing are the debates about fair contributions for each country in
+  reducing emissions, helping others to do so, and adapt, and the lack of willingness to
+  step up and lead the pack.”
+- Discrepancy and lack of progress? Models favour ECS in the upper part of the “likely”
+  range.
+- Big concern that many climate models share the same limitations, same imperfect
+  observations
+- Clouds are the largest uncertainty feedback
+- Easier to produce a model with good performance on mean climate and a climate
+  sensitivity above the IPCC range
+- Uncertainties also in observations, making even multidecadal trends uncertain
+- _Most pressing issue:_ Growing concern that a single constant climate feedback
+  parameter (λ) is unrealistic. Neglects differences in the temperature response to
+  forcing that are not captured by a forcing efficacy.
+- Therefore, ECS also (including TCR) depend strongly on ocean heat uptake and
+  circulation response
+- Forcings may not be additive, but depend on the type and magnitude of the forcing
+- ECS estimates assuming a constant λ are probably underestimates
 
 ### 2018 — Theodorsen et al.: Universality of Poisson-driven plasma fluctuations in the Alcator C-Mod scrape-off layer
 
 ### 2018 — Sukhodolov et al.: Stratospheric aerosol evolution after Pinatubo simulated with a coupled size-resolved aerosol-chemistry-climate model, SOCOL-AERv1.0
+
+- An intercomparison revealed that modelled volcanic sulphate deposition varies
+  substantially in timing, spatial pattern, and magnitude between the models
+- Still no clear understanding of which model is closer to reality in describing the
+  stratospheric aerosol distribution
+- Even with a fine aerosol size resolution, resulting sedimentation can be biased due to
+  the model’s numerical scheme
+- There is rising interest among the climate community in global models with interactive
+  aerosol microphysics, partly because of the unclear role of major and smaller
+  volcanoes in the future climate (e.g., Bethke et al., 2017; Klobas et al., 2017)
 
 ### 2019 — Rugenstein et al.: LongRunMIP: Motivation and Design for a Large Collection of Millennial-Length AOGCM Simulations
 
