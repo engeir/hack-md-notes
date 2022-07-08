@@ -189,6 +189,11 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2005 — Yokohata et al.: Climate response to volcanic forcing: Validation of climate sensitivity of a coupled atmosphere-ocean general circulation model
 
+- Simulations of volcanic cooling using a GCM have not been considered to date (2005) as
+  a test of climate sensitivity.
+- Here, Mt. Pinatubo is simulated with low- and high-sensitivity GCMs (differ in how
+  they treat clouds).
+
 ### 2006 — Douglass et al.: Thermocline flux exchange during the Pinatubo event
 
 ### 2007 — Boer et al.: Inferring climate sensitivity from volcanic events
