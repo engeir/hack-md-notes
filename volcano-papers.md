@@ -31,6 +31,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 - AOD of ~15, similar in size to Toba 72ky ago (two orders of magnitude larger than
   Mount Pinatubo, i.e., Pinatubo volcanic aerosol time 100).
 
+### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
+
 ### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model
 
 > _Full title: Climate Impacts From Large Volcanic Eruptions in a High-Resolution
@@ -274,6 +276,13 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2016 — Santer et al.: Volcanic effects on climate
 
+- Uncertainties in $\Delta T_{(t)}^{\mathrm{Vol}}$ are larger than what reported by
+  Johansson et al. (2015).
+- El Niño in 1980- and 90s masks cooling from El Chichón and Pinatubo and hamper
+  reliable estimation of the true cooling signal.
+- Concerning that Johansson et al.\ infer a posterior average estimate of
+  $F^{\mathrm{Pn}}$ that is substantially smaller than that obtained from observations.
+
 ### 2016 — Lovejoy and Varotsos: Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings
 
 - One study suggested that volcanic forcing never equilibrates (too little time in
@@ -338,9 +347,15 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2019 — Rugenstein et al.: LongRunMIP: Motivation and Design for a Large Collection of Millennial-Length AOGCM Simulations
 
+- Reference material
+
 ### 2020 — Ghil and Lucarini: The physics of climate variability and climate change
 
+- Reference material
+
 ### 2020 — Danabasoglu et al.: The Community Earth System Model Version 2 (CESM2)
+
+- Reference material
 
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
