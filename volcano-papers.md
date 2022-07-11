@@ -33,6 +33,11 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
 
+- The warming hiatus (1980- and 90s) is primarily attributable to El Niño/Southern
+  Oscillation-related variability and reduced solar forcing.
+- We suggest that it is too early to conclude that the hiatus has had any particular
+  impact on estimates of ECS.
+
 ### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model
 
 > _Full title: Climate Impacts From Large Volcanic Eruptions in a High-Resolution
