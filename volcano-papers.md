@@ -252,6 +252,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   changing temperatures than CO~2~.
 - =='historical-misc' archive includes 1850--2005 runs of single forcings, including
   volcanic forcing.==
+- The use of effective (rather than instantaneous) radiative forcing may render the
+  sensitivities from GHG-only and historical simulations more directly comparable.
 
 ### 2016 — Lehner et al.: The importance of ENSO phase during volcanic eruptions for detection and attribution
 
