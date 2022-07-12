@@ -2,8 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w)
 
-> **_Overview of papers._**
-> [color=#907bf7]
+> **_Overview of papers._** [color=#907bf7]
 
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
@@ -241,7 +240,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 ### 2016 — Ollila: Climate Sensitivity Parameter in the Test of the Mount Pinatubo Eruption
 
 > DOI: [10.9734/PSIJ/2016/23242](https://doi.org/10.9734/PSIJ/2016/23242)
-  ([PDF](https://www.academia.edu/download/48400134/Ollila-Pinatubo_eruption.pdf))
+> ([PDF](https://www.academia.edu/download/48400134/Ollila-Pinatubo_eruption.pdf))
 
 - Time constants for the ocean of $2.74$ months and for the land of $1.04$ months are
   accurate and applicable in the dynamic analysis.
