@@ -1,5 +1,7 @@
 # Possible courses for fall 2022
 
+> See the list of courses at [csu courses] [color=#907bf7]
+
 | ==Course==, **Credits**, Requisites                                             | Title                                        | Description                                                                                                                                                                                                                                | Offered         | My notes                                              |
 | ------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ----------------------------------------------------- |
 | ==721==, **3 (3 0 0)**, ATS 622                                                 | Theoretical Topics in Radiative Transfer     | Physics of atmospheric radiation; theoretical techniques used to show radiation transfer equation                                                                                                                                          | Fall            | Sounds interesting, radiation is relevant             |
@@ -17,3 +19,5 @@
 > - b: Lecture hours
 > - c: Lab hours
 > - d: Discussion hours
+
+[csu courses]: https://www.atmos.colostate.edu/gradprog/courses.php
