@@ -1,3 +1,7 @@
+---
+tags: Notes
+---
+
 # Possible courses for fall 2022
 
 > See the list of courses at [csu courses] [color=#907bf7]
