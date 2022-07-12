@@ -248,6 +248,11 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2016 — Marvel et al.: Implications for climate sensitivity form the response to individual forcings
 
+- Forcing that project more strongly on the Northern Hemisphere are more effective at
+  changing temperatures than CO~2~.
+- =='historical-misc' archive includes 1850--2005 runs of single forcings, including
+  volcanic forcing.==
+
 ### 2016 — Lehner et al.: The importance of ENSO phase during volcanic eruptions for detection and attribution
 
 > DOI: [10.1002/2016GL067935](https://doi.org/10.1002/2016GL067935)
@@ -285,7 +290,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   Johansson et al. (2015).
 - El Niño in 1980- and 90s masks cooling from El Chichón and Pinatubo and hamper
   reliable estimation of the true cooling signal.
-- Concerning that Johansson et al.\ infer a posterior average estimate of
+- Concerning that Johansson et al. infer a posterior average estimate of
   $F^{\mathrm{Pn}}$ that is substantially smaller than that obtained from observations.
 
 ### 2016 — Lovejoy and Varotsos: Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings
