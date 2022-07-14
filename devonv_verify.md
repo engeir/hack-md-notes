@@ -1,5 +1,5 @@
 ---
-tags: showcase, notes
+tags: Showcase, Notes
 geometry: margin=3cm,top=3cm
 ---
 
