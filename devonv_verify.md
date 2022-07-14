@@ -5,7 +5,7 @@ geometry: margin=3cm,top=3cm
 
 # Deconvolution of CESM2 data
 
-[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/HJ5zwhhsq/edit)
+[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/HJ5zwhhsq)
 
 ## Looking at raw data
 
