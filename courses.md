@@ -1,5 +1,6 @@
 ---
 tags: Notes
+lang: "en-us"
 ---
 
 # Possible courses for fall 2022
