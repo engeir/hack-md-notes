@@ -1,5 +1,5 @@
-# State of the Art
+# HackMD notes
 
-Notes that summarise the state of the art within topics:
+Notes that are easily sharable via HackMD.
 
 - [Volcanic impact on the climate system](./volcano-papers.md)

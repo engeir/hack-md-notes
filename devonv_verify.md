@@ -10,7 +10,7 @@ geometry: margin=3cm,top=3cm
 The raw data, median over an ensemble of four simulations, one for each season. Overlaid
 are Savitzky-Golay filters, but where the initial rise is swapped with a log func:
 
-![Initial smoothing](https://raw.githubusercontent.com/engeir/state-of-art-volcanoes-in-climate/636abd85af0142d8f162aaa1636f567f5c020ede/pic/easy_smooth.png?token=GHSAT0AAAAAABWTVV7KLTMZ4CPQF55VM5KKYWQLUYA "Initial smoothing")
+![Initial smoothing](https://raw.githubusercontent.com/engeir/state-of-art-volcanoes-in-climate/009c119fdc3adb488515774cdc457d934e37b242/pic/easy_smooth.png?token=GHSAT0AAAAAABWTVV7K7EGK4SZM7BAFF4GMYWQRJCA "Initial smoothing")
 
 ## Change tails
 
