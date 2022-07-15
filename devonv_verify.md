@@ -11,7 +11,7 @@ geometry: margin=3cm,top=3cm
 ## Looking at raw data
 
 The raw data, median over an ensemble of four simulations, one for each season. Overlaid
-are Savitzky-Golay filters, but where the initial rise is swapped with a log func:
+are Savitzky-Golay filters, but where the initial rise is swapped with a log function:
 
 ![Initial smoothing](https://raw.githubusercontent.com/engeir/state-of-art-volcanoes-in-climate/009c119fdc3adb488515774cdc457d934e37b242/pic/easy_smooth.png?token=GHSAT0AAAAAABWTVV7K7EGK4SZM7BAFF4GMYWQRJCA "Initial smoothing")
 
@@ -31,7 +31,7 @@ with longer exponential and power law tails):
 
 ## Synthetic signal
 
-Now, create a custom response signal, convolve with extended forcing above so it come
+Now, create a custom response signal, convolve with extended forcing above, so it comes
 close to the extended temperature above:
 
 ![Extended forcing and temp, and new temp from convolving](https://raw.githubusercontent.com/engeir/state-of-art-volcanoes-in-climate/636abd85af0142d8f162aaa1636f567f5c020ede/pic/fake_signal.png?token=GHSAT0AAAAAABWTVV7LFWLKBTOVMY5DGEBAYWQLX4Q "Extended forcing and temp, and new temp from convolving")
@@ -44,8 +44,8 @@ close to the extended temperature above:
 
 ## Adding noise
 
-Adding some noise to the forcing and the temperature from convolution in fig.\ (4);
-still too little noise on the forcing compared to the ogiginal in fig.\ (1):
+Adding some noise to the forcing and the temperature from convolution in fig. (4);
+still too little noise on the forcing compared to the original in fig. (1):
 
 ![Additive noise to F and T in fig.\ (4)](https://raw.githubusercontent.com/engeir/state-of-art-volcanoes-in-climate/636abd85af0142d8f162aaa1636f567f5c020ede/pic/add_noise.png?token=GHSAT0AAAAAABWTVV7LDDS2QX63SDIBJ4JMYWQLY2A "Additive noise to F and T in fig. (4)")
 
@@ -74,8 +74,8 @@ match the noise we have in the original from finding the median.
 <!-- \caption{Train of pulses with additivie noise} -->
 <!-- \end{figure} -->
 
-From the deconvolution we now get something that very much has the same shape as the
-original we are looking for:
+From the deconvolution we now get something that is close to having the same shape as
+the original we are looking for:
 
 ![Train deconvolved](https://raw.githubusercontent.com/engeir/state-of-art-volcanoes-in-climate/636abd85af0142d8f162aaa1636f567f5c020ede/pic/train_conv_deconv.png?token=GHSAT0AAAAAABWTVV7KVQWOTLAIVR2P7OKGYWQL3UA "Train deconvolved")
 
@@ -84,3 +84,8 @@ original we are looking for:
 <!-- \begin{figure}[!h] -->
 <!-- \caption{Deconvolving (T+N) and (F+N) to get an estimate of R, with original overlaid} -->
 <!-- \end{figure} -->
+
+Still a lot of noise, and since the forcing is appended to itself we get some strange
+artefacts at every 30000 element where noise suddenly drops. This will improve with
+pulses that appear naturally after each other and with the corresponding temperature
+(i.e., not created from convolution).
