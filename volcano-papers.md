@@ -42,11 +42,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 - We suggest that it is too early to conclude that the hiatus has had any particular
   impact on estimates of ECS.
 
-### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model
+### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure._
 
-> _Full title: Climate Impacts From Large Volcanic Eruptions in a High-Resolution
-> Climate Model: The importance of Forcing Structure._
->
 > DOI: [10.1029/2019GL082367](https://doi.org/10.1029/2019GL082367)
 
 #### Introduction
@@ -135,11 +132,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ## Original source paper
 
-### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo
+### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor._
 
-> _Full title: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate
-> Feedback by Water Vapor._
->
 > DOI: [10.1126/science.296.5568.727](https://www.science.org/doi/10.1126/science.296.5568.727)
 
 #### Water vapour introduction
