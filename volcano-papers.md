@@ -5,6 +5,7 @@ tags: Science, Papers
 # State-of-the-art: volcanic impact of Earth's climate
 
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w)
+[![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/volcano-papers.md)
 
 > **_Overview of papers._** [color=#907bf7]
 
