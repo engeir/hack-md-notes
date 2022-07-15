@@ -37,6 +37,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
 
+> DOI: [10.1038/nclimate2573](https://doi.org/10.1038/nclimate2573)
+
 - The warming hiatus (1980- and 90s) is primarily attributable to El Niño/Southern
   Oscillation-related variability and reduced solar forcing.
 - We suggest that it is too early to conclude that the hiatus has had any particular
@@ -75,6 +77,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
 
+> DOI: [10.1029/2019JD030581](https://doi.org/10.1029/2019JD030581)
+
 - Quantifying forcing efficacies and understanding how robust they are across different
   models are of substantial importance
 - Compares six different ways of estimating forcing from different forcing agents, and
@@ -85,6 +89,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   scales linearly with forcing strengths. Calls for further studies to explore that.==
 
 ### 2020 — Gregory et al.: How accurately can the climate sensitivity to CO~2~ be estimated from historical climate change?
+
+> DOI: [10.1007/s00382-019-04991-y](https://doi.org/10.1007/s00382-019-04991-y)
 
 - Volcanic forcing in the mean of CMIP5 is 80% of the AR5 estimate, which is attributed
   to rapid cloud adjustments not included in the AR5 estimate
@@ -117,6 +123,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   response to CO2 is what they find here for symmetric volcanic forcing**
 
 ### 2022 — Salvi et al.: Interpreting differences in radiative feedbacks from aerosols versus greenhouse gases
+
+> DOI: [10.1029/2022GL097766](https://doi.org/10.1029/2022GL097766)
 
 - ==Not a consensus on whether $\alpha$ (climate feedback parameter — $N=F-\alpha T$)
   depends on the different forcing agents.==
@@ -194,6 +202,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2005 — Yokohata et al.: Climate response to volcanic forcing: Validation of climate sensitivity of a coupled atmosphere-ocean general circulation model
 
+> DOI: [10.1029/2005GL023542](https://doi.org/10.1029/2005GL023542)
+
 - Simulations of volcanic cooling using a GCM have not been considered to date (2005) as
   a test of climate sensitivity.
 - Here, Mt. Pinatubo is simulated with low- and high-sensitivity GCMs (differ in how
@@ -201,7 +211,11 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2006 — Douglass et al.: Thermocline flux exchange during the Pinatubo event
 
+> DOI: [10.1029/2006GL026355](https://doi.org/10.1029/2006GL026355)
+
 ### 2007 — Boer et al.: Inferring climate sensitivity from volcanic events
+
+> DOI: [10.1007/s00382-006-0193-x](https://doi.org/10.1007/s00382-006-0193-x)
 
 - For volcano-like forcing the global mean surface temperature responses of the models
   are very similar, despite their differing equilibrium climate sensitivities,
@@ -219,16 +233,26 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2010 — Bender et al.: Response to the eruption of Mount Pinatubo in relation to climate sensitivity in the CMIP3 models
 
+> DOI: [10.1007/s00382-010-0777-3](https://doi.org/10.1007/s00382-010-0777-3)
+
 ### 2012 — Lovejoy and Schertzer: Stochastic and scaling climate sensitivities: Solar, volcanic, and orbital forcings
+
+> DOI: [10.1029/2012GL051871](https://doi.org/10.1029/2012GL051871)
 
 ### 2014 — Merlis et al.: Constraining Transient Climate Sensitivity Using Coupled Climate Model Simulations of Volcanic Eruptions
 
+> DOI: [10.1175/JCLI-D-14-00214.1](https://doi.org/10.1175/JCLI-D-14-00214.1)
+
 ### 2014 — Arfeuille et al.: Volcanic forcing for a climate modelling: a new microphysics-based data set covering years 1600-present
+
+> DOI: [10.5194/cp-10-359-2014](https://doi.org/10.5194/cp-10-359-2014)
 
 - NH extra-tropical eruptions tend to exhibit smaller effective radii than tropical
   eruptison for a given SO~2~ erupted mass
 
 ### 2015 — Sigl et al.: Timing and climate forcing of volcanic eruptions for the past 2,500 years
+
+> DOI: [10.1038/nature14565](https://doi.org/10.1038/nature14565)
 
 - The findings indicate that eruption-induced climate anomalies following large tropical
   eruptions may last longer than is indicated in many climate simulations (<3–5 years).
@@ -239,12 +263,13 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 ### 2016 — Ollila: Climate Sensitivity Parameter in the Test of the Mount Pinatubo Eruption
 
 > DOI: [10.9734/PSIJ/2016/23242](https://doi.org/10.9734/PSIJ/2016/23242)
-> ([PDF](https://www.academia.edu/download/48400134/Ollila-Pinatubo_eruption.pdf))
 
 - Time constants for the ocean of $2.74$ months and for the land of $1.04$ months are
   accurate and applicable in the dynamic analysis.
 
 ### 2016 — Marvel et al.: Implications for climate sensitivity form the response to individual forcings
+
+> DOI: [10.1038/nclimate2888](https://doi.org/10.1038/nclimate2888)
 
 - Forcing that project more strongly on the Northern Hemisphere are more effective at
   changing temperatures than CO~2~.
@@ -286,6 +311,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2016 — Santer et al.: Volcanic effects on climate
 
+> DOI: [10.1038/nclimate2859](https://doi.org/10.1038/nclimate2859)
+
 - Uncertainties in $\Delta T_{(t)}^{\mathrm{Vol}}$ are larger than what reported by
   Johansson et al. (2015).
 - El Niño in 1980- and 90s masks cooling from El Chichón and Pinatubo and hamper
@@ -295,12 +322,16 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2016 — Lovejoy and Varotsos: Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings
 
+> DOI: [10.5194/esd-7-133-2016](https://doi.org/10.5194/esd-7-133-2016)
+
 - One study suggested that volcanic forcing never equilibrates (too little time in
   between eruptions, eruptions occur over all observed timescales)
 - Volcanic forcings was seen to be strong at annual scales but decreasing ($H<0$) while
   the solar forcing was small at annual scales and increasing ($H>0$)
 
 ### 2016 — Rypdal and Rypdal: Late Quaternary temperature variability described as abrupt transitions on a $1/f$ noise background
+
+> DOI: [10.5194/esd-7-281-2016](https://doi.org/10.5194/esd-7-281-2016)
 
 - The $1/f$ noise characterization of the temporal fluctuations in global mean surface
   temperature is robust — accurate for the Holocene climate
@@ -314,6 +345,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2016 — Rypdal and Rypdal: Comment on “Scaling regimes and linear/nonlinear responses of last millennium climate to volcanic and solar forcings" by S. Lovejoy and C. Varotsos (2016)
 
+> DOI: [10.5194/esd-7-597-2016](https://doi.org/10.5194/esd-7-597-2016)
+
 - The question is not whether non-linearities are present in the Zebiak-Cane or GCM
   models (it is), but whether these non-linearities are detectable in the global
   temperature response
@@ -321,6 +354,8 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   particular not the response to burst-like volcanic forcing
 
 ### 2017 — Knutti et al.: Beyond equilibrium climate sensitivity
+
+> DOI: [10.1038/ngeo3017](https://doi.org/10.1038/ngeo3017)
 
 - “But even more pressing are the debates about fair contributions for each country in
   reducing emissions, helping others to do so, and adapt, and the lack of willingness to
@@ -343,7 +378,11 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2018 — Theodorsen et al.: Universality of Poisson-driven plasma fluctuations in the Alcator C-Mod scrape-off layer
 
+> DOI: [10.1063/1.5064744](https://doi.org/10.1063/1.5064744)
+
 ### 2018 — Sukhodolov et al.: Stratospheric aerosol evolution after Pinatubo simulated with a coupled size-resolved aerosol-chemistry-climate model, SOCOL-AERv1.0
+
+> DOI: [10.5194/gmd-11-2633-2018](https://doi.org/10.5194/gmd-11-2633-2018)
 
 - An intercomparison revealed that modelled volcanic sulphate deposition varies
   substantially in timing, spatial pattern, and magnitude between the models
@@ -357,13 +396,19 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ### 2019 — Rugenstein et al.: LongRunMIP: Motivation and Design for a Large Collection of Millennial-Length AOGCM Simulations
 
+> DOI: [10.1175/bams-d-19-0068.1](https://doi.org/10.1175%2Fbams-d-19-0068.1)
+
 - Reference material
 
 ### 2020 — Ghil and Lucarini: The physics of climate variability and climate change
 
+> DOI: [10.1103/RevModPhys.92.035002](https://doi.org/10.1103/RevModPhys.92.035002)
+
 - Reference material
 
 ### 2020 — Danabasoglu et al.: The Community Earth System Model Version 2 (CESM2)
+
+> DOI: [10.1029/2019MS001916](https://doi.org/10.1029/2019MS001916)
 
 - Reference material
 
