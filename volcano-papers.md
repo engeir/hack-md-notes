@@ -44,7 +44,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 - We suggest that it is too early to conclude that the hiatus has had any particular
   impact on estimates of ECS.
 
-### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure._
+### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure.\
 
 > DOI: [10.1029/2019GL082367](https://doi.org/10.1029/2019GL082367)
 
@@ -140,7 +140,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 ## Original source paper
 
-### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor._
+### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor.\_
 
 > DOI: [10.1126/science.296.5568.727](https://www.science.org/doi/10.1126/science.296.5568.727)
 
@@ -212,6 +212,13 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 ### 2006 — Douglass et al.: Thermocline flux exchange during the Pinatubo event
 
 > DOI: [10.1029/2006GL026355](https://doi.org/10.1029/2006GL026355)
+
+- Uses EBM with coupling between the mixed layer and the thermocline, exponential, exact
+  solutions, exponential, exact solutions
+- Get a short response time of $\tau=4.4\mathrm{months}$
+- _Pinatubo: $0.5\circ\mathrm{C}$ cooling and $4\,\mathrm{W/m^2}$ decrease in outgoing
+  longwave radiation_
+- $7.6$ months; peak of aerosol forcing
 
 ### 2007 — Boer et al.: Inferring climate sensitivity from volcanic events
 
