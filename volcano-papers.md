@@ -11,8 +11,7 @@ tags: Science, Papers
 
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
-are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMIP tier
-3) and '**[past1000-volc-cluster]**' (PMIP tier 3, this includes all external drivers).
+are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMIP tier 3) and '**[past1000-volc-cluster]**' (PMIP tier 3, this includes all external drivers).
 :::
 
 ## Literature
@@ -43,6 +42,12 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   Oscillation-related variability and reduced solar forcing.
 - We suggest that it is too early to conclude that the hiatus has had any particular
   impact on estimates of ECS.
+
+### 2016 — Toohey et al.: Climatic and societal impacts of a volcanic double event at the dawn of the Middle Ages
+
+> DOI: [10.1007/s10584-016-1648-7](https://doi.org/10.1007/s10584-016-1648-7)
+
+- Might have some interesting data: double volcano event in 536 and 540 CE,
 
 ### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure.\
 
@@ -79,6 +84,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 > DOI: [10.1029/2019JD030581](https://doi.org/10.1029/2019JD030581)
 
+- No evidence that geographical location of sulfate aerosol affects its efficacy
 - Quantifying forcing efficacies and understanding how robust they are across different
   models are of substantial importance
 - Compares six different ways of estimating forcing from different forcing agents, and
@@ -138,7 +144,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 - ==Finally calls for further work to settle disagreement between their and Richardson
   (2019) results (i.e., that aerosols give greater sensitivity than GHG)==
 
-## Original source paper
+## Original source papers
 
 ### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor.\_
 
