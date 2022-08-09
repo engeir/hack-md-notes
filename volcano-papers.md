@@ -47,7 +47,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 > DOI: [10.1007/s10584-016-1648-7](https://doi.org/10.1007/s10584-016-1648-7)
 
-- Might have some interesting data: double volcano event in 536 and 540 CE,
+- Might have some interesting data: double volcano event in 536 and 540 CE.
 
 ### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure.\
 
