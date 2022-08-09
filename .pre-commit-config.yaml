@@ -5,5 +5,5 @@ repos:
     name: Markdownlint
     description: Run markdownlint on your Markdown files
     entry: mdl
-    language: ruby
+    language: system
     files: \.(md|mdown|markdown)$
