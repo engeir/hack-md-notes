@@ -16,7 +16,13 @@ Let us first have a look at the raw reference temperature output:
 
 The smoothing is done by subtracting a pure sinusoid (amplitude of the sinusoid found by
 trial and error, what looked best) and by removing frequencies around one from the
-Fourier domain.
+Fourier domain. The volcanoes signal is merely to show where in time the volcanoes
+appeared in the simulation.
+
+The problem with subtracting a pure sinusoid is that the amplitude of the seasonal
+variance changes with how much the temperature is perturbed. This is most evident in the
+winter of 1853/54. Removing frequencies in the Fourier domain works best, but the sharp
+initial response to the forcing is smoothed more than one would wish for.
 
 ## Forcing
 
