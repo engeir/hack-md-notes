@@ -31,4 +31,4 @@ Finally, let us grab one of the single event simulations and try to add it to it
 with an appropriate shift in time, to see how close we get to the double event
 simulation.
 
-![Superposition of single events on top of Fourier smoothed temperature](https://github.com/engeir/hack-md-notes/raw/7ce37cbef16da459fc2692feffd6fad34a37883f/assets/pic/double-overlap/double-overlap-superpose.png "Superposition of single events on top of Fourier smoothed temperature")
+![Superposition of single events on top of Fourier smoothed temperature. Shading shows the length of the single event time series](https://github.com/engeir/hack-md-notes/raw/7ce37cbef16da459fc2692feffd6fad34a37883f/assets/pic/double-overlap/double-overlap-superpose.png "Superposition of single events on top of Fourier smoothed temperature. Shading shows the length of the single event time series")
