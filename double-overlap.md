@@ -20,7 +20,8 @@ Fourier domain.
 
 ## Forcing
 
-We may have a closer look at the forcing as well. Here we see the total aerosol optical depth in visible band:
+We may have a closer look at the forcing as well. Here we see _total aerosol optical
+depth in visible band_:
 
 ![Forcing AEROD_v](https://raw.githubusercontent.com/engeir/hack-md-notes/71d8ff5538414d38b4c340488678c0062d70c9f8/assets/pic/double-overlap/double-overlap-aerod_v.png "Forcing AEROD_v")
 
@@ -30,4 +31,4 @@ Finally, let us grab one of the single event simulations and try to add it to it
 with an appropriate shift in time, to see how close we get to the double event
 simulation.
 
-![Superposition of single events on top of Fourier smoothed temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/71d8ff5538414d38b4c340488678c0062d70c9f8/assets/pic/double-overlap/double-overlap-superpose.png "Superposition of single events on top of Fourier smoothed temperature")
+![Superposition of single events on top of Fourier smoothed temperature](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/double-overlap/double-overlap-superpose.png "Superposition of single events on top of Fourier smoothed temperature")
