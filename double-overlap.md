@@ -23,7 +23,7 @@ Fourier domain.
 We may have a closer look at the forcing as well. Here we see _total aerosol optical
 depth in visible band_:
 
-![Forcing AEROD_v](https://raw.githubusercontent.com/engeir/hack-md-notes/71d8ff5538414d38b4c340488678c0062d70c9f8/assets/pic/double-overlap/double-overlap-aerod_v.png "Forcing AEROD_v")
+![Forcing AEROD_v](https://raw.githubusercontent.com/engeir/hack-md-notes/41979246af0f67763b300afda0217d3ec4734389/assets/pic/double-overlap/double-overlap-aerod_v.png "Forcing AEROD_v")
 
 ## Superposition
 
