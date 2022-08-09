@@ -1,9 +1,9 @@
 repos:
 - repo: local
   hooks:
-  - id: markdownlint
-    name: Markdownlint
-    description: Run markdownlint on your Markdown files
-    entry: mdl
-    language: system
+  - id: markdownlint_docker
+    name: Markdownlint Docker
+    description: Run markdown lint on your Markdown files using the project docker image
+    language: docker_image
     files: \.(md|mdown|markdown)$
+    entry: markdownlint/markdownlint
