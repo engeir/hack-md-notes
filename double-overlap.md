@@ -44,11 +44,11 @@ itself with an appropriate shift in time, to see how close we get to the double 
 simulation.
 
 ![Superposition (blue) of two single events (black) on top of Fourier smoothed
-temperature (red). Shading shows the length of the single event time
-series without padding](https://raw.githubusercontent.com/engeir/hack-md-notes/a19bdfc5ad051cd259bd9741e67e1bf3ebe1e718/assets/pic/double-overlap/double-overlap-superpose.png
+temperature (red). Shading shows the length of the single event time series without
+padding](https://raw.githubusercontent.com/engeir/hack-md-notes/a19bdfc5ad051cd259bd9741e67e1bf3ebe1e718/assets/pic/double-overlap/double-overlap-superpose.png
 "Superposition (blue) of two single events (black) on top of Fourier smoothed
-temperature (red). Shading shows the length of the single event time
-series without padding")
+temperature (red). Shading shows the length of the single event time series without
+padding")
 
 The two single events are not long enough to cover to whole double event time series,
 but still come close to replicating the double event until the end of the first shadowed

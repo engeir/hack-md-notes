@@ -11,14 +11,16 @@ tags: Science, Papers
 
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
-are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMIP tier 3) and '**[past1000-volc-cluster]**' (PMIP tier 3, this includes all external drivers).
+are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMIP tier
+3) and '**[past1000-volc-cluster]**' (PMIP tier 3, this includes all external drivers).
 :::
 
 ## Literature
 
 ### 1998 — Lindzen, Giannitsis: On the climatic implications of volcanic cooling
 
-> DOI: [10.1029/98JD00125](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JD00125)
+> DOI:
+> [10.1029/98JD00125](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JD00125)
 
 - Uses 3-box EBM to look at the response to volcanoes under different sensitivities by
   adjusting the coupling between ocean-atmosphere (high sensitivity → weak coupling.)
@@ -48,6 +50,12 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 > DOI: [10.1007/s10584-016-1648-7](https://doi.org/10.1007/s10584-016-1648-7)
 
 - Might have some interesting data: double volcano event in 536 and 540 CE.
+- Single events were not large compared to the last about 2000 years, but their combined
+  response was the largest within that same time period.
+- Found that the impact of the first extra-tropical eruption was not minor compared to
+  the second tropical eruption, opposite to most other studies.
+- Found indications of prolonged impacts of the eruptions on decade-length scales in
+  Arctic sea-ice production.
 
 ### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure.\
 
