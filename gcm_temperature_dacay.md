@@ -52,6 +52,7 @@ plot")
 | Medium-plus   |   3.5    |    400    |
 | Strong        |    12    |  1629.4   |
 | Mt. Pinatubo  | ~0.1[^1] | 14-20[^2] |
+| Yellowstone   | ~10[^3]  | ~1000[^3] |
 
 [^1]:
     Toohey, M., Stevens, B., et al. (2016), Easy Volcanic Aerosol (EVA v1.0): An
@@ -60,3 +61,7 @@ plot")
 [^2]:
     Ollila, A. (2016), Climate Sensitivity Parameter in the Test of the Mount Pinatubo
     Eruption.
+
+[^3]:
+    About 100 times Mt. Pinatubo.
+    [https://bg.copernicus.org/preprints/9/8693/2012/bgd-9-8693-2012.pdf](https://bg.copernicus.org/preprints/9/8693/2012/bgd-9-8693-2012.pdf)
