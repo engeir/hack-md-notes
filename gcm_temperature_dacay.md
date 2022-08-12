@@ -41,7 +41,7 @@ The below show _total aerosol optical depth in visible band_ corresponding to th
 simulations above.
 
 ![Forcing represented by the variable AEROD_v corresponding to the above temperature
-plot](https://raw.githubusercontent.com/engeir/hack-md-notes/fa58e16e7d510e15ffe8a589ad09984fb795e327/assets/pic/gcm-temperature-decay/temperature-decay-aerod_v.png
+plot](https://raw.githubusercontent.com/engeir/hack-md-notes/9b9a0c0ec490b45097cd861e0a9b876363b9d11d/assets/pic/gcm-temperature-decay/temperature-decay-aerod_v.png
 "Forcing represented by the variable AEROD_v corresponding to the above temperature
 plot")
 
