@@ -26,6 +26,15 @@ Let us take a look at what the zonal mean of different parameters look like.
 
 ## Aerosol optical depth
 
+The below comparison show the aerosol distribution across all latitudes against time.
+The eruptions are all at the same location, but occurring at four different times, one
+for each season. It is clear that the timing of the eruption during the year makes a big
+difference regarding the distribution of the aerosols coming from the eruption.
+
+The aerosols from the eruption occurring just prior to JJA spread mostly to the Southern
+Hemisphere, while the aerosols from the eruption occurring just before DJF spread mostly
+to the Northern Hemisphere. In general, aerosols spread to the hemisphere with winter.
+
 | ![Aerod_v feb](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-feb-medium.png "Aerod_v feb") | ![Aerod_v may](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-may-medium.png "Aerod_v may") |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Aerod_v aug](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-aug-medium.png "Aerod_v aug") | ![Aerod_v nov](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-nov-medium.png "Aerod_v nov") |
