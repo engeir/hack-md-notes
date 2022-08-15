@@ -5,6 +5,9 @@ geometry: margin=3cm,top=3cm
 
 # Volcano Waveforms
 
+[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/HyXpCJ_C9)
+[![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/volcano-ensemble-waveforms.md)
+
 This note looks into how the three different forcing strengths alter the temperature
 signal. That is, if we normalize and do not care about the amplitude of the signals, do
 the temperature show a similar shape across all three forcing strengths?
