@@ -5,6 +5,9 @@ geometry: margin=3cm,top=3cm
 
 # Zonal mean
 
+[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/S1grEVdC9)
+[![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/volcano-zonal-mean.md)
+
 Let us take a look at what the zonal mean of different parameters look like.
 
 ## Temperature
