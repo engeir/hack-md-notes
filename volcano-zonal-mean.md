@@ -11,13 +11,8 @@ Let us take a look at what the zonal mean of different parameters look like.
 
 ### Medium and medium-plus
 
-![Temperature zonal mean over the first three years after a medium
-eruption](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean3-trefht-medium.png
-"Temperature zonal mean over the first three years after a medium eruption")
-
-![Temperature zonal mean over the first three years after a medium-plus
-eruption](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean3-trefht-medium-plus.png
-"Temperature zonal mean over the first three years after a medium-plus eruption")
+| ![Temperature zonal mean over the first three years after a medium eruption](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean3-trefht-medium.png "Temperature zonal mean over the first three years after a medium eruption") | ![Temperature zonal mean over the first three years after a medium-plus eruption](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean3-trefht-medium-plus.png "Temperature zonal mean over the first three years after a medium-plus eruption") |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### Strong over different periods
 
