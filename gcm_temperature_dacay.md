@@ -31,7 +31,7 @@ and a double-event run")
 The temperature clearly do not revert to equilibrium for the medium and large volcanoes,
 even a decade after the volcanic eruption.
 
-## Forcing size and comparing to historical eruptions
+## Forcing size
 
 Let us further compare the size of the volcanic forcing to some historical eruptions,
 just to get a feel for the likelihood of them happening or if they are completely
@@ -44,6 +44,8 @@ simulations above.
 plot](https://raw.githubusercontent.com/engeir/hack-md-notes/9b9a0c0ec490b45097cd861e0a9b876363b9d11d/assets/pic/gcm-temperature-decay/temperature-decay-aerod_v.png
 "Forcing represented by the variable AEROD_v corresponding to the above temperature
 plot")
+
+## Comparing to historical eruptions
 
 | Eruption Name | AEROD_v  | SO2 [Tg]  |
 | :------------ | :------: | :-------: |
