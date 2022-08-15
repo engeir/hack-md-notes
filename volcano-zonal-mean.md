@@ -33,7 +33,7 @@ difference regarding the distribution of the aerosols coming from the eruption.
 
 The aerosols from the eruption occurring just prior to JJA spread mostly to the Southern
 Hemisphere, while the aerosols from the eruption occurring just before DJF spread mostly
-to the Northern Hemisphere. In general, aerosols spread to the hemisphere with winter.
+to the Northern Hemisphere. In general, aerosols spread to the winter hemisphere.
 
 | ![Aerod_v feb](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-feb-medium.png "Aerod_v feb") | ![Aerod_v may](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-may-medium.png "Aerod_v may") |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
