@@ -230,7 +230,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 - Uses EBM with coupling between the mixed layer and the thermocline, exponential, exact
   solutions, exponential, exact solutions
 - Get a short response time of $\tau=4.4\mathrm{months}$
-- _Pinatubo: $0.5\circ\mathrm{C}$ cooling and $4\,\mathrm{W/m^2}$ decrease in outgoing
+- _Pinatubo: $0.5^{\circ}\mathrm{C}$ cooling and $4\,\mathrm{W/m^2}$ decrease in outgoing
   longwave radiation_
 - $7.6$ months; peak of aerosol forcing
 
