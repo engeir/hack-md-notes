@@ -47,14 +47,14 @@ plot")
 
 ## Comparing to historical eruptions
 
-| Eruption Name | AEROD_v  | SO2 [Tg]  |
-| :------------ | :------: | :-------: |
-| Control       |   0.0    |     0     |
-| Medium        |   0.3    |   26.1    |
-| Medium-plus   |   3.5    |    400    |
-| Strong        |    12    |  1629.4   |
-| Mt. Pinatubo  | ~0.1[^1] | 14-20[^2] |
-| Yellowstone   | ~10[^3]  | ~1000[^3] |
+| Eruption Name |    AEROD_v     |     SO2 [Tg]     |
+| :------------ | :------------: | :--------------: |
+| Control       |      0.0       |        0         |
+| Medium        |      0.3       |       26.1       |
+| Medium-plus   |      3.5       |       400        |
+| Strong        |       12       |      1629.4      |
+| Mt. Pinatubo  |    ~0.1[^1]    |    14-20[^2]     |
+| Yellowstone   | ~10[^3]^,^[^4] | ~1000[^3]^,^[^4] |
 
 The smallest eruption (medium) is comparable in size to the Mt. Pinatubo eruption and as
 such a very realistic scenario. The two larger eruptions of $400\,\mathrm{Tg}$ and
@@ -74,3 +74,7 @@ Pinatubo-like eruptions, is more uncertain.
 [^3]:
     About 100 times Mt. Pinatubo.
     [https://bg.copernicus.org/preprints/9/8693/2012/bgd-9-8693-2012.pdf](https://bg.copernicus.org/preprints/9/8693/2012/bgd-9-8693-2012.pdf)
+
+[^4]:
+    Timmreck, C., Graf, H-F., et al. (2010), Aerosol size confines climate response to
+    volcanic super-eruptions.
