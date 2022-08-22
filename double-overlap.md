@@ -10,7 +10,7 @@ geometry: margin=3cm,top=3cm
 
 ## Smoothing
 
-Let us first have a look at the raw reference temperature output:
+Let us first have a look at the raw reference temperature:
 
 ![Initial
 smoothing](https://raw.githubusercontent.com/engeir/hack-md-notes/a19bdfc5ad051cd259bd9741e67e1bf3ebe1e718/assets/pic/double-overlap/double-overlap-temp-smoothing.png

@@ -63,6 +63,9 @@ eruption in Yellowstone about $150000$ years ago was similar in size. Whether th
 climate model can deal with such perturbations realistically, as it should with
 Pinatubo-like eruptions, is more uncertain.
 
+*[GCM]: General Circulation Model
+*[AEROD_v]: total aerosol optical depth in visible band
+
 [^1]:
     Toohey, M., Stevens, B., et al. (2016), Easy Volcanic Aerosol (EVA v1.0): An
     idealized forcing generator for climate simulations.
