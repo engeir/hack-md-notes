@@ -47,24 +47,27 @@ plot")
 
 ## Comparing to historical eruptions
 
-| Eruption Name |    AEROD_v     |     SO2 [Tg]     |
-| :------------ | :------------: | :--------------: |
-| Control       |      0.0       |        0         |
-| Medium        |      0.3       |       26.1       |
-| Medium-plus   |      3.5       |       400        |
-| Strong        |       12       |      1629.4      |
-| Mt. Pinatubo  |    ~0.1[^1]    |    14-20[^2]     |
-| Yellowstone   | ~10[^3]^,^[^4] | ~1000[^3]^,^[^4] |
+| Eruption Name      |    AEROD_v     |     SO2 [Tg]     |
+| :----------------- | :------------: | :--------------: |
+| Control            |      0.0       |        0         |
+| Medium             |      0.3       |       26.1       |
+| Medium-plus        |      3.5       |       400        |
+| Strong             |       12       |      1629.4      |
+| Mt. Pinatubo       |    ~0.1[^1]    |    14-20[^2]     |
+| Yellowstone        | ~10[^3]^,^[^4] | ~1000[^3]^,^[^4] |
+| Youngest Toba Tuff |      ---       |   ~5400[^ytt]    |
 
 The smallest eruption (medium) is comparable in size to the Mt. Pinatubo eruption and as
 such a very realistic scenario. The two larger eruptions of $400\,\mathrm{Tg}$ and
 $1629.4\,\mathrm{Tg}$ SO~2~ are not unrealistic from a historical perspective, the
-eruption in Yellowstone about $150000$ years ago was similar in size. Whether the
-climate model can deal with such perturbations realistically, as it should with
-Pinatubo-like eruptions, is more uncertain.
+eruption in Yellowstone about $150000$ years ago was similar in size, and the Youngest
+Toba Tuff eruption has an estimated sulphur dioxide amount of 5.8 billion tonnes[^ytt],
+but also from $10$ to $360$ time Mount Pinatubo[^5]. Whether the climate model can deal
+with such perturbations realistically, as it should with Pinatubo-like eruptions, is
+more uncertain.
 
-*[GCM]: General Circulation Model
-*[AEROD_v]: total aerosol optical depth in visible band
+_[GCM]: General Circulation Model
+_[AEROD_v]: total aerosol optical depth in visible band
 
 [^1]:
     Toohey, M., Stevens, B., et al. (2016), Easy Volcanic Aerosol (EVA v1.0): An
@@ -81,3 +84,5 @@ Pinatubo-like eruptions, is more uncertain.
 [^4]:
     Timmreck, C., Graf, H-F., et al. (2010), Aerosol size confines climate response to
     volcanic super-eruptions.
+
+[^ytt]: https://en.wikipedia.org/wiki/Toba_catastrophe_theory#Volcanic_winter_and_global_cooling_computer_models
