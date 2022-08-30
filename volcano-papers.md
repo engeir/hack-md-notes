@@ -440,6 +440,10 @@ external drivers).
 
 Published at [https://doi.org/10.1029/2021JD036246](https://doi.org/10.1029/2021JD036246)
 
+### 2017 — Otto-Bliesner et al.: Climate variability and change since 850 C.E.: An ensemble approach with the community earth system model (CESM)
+
+Published at [https://doi.org/10.1175/BAMS-D-14-00233.1](https://doi.org/10.1175/BAMS-D-14-00233.1)
+
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
 [past1000-volc-cluster]: https://gmd.copernicus.org/articles/10/4005/2017/gmd-10-4005-2017.pdf
