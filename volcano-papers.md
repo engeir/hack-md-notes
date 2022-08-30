@@ -436,13 +436,20 @@ external drivers).
 
 ## To-Read
 
-### 2022 — Chen et al.: Modulating and Resetting Impacts of Different Volcanic Eruptions on North Atlantic SST Variations
+### 2008 — Gao et al.: Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models
 
-Published at [https://doi.org/10.1029/2021JD036246](https://doi.org/10.1029/2021JD036246)
+Published at
+[https://doi.org/10.1029/2008JD010239](https://doi.org/10.1029/2008JD010239)
 
 ### 2017 — Otto-Bliesner et al.: Climate variability and change since 850 C.E.: An ensemble approach with the community earth system model (CESM)
 
-Published at [https://doi.org/10.1175/BAMS-D-14-00233.1](https://doi.org/10.1175/BAMS-D-14-00233.1)
+Published at
+[https://doi.org/10.1175/BAMS-D-14-00233.1](https://doi.org/10.1175/BAMS-D-14-00233.1)
+
+### 2022 — Chen et al.: Modulating and Resetting Impacts of Different Volcanic Eruptions on North Atlantic SST Variations
+
+Published at
+[https://doi.org/10.1029/2021JD036246](https://doi.org/10.1029/2021JD036246)
 
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
