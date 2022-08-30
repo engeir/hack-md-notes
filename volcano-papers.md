@@ -434,6 +434,12 @@ external drivers).
 
 - Reference material
 
+## To-Read
+
+### 2022 — Chen et al.: Modulating and Resetting Impacts of Different Volcanic Eruptions on North Atlantic SST Variations
+
+Published at [https://doi.org/10.1029/2021JD036246](https://doi.org/10.1029/2021JD036246)
+
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
 [past1000-volc-cluster]: https://gmd.copernicus.org/articles/10/4005/2017/gmd-10-4005-2017.pdf
