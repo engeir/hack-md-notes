@@ -37,6 +37,19 @@ external drivers).
 - AOD of ~15, similar in size to Toba 72ky ago (two orders of magnitude larger than
   Mount Pinatubo, i.e., Pinatubo volcanic aerosol time 100).
 
+### 2008 — Gao et al.: Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models
+
+> DOI: [10.1029/2008JD010239](https://doi.org/10.1029/2008JD010239)
+
+- Gives an updated time series of the last 1500 years of volcanic forcing
+- The output is made to be _total stratospheric volcanic sulphate aerosol injection_, in
+  units of Tg, Terra gram
+- ==Converting from $\mathrm{Tg}$ to $\mathrm{W/m^2}$, i.e., what is usually used as
+  forcing==: (paragraph 17)
+
+  1. Divide the loading by $\num{1.5e14}\,\mathrm{Tg}$ to obtain optical depth
+  2. Multiply optical depth by $20$ to obtain the radiative forcing in $\mathrm{W/m^2}$
+
 ### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
 
 > DOI: [10.1038/nclimate2573](https://doi.org/10.1038/nclimate2573)
@@ -435,11 +448,6 @@ external drivers).
 - Reference material
 
 ## To-Read
-
-### 2008 — Gao et al.: Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models
-
-Published at
-[https://doi.org/10.1029/2008JD010239](https://doi.org/10.1029/2008JD010239)
 
 ### 2017 — Otto-Bliesner et al.: Climate variability and change since 850 C.E.: An ensemble approach with the community earth system model (CESM)
 
