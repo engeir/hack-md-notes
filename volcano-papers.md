@@ -47,7 +47,7 @@ external drivers).
 - ==Converting from $\mathrm{Tg}$ to $\mathrm{W/m^2}$, i.e., what is usually used as
   forcing==: (paragraph 17)
 
-  1. Divide the loading by $\num{1.5e14}\,\mathrm{Tg}$ to obtain optical depth
+  1. Divide the loading by $1.5\times 10^{14}\,\mathrm{Tg}$ to obtain optical depth
   2. Multiply optical depth by $20$ to obtain the radiative forcing in $\mathrm{W/m^2}$
 
 ### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
