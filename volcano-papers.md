@@ -165,6 +165,17 @@ external drivers).
 - ==Finally calls for further work to settle disagreement between their and Richardson
   (2019) results (i.e., that aerosols give greater sensitivity than GHG)==
 
+### 2022 — Chen et al.: Modulating and Resetting Impacts of Different Volcanic Eruptions on North Atlantic SST Variations
+
+> DOI: [10.1029/2021JD036246](https://doi.org/10.1029/2021JD036246)
+
+- Volcanic eruptions a pacemaker for the phase transition of SST
+- From Mann et al. (2021), volcanoes the main driver of 40- to 60-year variability of
+  SST over NA
+- Discusses volcanic impact on the deep ocean:
+  Strong volcanoes (at least more than $50\mathrm{Tg}$, but should be more than
+  $100\mathrm{Tg}$) can strengthen the AMOC which subsequently cools the deep ocean
+
 ## Original source papers
 
 ### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor.\_
@@ -450,13 +461,10 @@ external drivers).
 
 ### 2017 — Otto-Bliesner et al.: Climate variability and change since 850 C.E.: An ensemble approach with the community earth system model (CESM)
 
-Published at
-[https://doi.org/10.1175/BAMS-D-14-00233.1](https://doi.org/10.1175/BAMS-D-14-00233.1)
+> DOI: [10.1175/BAMS-D-14-00233.1](https://doi.org/10.1175/BAMS-D-14-00233.1)
 
-### 2022 — Chen et al.: Modulating and Resetting Impacts of Different Volcanic Eruptions on North Atlantic SST Variations
-
-Published at
-[https://doi.org/10.1029/2021JD036246](https://doi.org/10.1029/2021JD036246)
+- Includes 1500 years of an ensemble of 5 with only volcanic forcing (850-2005)
+- All other forcings are constant at 850 levels (the first simulation year)
 
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
