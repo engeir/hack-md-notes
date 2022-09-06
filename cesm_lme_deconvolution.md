@@ -37,21 +37,6 @@ averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/819f9dcb33ead
 Let us then see what averaging by means of removing frequencies near 1 in Fourier domain
 will do to our signal. Again, only one ensemble member is used.
 
-![Forcing of ensemble 1 with
-averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ens1_mean_forcing.png>
-"Forcing of ensemble 1 with averaging" =45%x)
-![Temperature of ensemble 1 with
-averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ens1_mean_temperature.png>
-"Temperature of ensemble 1 with averaging" =45%x)
-
-![Response from deconvolution of the forcing and temperature signals above](https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ens1_mean-respnse.png "Response from deconvolution of the forcing and temperature signals above")
-
-## All ensemble members
-
-Now we do the same analysis as in the first section, namely without averaging, but where
-we take all five ensemble members and compute their mean to get a common forcing and
-temperature.
-
 ![Forcing of all ensembles without
 averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ensall_nomean_forcing.png>
 "Forcing of all ensembles without averaging" =45%x)
@@ -60,6 +45,21 @@ averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab7489125
 "Temperature of all ensembles without averaging" =45%x)
 
 ![Response from deconvolution of the forcing and temperature signals above](https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ensall_nomean-respnse.png "Response from deconvolution of the forcing and temperature signals above")
+
+## All ensemble members
+
+Now we do the same analysis as in the first section, namely without averaging, but where
+we take all five ensemble members and compute their mean to get a common forcing and
+temperature.
+
+![Forcing of ensemble 1 with
+averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ens1_mean_forcing.png>
+"Forcing of ensemble 1 with averaging" =45%x)
+![Temperature of ensemble 1 with
+averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ens1_mean_temperature.png>
+"Temperature of ensemble 1 with averaging" =45%x)
+
+![Response from deconvolution of the forcing and temperature signals above](https://raw.githubusercontent.com/engeir/hack-md-notes/6c20ab748912530c65e30e648c04b4e45a55b838/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ens1_mean-respnse.png "Response from deconvolution of the forcing and temperature signals above")
 
 ## All ensemble members averaging
 
