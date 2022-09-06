@@ -13,7 +13,7 @@ The data is from a series of CESM simulations of the last millennium, part of th
 last millennium ensemble (LME) project.
 
 The forcing used is _net solar flux at the top of the atmosphere_ while the temperature
-used is the _reference height temperature_. From the CESM LAME set of simulations, an
+used is the _reference height temperature_. From the CESM LME set of simulations, an
 ensemble of five runs were performed where volcanoes were the only external forcing.
 
 ## Single ensemble member <a id="single-ensemble-member"></a>
