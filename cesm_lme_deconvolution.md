@@ -20,8 +20,8 @@ ensemble of five runs were performed where volcanoes were the only external forc
 
 Let us first have a look at one single ensemble member, without any processing, just the
 raw output from the model. Both the forcing and the temperature will have strong
-seasonal dependence, but it may still be useful as a check of the deconvolution
-algorithm.
+seasonal dependence, but let us still see how the deconvolution algorithm performs with
+this.
 
 ![Forcing of ensemble 1 without
 averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/819f9dcb33ead0d409a80bcc386f4ceebd891dc3/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ens1_nomean_forcing.png>
