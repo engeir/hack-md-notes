@@ -466,6 +466,18 @@ external drivers).
 - Includes 1500 years of an ensemble of 5 with only volcanic forcing (850-2005)
 - All other forcings are constant at 850 levels (the first simulation year)
 
+### 2022 — Lin et al.: Magnitude frequency and climate forcing of global volcanism during the last glacial period as seen in Greenland and Antarctic ice cores (60-9 ka)
+
+> DOI: [10.5194/cp-18-485-2022](https://doi.org/10.5194/cp-18-485-2022)
+
+- Frequency is investigated
+
+## Motivation
+
+- Comment in Nature: [Huge volcanic eruptions: time to
+  prepare](https://www.nature.com/articles/d41586-022-02177-x),
+  [doi](https://doi.org/10.1038/d41586-022-02177-x)
+
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
 [past1000-volc-cluster]: https://gmd.copernicus.org/articles/10/4005/2017/gmd-10-4005-2017.pdf
