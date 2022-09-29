@@ -13,7 +13,7 @@ geometry: margin=3cm,top=3cm
 Let us first have a look at the raw reference temperature:
 
 ![Initial
-smoothing](https://raw.githubusercontent.com/engeir/hack-md-notes/a19bdfc5ad051cd259bd9741e67e1bf3ebe1e718/assets/pic/double-overlap/double-overlap-temp-smoothing.png
+smoothing](https://raw.githubusercontent.com/engeir/hack-md-notes/1e3d1dca42484fc10c418dd1ede027301c9a532d/assets/pic/double-overlap/double-overlap-temp-smoothing-simple.png
 "Initial smoothing")
 
 The smoothing is done by subtracting a pure sinusoid (amplitude of the sinusoid found by
@@ -45,7 +45,7 @@ simulation.
 
 ![Superposition (blue) of two single events (black) on top of Fourier smoothed
 temperature (red). Shading shows the length of the single event time series without
-padding](https://raw.githubusercontent.com/engeir/hack-md-notes/a19bdfc5ad051cd259bd9741e67e1bf3ebe1e718/assets/pic/double-overlap/double-overlap-superpose.png
+padding](https://raw.githubusercontent.com/engeir/hack-md-notes/1e3d1dca42484fc10c418dd1ede027301c9a532d/assets/pic/double-overlap/double-overlap-superpose.png
 "Superposition (blue) of two single events (black) on top of Fourier smoothed
 temperature (red). Shading shows the length of the single event time series without
 padding")
