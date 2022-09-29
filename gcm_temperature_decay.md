@@ -24,7 +24,7 @@ Let us have a different look at this where we average over each year:
 
 ![Yearly averaged surface air reference temperature for a control run, single-event runs
 and a double-event
-run](https://raw.githubusercontent.com/engeir/hack-md-notes/fa58e16e7d510e15ffe8a589ad09984fb795e327/assets/pic/gcm-temperature-decay/temperature-decay-avg.png
+run](https://raw.githubusercontent.com/engeir/hack-md-notes/4cfe0e39fca9474b5dcdbf9ab59eae968a32ecd4/assets/pic/gcm-temperature-decay/temperature-decay-avg.png
 "Yearly averaged surface air reference temperature for a control run, single-event runs
 and a double-event run")
 
