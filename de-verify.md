@@ -5,7 +5,7 @@ geometry: margin=3cm,top=3cm
 
 # Deconvolution of strange data
 
-[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/HJ5zwhhsq)
+[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/SyMdeKsfi)
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/de-verify.md)
 
 ## The Set-Up
