@@ -398,6 +398,13 @@ external drivers).
 - No reason why responses should be more linear on short than on long timescales, in
   particular not the response to burst-like volcanic forcing
 
+### 2017 — Otto-Bliesner et al.: Climate variability and change since 850 C.E.: An ensemble approach with the community earth system model (CESM)
+
+> DOI: [10.1175/BAMS-D-14-00233.1](https://doi.org/10.1175/BAMS-D-14-00233.1)
+
+- Includes 1500 years of an ensemble of 5 with only volcanic forcing (850-2005)
+- All other forcings are constant at 850 levels (the first simulation year)
+
 ### 2017 — Knutti et al.: Beyond equilibrium climate sensitivity
 
 > DOI: [10.1038/ngeo3017](https://doi.org/10.1038/ngeo3017)
@@ -459,12 +466,15 @@ external drivers).
 
 ## To-Read
 
-### 2017 — Otto-Bliesner et al.: Climate variability and change since 850 C.E.: An ensemble approach with the community earth system model (CESM)
+### 2016 — Colose et al.: The influence of volcanic eruptions on the climate of tropical South America during the last millennium in an isotope-enabled general circulation model
 
-> DOI: [10.1175/BAMS-D-14-00233.1](https://doi.org/10.1175/BAMS-D-14-00233.1)
+> DOI: [10.5194/cp-12-961-2016](https://doi.org/10.5194/cp-12-961-2016) (Also see his
+> [Google Scholar
+> page](https://scholar.google.com/citations?hl=no&user=rx9dKowAAAAJ&view_op=list_works&sortby=pubdate))
 
-- Includes 1500 years of an ensemble of 5 with only volcanic forcing (850-2005)
-- All other forcings are constant at 850 levels (the first simulation year)
+### 2016 — Colose et al.: Hemispherically asymmetric volcanic forcing of tropical hydroclimate during the last millennium
+
+> DOI: [10.5194/esd-7-681-2016](https://doi.org/10.5194/esd-7-681-2016)
 
 ### 2022 — Lin et al.: Magnitude frequency and climate forcing of global volcanism during the last glacial period as seen in Greenland and Antarctic ice cores (60-9 ka)
 
