@@ -485,15 +485,15 @@ external drivers).
 
   |                                             | Absolute number of eruptions |   Eruptions per millennium   |
   | ------------------------------------------- | :--------------------------: | :--------------------------: |
-  |                                             | -, $9$--$16.5\\,\mathrm{ka}$ | -, $9$--$16.5\\,\mathrm{ka}$ |
-  |                                             |   $0$--$2.5\\,\mathrm{ka}$   |   $0$--$2.5\\,\mathrm{ka}$   |
-  | $<-132\\,\mathrm{Wm^{-2}}$ (Oruanui, Taupo) |             0, 3             |           0, 0.07            |
-  | $<-9.5\\,\mathrm{Wm^{-2}}$ (EU 426 BCE)     |            1, 25             |          0.4, 0.58           |
-  | $<-6.5\\,\mathrm{Wm^{-2}}$ (Tambora)        |            6, 69             |          2.4, 1.60           |
+  |                                             | -, $9$--$16.5\,\mathrm{ka}$ | -, $9$--$16.5\,\mathrm{ka}$ |
+  |                                             |   $0$--$2.5\,\mathrm{ka}$   |   $0$--$2.5\,\mathrm{ka}$   |
+  | $<-132\,\mathrm{Wm^{-2}}$ (Oruanui, Taupo) |             0, 3             |           0, 0.07            |
+  | $<-9.5\,\mathrm{Wm^{-2}}$ (EU 426 BCE)     |            1, 25             |          0.4, 0.58           |
+  | $<-6.5\,\mathrm{Wm^{-2}}$ (Tambora)        |            6, 69             |          2.4, 1.60           |
 
   Note that the investigated period of the last glacial and the early Holocene covers
-  some $43\\,\mathrm{kyr}$ ($60$–-$9\\,\mathrm{ka}$ minus the section of no identified
-  bipolar eruptions at $24.5$ to $16.5\\,\mathrm{ka}$).
+  some $43\,\mathrm{kyr}$ ($60$–-$9\,\mathrm{ka}$ minus the section of no identified
+  bipolar eruptions at $24.5$ to $16.5\,\mathrm{ka}$).
 
 ## Motivation
 
