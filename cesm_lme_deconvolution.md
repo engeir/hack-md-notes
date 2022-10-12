@@ -19,9 +19,8 @@ ensemble of five runs were performed where volcanoes were the only external forc
 ## All ensemble members averaging
 
 We use all ensemble members to average over, where each ensemble run have been smoothed
-prior to averaging by removing frequencies in the Fourier domain. This include the
-seasonal variability and some of the overtones found at multiples of the seasonal
-frequency.
+prior to averaging by removing frequencies in the Fourier domain. This includes the
+seasonal variability and some overtones found at multiples of the seasonal frequency.
 
 After this, the time series are flipped (multiplied by -1), then shifted and scaled to
 have a mean of zero and unit standard deviation. Finally, the time series are again
@@ -40,7 +39,8 @@ of iterations allowed for the deconvolution algorithm.
 
 ![Response from deconvolution of the forcing and temperature signals above, 100
 iterations](https://raw.githubusercontent.com/engeir/hack-md-notes/bc886d14675a7adf135447fdcaa8683dd90fdb97/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ensall_mean_100-respnse.png
-"Response from deconvolution of the forcing and temperature signals above, 100 iterations")
+"Response from deconvolution of the forcing and temperature signals above, 100
+iterations")
 ![Response from deconvolution of the forcing and temperature signals above, 1000
 iterations](https://raw.githubusercontent.com/engeir/hack-md-notes/bc886d14675a7adf135447fdcaa8683dd90fdb97/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ensall_mean_1000-respnse.png
 "Response from deconvolution of the forcing and temperature signals above, 1000
