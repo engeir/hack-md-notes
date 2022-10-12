@@ -176,6 +176,25 @@ external drivers).
   Strong volcanoes (at least more than $50\mathrm{Tg}$, but should be more than
   $100\mathrm{Tg}$) can strengthen the AMOC which subsequently cools the deep ocean
 
+### 2022 — Lin et al.: Magnitude frequency and climate forcing of global volcanism during the last glacial period as seen in Greenland and Antarctic ice cores (60-9 ka)
+
+> DOI: [10.5194/cp-18-485-2022](https://doi.org/10.5194/cp-18-485-2022)
+
+- Frequency is investigated
+- End up with:
+
+  |                                             | Absolute number of eruptions |            ---            | Eruptions per millennium |            ---            |
+  | ------------------------------------------- | :--------------------------: | :-----------------------: | :----------------------: | :-----------------------: |
+  |                                             |             ---              | $9$--$16.5\,\mathrm{ka}$  |           ---            | $9$--$16.5\,\mathrm{ka}$  |
+  |                                             |   $0$--$2.5\,\mathrm{ka}$    | $24.5$--$60\,\mathrm{ka}$ | $0$--$2.5\,\mathrm{ka}$  | $24.5$--$60\,\mathrm{ka}$ |
+  | $<-13.2\,\mathrm{Wm^{-2}}$ (Oruanui, Taupo) |              0               |             3             |            0             |           0.07            |
+  | $<-9.5\,\mathrm{Wm^{-2}}$ (EU 426 BCE)      |              1               |            25             |           0.4            |           0.58            |
+  | $<-6.5\,\mathrm{Wm^{-2}}$ (Tambora)         |              6               |            69             |           2.4            |           1.60            |
+
+  Note that the investigated period of the last glacial and the early Holocene covers
+  some $43\,\mathrm{kyr}$ ($60$–-$9\,\mathrm{ka}$ minus the section of no identified
+  bipolar eruptions at $24.5$ to $16.5\,\mathrm{ka}$).
+
 ## Original source papers
 
 ### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor.\_
@@ -475,25 +494,6 @@ external drivers).
 ### 2016 — Colose et al.: Hemispherically asymmetric volcanic forcing of tropical hydroclimate during the last millennium
 
 > DOI: [10.5194/esd-7-681-2016](https://doi.org/10.5194/esd-7-681-2016)
-
-### 2022 — Lin et al.: Magnitude frequency and climate forcing of global volcanism during the last glacial period as seen in Greenland and Antarctic ice cores (60-9 ka)
-
-> DOI: [10.5194/cp-18-485-2022](https://doi.org/10.5194/cp-18-485-2022)
-
-- Frequency is investigated
-- End up with:
-
-  |                                             | Absolute number of eruptions |            ---            | Eruptions per millennium |            ---            |
-  | ------------------------------------------- | :--------------------------: | :-----------------------: | :----------------------: | :-----------------------: |
-  |                                             |             ---              | $9$--$16.5\,\mathrm{ka}$  |           ---            | $9$--$16.5\,\mathrm{ka}$  |
-  |                                             |   $0$--$2.5\,\mathrm{ka}$    | $24.5$--$60\,\mathrm{ka}$ | $0$--$2.5\,\mathrm{ka}$  | $24.5$--$60\,\mathrm{ka}$ |
-  | $<-13.2\,\mathrm{Wm^{-2}}$ (Oruanui, Taupo) |              0               |             3             |            0             |           0.07            |
-  | $<-9.5\,\mathrm{Wm^{-2}}$ (EU 426 BCE)      |              1               |            25             |           0.4            |           0.58            |
-  | $<-6.5\,\mathrm{Wm^{-2}}$ (Tambora)         |              6               |            69             |           2.4            |           1.60            |
-
-  Note that the investigated period of the last glacial and the early Holocene covers
-  some $43\,\mathrm{kyr}$ ($60$–-$9\,\mathrm{ka}$ minus the section of no identified
-  bipolar eruptions at $24.5$ to $16.5\,\mathrm{ka}$).
 
 ## Motivation
 
