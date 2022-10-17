@@ -123,9 +123,10 @@ exp().related_timeseries(wide_forcing=True, seed=seed).scale((100, 35)).vertical
 Let us go back to forcing and temperature signals that themselves are not altered.
 Instead, we make them be out of sync. In the below plots, the forcing shown and the
 forcing used to generate the temperature from convolution of the response function are
-almost identical. The difference is that the arrival times are shifted by one single
-index back, forward or nothing at all with equal probability. This has a big effect on
-the estimated response function, especially in the case where the forcing has a decay.
+almost identical. The difference is that the arrival times of the forcing used to
+generate the temperature are shifted by one single index back, forward or nothing at all
+with equal probability. This has a big effect on the estimated response function,
+especially in the case where the forcing has a decay.
 
 ```python
 exp().peripheral_timeseries(shift=1, seed=seed).deconvolve(1_000).combined_view(save="v22", show=show)
