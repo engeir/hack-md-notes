@@ -128,10 +128,17 @@ generate the temperature are shifted by one single index back, forward or nothin
 with equal probability. This has a big effect on the estimated response function,
 especially in the case where the forcing has a decay.
 
+In the third plot, the forcing has no decay, but the shift between arrival times are set
+to 100 indices (vs 1 above, where one index/step is one day), indicating how much harder
+it is to deconvolve when the forcing has a shape to it rather than just an arrival time
+and amplitude.
+
 ```python
 exp().peripheral_timeseries(shift=1, seed=seed).deconvolve(1_000).combined_view(save="v22", show=show)
 exp().peripheral_timeseries(shift=1, wide_forcing=True, seed=seed).deconvolve(1_000).combined_view(save="v23", show=show)
+exp().peripheral_timeseries(shift=100, seed=seed).deconvolve(1_000).combined_view(save="v24", show=show)
 ```
 
 ![v22](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v22.png)
 ![v23](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v23.png)
+![v24](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v24.png)
