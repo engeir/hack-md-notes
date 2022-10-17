@@ -120,8 +120,8 @@ exp().related_timeseries(wide_forcing=True, seed=seed).scale((100, 35)).vertical
 
 ## Syncing Issues
 
-What if the forcing and temperature signals are without any noise and stationary at
-zero, but they are not in perfect sync. If the below plots, the forcing shown and the
+Let us go back to forcing and temperature signals that themselves are not altered.
+Instead, we make them be out of sync. In the below plots, the forcing shown and the
 forcing used to generate the temperature from convolution of the response function are
 almost identical. The difference is that the arrival times are shifted by one single
 index back, forward or nothing at all with equal probability. This has a big effect on
