@@ -31,7 +31,7 @@ exp().related_timeseries(seed=seed).deconvolve().combined_view(save="v1", show=s
 
 ![v1](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v1.png)
 
-## Kick Flip
+## Flip
 
 If we use the same time series as above, but flip them around (so that they occupy the
 same range in `y`), suddenly deconvolving become really hard!
@@ -49,7 +49,7 @@ exp().related_timeseries(seed=seed).flip().deconvolve(1000, scale_factor=10).com
 ![v4](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v4.png)
 ![v5](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v5.png)
 
-## Noisy Minimum
+## Noisy
 
 Let us add some noise to our clean time series. We expect the deconvolution to handle
 this, and sure enough, if the standard deviation is 0.2 times the standard deviation of
@@ -75,7 +75,7 @@ exp().related_timeseries(seed=seed).noise(0.6).deconvolve(100, scale_factor=10).
 ![v9](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v9.png)
 ![v10](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v10.png)
 
-## Vertically Rising Issues
+## Vertical Adjustment
 
 If we look more closely at what happens if we shift the time series along the
 `y`-direction, we notice that it is really hard to get any good estimates from it.
@@ -97,7 +97,7 @@ exp().related_timeseries(seed=seed).vertical_shift((1, 1)).deconvolve(1000, cuto
 ![v14](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v14.png)
 ![v15](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v15.png)
 
-## The Scale of the Issue
+## Scaling
 
 Now, what about scaling the pure and clean time series? Both, or just one of them? That
 is fine, luckily.
@@ -126,6 +126,11 @@ forcing used to generate the temperature from convolution of the response functi
 almost identical. The difference is that the arrival times are shifted by one single
 index back, forward or nothing at all with equal probability. This has a big effect on
 the estimated response function, especially in the case where the forcing has a decay.
+
+```python
+exp().peripheral_timeseries(shift=1, seed=seed).deconvolve(1_000).combined_view(save="v22", show=show)
+exp().peripheral_timeseries(shift=1, wide_forcing=True, seed=seed).deconvolve(1_000).combined_view(save="v23", show=show)
+```
 
 ![v22](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v22.png)
 ![v23](https://github.com/engeir/hack-md-notes/raw/main/assets/pic/de-verify/v23.png)
