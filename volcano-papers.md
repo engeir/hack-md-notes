@@ -74,13 +74,19 @@ external drivers).
 
 > DOI: [10.1029/2019GL082367](https://doi.org/10.1029/2019GL082367)
 
+Introduction
+
 - Volcanoes impact ENSO, tropical cyclones, NAO and more, but has low signal-to-noise
   ratio or depend on initial state, perhaps even model dependent.
 - FLOR coupled climate model, $50\,\mathrm{km}$ horizontal resolution.
 
+Questions
+
 - Temperature and precipitation response to different eruptions ((a)symmetric)
 - What is the response of TC activity?
 - Proportional climate response?
+
+Results and discussion
 
 - Pinatubo reduces precipitation over tropics
 - Asymmetric reduces where the load is, enhances on opposite hemisphere. Global mean
@@ -128,8 +134,12 @@ external drivers).
 
 > DOI: [10.1029/2021GL092558](https://doi.org/10.1029/2021GL092558)
 
+Introduction
+
 - Makes use of CMIP6 to evaluate high-latitude climate response during large eruptions
 - Simulations are forced with historical GHG, ozone, solar and aerosol forcing.
+
+Results and discussion
 
 - Sea ice volume in CESM2 is much greater and persists longer than in the other models
 - Symmetric forcing (Pinatubo) give asymmetry in zonal-mean TAS
@@ -222,6 +232,8 @@ Simulations
 
 > DOI: [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
 
+Introduction
+
 - Wants to: obtain improved estimate of the underlying response of 20th century global
   mean temperature to volcanic forcing.
 - Also use simulations to reduce internally generated noise (16 coupled AOGCM)
@@ -238,6 +250,8 @@ Simulations
 - [LG98](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JD00125) note that
   response to consecutive eruptions has closer dependence with $\Delta T2x$.
   - 3-box EBM, $400\,$m deep, diffusive ocean
+
+Simulations
 
 - Good agreement between MAGICC (model) and AOGCM.
 - They quantified relaxation timescales by fitting exponential decay curves.
