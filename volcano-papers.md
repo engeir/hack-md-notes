@@ -191,7 +191,7 @@ external drivers).
   | $<-6.5\,\mathrm{Wm^{-2}}$ (Tambora)         |              6               |                          69                          |           2.4            |                         1.60                         |
 
   Note that the investigated period of the last glacial and the early Holocene covers
-  some $43\,\mathrm{kyr}$ ($60$–-$9\,\mathrm{ka}$ minus the section of no identified
+  some $43\,\mathrm{kyr}$ ($60$--$9\,\mathrm{ka}$ minus the section of no identified
   bipolar eruptions at $24.5$ to $16.5\,\mathrm{ka}$).
 
 ## Original source papers
