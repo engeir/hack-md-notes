@@ -70,14 +70,18 @@ external drivers).
 - Found indications of prolonged impacts of the eruptions on decade-length scales in
   Arctic sea-ice production.
 
-### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure.\
+### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure
 
 > DOI: [10.1029/2019GL082367](https://doi.org/10.1029/2019GL082367)
 
+**Take away**: Different sensitivity from different volcanic forcings, spatial structure
+matter
+
 Introduction
 
-- Volcanoes impact ENSO, tropical cyclones, NAO and more, but has low signal-to-noise
-  ratio or depend on initial state, perhaps even model dependent.
+- Volcanoes impact ENSO, ITCZ (intertropical convergence zone) tropical cyclones, NAO
+  (North Atlantic Oscillation) and more, but has low signal-to-noise ratio or depend on
+  initial state, perhaps even model dependent.
 - FLOR coupled climate model, $50\,\mathrm{km}$ horizontal resolution.
 
 Questions
@@ -93,17 +97,19 @@ Results and discussion
   somewhat enhanced.
 - TAS in high load hemispheres are comparable to Pinatubo
 - Stronger impact on precipitation and TC than Pinatubo
-- **Transient climate sensitivity is not proportional:** largest from Santa Maria (NH),
+- ==Transient climate sensitivity is not proportional:== largest from Santa Maria (NH),
   identical from Pinatubo (both) and Agung (SH).
 - Usually it is assumed that weaker eruptions have weaker impact, this demonstrates the
   opposite can be the case.
-- This highlight **importance of spatial structures**.
+- This highlight ==importance of spatial structures==.
 - Crucial to obtain an accurate reconstruction of volcanic aerosol radiative property
   spatial structure.
 
 ### 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
 
 > DOI: [10.1029/2019JD030581](https://doi.org/10.1029/2019JD030581)
+
+**Take away**: Forcing behaves similar across agents
 
 - No evidence that geographical location of sulfate aerosol affects its efficacy
 - Quantifying forcing efficacies and understanding how robust they are across different
@@ -146,7 +152,7 @@ Results and discussion
 - Some ensemble members warm at high latitudes
 - ==Robust feature:== The inter-hemispheric asymmetry in the temperature response of the
   climate system response to approximately hemispherically symmetric volcanic forcing
-- **Despite the dissimilar physical nature of the forcings, same asymmetric fast
+- ==Despite the dissimilar physical nature of the forcings, same asymmetric fast
   response to CO2 is what they find here for symmetric volcanic forcing**
 
 ### 2022 — Salvi et al.: Interpreting differences in radiative feedbacks from aerosols versus greenhouse gases
