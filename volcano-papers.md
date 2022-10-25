@@ -109,7 +109,7 @@ Results and discussion
 
 > DOI: [10.1029/2019JD030581](https://doi.org/10.1029/2019JD030581)
 
-**Take away**: Forcing behaves similar across agents
+**Take away**: Forcing behaves similarly across agents
 
 - No evidence that geographical location of sulfate aerosol affects its efficacy
 - Quantifying forcing efficacies and understanding how robust they are across different
