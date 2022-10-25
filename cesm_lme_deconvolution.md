@@ -49,3 +49,26 @@ iterations")
 iterations](https://raw.githubusercontent.com/engeir/hack-md-notes/bc886d14675a7adf135447fdcaa8683dd90fdb97/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ensall_mean-10000_respnse.png
 "Response from deconvolution of the forcing and temperature signals above, 10000
 iterations")
+
+## Using delta pulse forcing
+
+From [Deconvolution of strange data](/FFrnfgKrRTmOC8BqAiVgEA) it is evident that the
+forcing with some duration time on all peaks, a decaying part, is much harder to
+deconvolve than a forcing that only contain arrival times and amplitude. Therefore, we
+instead find the raw volcanic forcing used in CESM1 to make the CESM LME simulations and
+deconvolve this with the temperature.
+
+![Forcing](<https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_delta_1000_forcing.png>
+"With 1000 iterations: forcing" =45%x)
+![Temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_delta_1000_temperature.png>
+"With 1000 iterations: temperature" =45%x)
+
+The first response shown below is when running the algorithm for 1000 iterations, while
+the bottom is from using 10000 iterations. The shape is robust.
+
+![With 1000 iterations:
+response](https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_delta_1000-respnse.png
+"With 1000 iterations: response")
+![With 10000 iterations:
+response](https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_delta_10000-respnse.png
+"With 10000 iterations: response")
