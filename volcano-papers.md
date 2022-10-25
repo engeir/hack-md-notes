@@ -153,7 +153,7 @@ Results and discussion
 - ==Robust feature:== The inter-hemispheric asymmetry in the temperature response of the
   climate system response to approximately hemispherically symmetric volcanic forcing
 - ==Despite the dissimilar physical nature of the forcings, same asymmetric fast
-  response to CO2 is what they find here for symmetric volcanic forcing**
+  response to CO2 is what they find here for symmetric volcanic forcing==
 
 ### 2022 — Salvi et al.: Interpreting differences in radiative feedbacks from aerosols versus greenhouse gases
 
