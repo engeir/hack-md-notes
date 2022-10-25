@@ -140,6 +140,10 @@ Results and discussion
 
 > DOI: [10.1029/2021GL092558](https://doi.org/10.1029/2021GL092558)
 
+**Take away**: Despite the different nature of the forcings, CO~2~ and an almost
+symmetrical Pinatubo-like volcanic eruption both give a similar asymmetrical response in
+the climate system
+
 Introduction
 
 - Makes use of CMIP6 to evaluate high-latitude climate response during large eruptions
@@ -159,6 +163,9 @@ Results and discussion
 
 > DOI: [10.1029/2022GL097766](https://doi.org/10.1029/2022GL097766)
 
+**Take away**: Aerosols produce a more amplifying climate feedback (greater climate
+sensitivity) than CO~2~ does, in contrast to Richardson (2019)
+
 - ==Not a consensus on whether $\alpha$ (climate feedback parameter — $N=F-\alpha T$)
   depends on the different forcing agents.==
 - Differences in radiative feedback across forcing agents may be explained in terms of
@@ -169,7 +176,8 @@ Results and discussion
 - Expect a positive correlation between net $\alpha$ and the stability response per unit
   global warming ($\mathrm{d}S/\mathrm{d}T$)
 - ==Finally calls for further work to settle disagreement between their and Richardson
-  (2019) results (i.e., that aerosols give greater sensitivity than GHG)==
+  (2019) results (i.e., that aerosols give greater sensitivity than GHG)== (also in
+  contrast to Pauling (2021) it seems?)
 
 ### 2022 — Chen et al.: Modulating and Resetting Impacts of Different Volcanic Eruptions on North Atlantic SST Variations
 
