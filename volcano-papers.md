@@ -53,7 +53,7 @@ external drivers).
 
 > DOI: [10.1038/nclimate2573](https://doi.org/10.1038/nclimate2573)
 
-- The warming hiatus (1980- and 90s) is primarily attributable to El Niño/Southern
+- The warming hiatus (1980s and 90s) is primarily attributable to El Niño/Southern
   Oscillation-related variability and reduced solar forcing.
 - We suggest that it is too early to conclude that the hiatus has had any particular
   impact on estimates of ECS.
@@ -483,6 +483,10 @@ Simulations
 - Reference material
 
 ## To-Read
+
+### 2016 — Otto-Bliesner et al.: Climate Variability and Change Since 850 CE: An Ensemble Approach with the Community Earth System Model
+
+> DOI: [10.1175/BAMS-D-14-00233.1](http://dx.doi.org/10.1175/BAMS-D-14-00233.1)
 
 ### 2016 — Colose et al.: The influence of volcanic eruptions on the climate of tropical South America during the last millennium in an isotope-enabled general circulation model
 
