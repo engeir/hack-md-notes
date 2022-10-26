@@ -512,6 +512,14 @@ Simulations
 
 > DOI: [10.5194/esd-7-681-2016](https://doi.org/10.5194/esd-7-681-2016)
 
+### 2014 — Toohey et al.: The impact of volcanic aerosol on the Northern Hemisphere stratospheric polar vortex: mechanisms and sensitivity to forcing structure
+
+> DOI: [10.5194/acp-14-13063-2014](https://doi.org/10.5194/acp-14-13063-2014)
+
+### 2019 — Toohey et al.: Disproportionately strong climate forcing from extratropical explosive volcanic eruptions
+
+> DOI: [10.1038/s41561-018-0286-2](https://doi.org/10.1038/s41561-018-0286-2)
+
 ## Motivation
 
 - Comment in Nature: [Huge volcanic eruptions: time to
