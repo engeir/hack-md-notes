@@ -35,6 +35,13 @@ The aerosols from the eruption occurring just prior to JJA spread mostly to the 
 Hemisphere, while the aerosols from the eruption occurring just before DJF spread mostly
 to the Northern Hemisphere. In general, aerosols spread to the winter hemisphere.
 
+The reason might be that the different seasons affect the aerosol size through the
+seasonal cycle of tropical upwelling (<a
+href="https://doi.org/10.5194/acp-11-12351-2011"
+data-citation-key="@toohey2011">Toohey, M., Krüger, K., et al. (2011)</a>). This is
+again driven by extratropical wave breaking and has been shown in reanalysis data to
+have a strong maximum in NH winter.
+
 | ![Aerod_v feb](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-feb-medium.png "Aerod_v feb") | ![Aerod_v may](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-may-medium.png "Aerod_v may") |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Aerod_v aug](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-aug-medium.png "Aerod_v aug") | ![Aerod_v nov](https://raw.githubusercontent.com/engeir/hack-md-notes/15d48cd3fe9d0abbb49c20d41d6ade6f8e4e7e27/assets/pic/volcano-zonal-mean/zonal-mean-aerodv-nov-medium.png "Aerod_v nov") |

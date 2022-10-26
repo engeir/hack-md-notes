@@ -512,6 +512,10 @@ Simulations
 
 > DOI: [10.5194/esd-7-681-2016](https://doi.org/10.5194/esd-7-681-2016)
 
+### 2011 — Toohey et al.: The influence of eruption season on the global aerosol evolution and radiative impact of tropical volcanic eruptions
+
+> DOI: [10.5194/acp-11-12351-2011](https://doi.org/10.5194/acp-11-12351-2011)
+
 ### 2014 — Toohey et al.: The impact of volcanic aerosol on the Northern Hemisphere stratospheric polar vortex: mechanisms and sensitivity to forcing structure
 
 > DOI: [10.5194/acp-14-13063-2014](https://doi.org/10.5194/acp-14-13063-2014)
