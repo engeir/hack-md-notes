@@ -7,7 +7,7 @@ geometry: margin=3cm,top=3cm
 
 > And the shape of the temperature decay!
 
-[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/SyMdeKsfi)
+[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/SyCB0N-_i)
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/power-spectrum.md)
 
 ## Temperature decay
