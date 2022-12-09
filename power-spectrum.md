@@ -104,8 +104,11 @@ The power law was made using the following fitting parameters:
     C(amplitude, exponent) = -0.964
 ```
 
-![Log-log axis](./assets/pic/deconv-power-spectrum/loglog.png "Log-log axis")
-![Logarithmic y-axis](./assets/pic/deconv-power-spectrum/semilogy.png "Logarithmic
-y-axis")
+![Log-log
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5c18d59d54162b51f663da287d065a095813e90f/assets/pic/deconv-power-spectrum/loglog.png
+"Log-log axis")
+![Logarithmic
+y-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5c18d59d54162b51f663da287d065a095813e90f/assets/pic/deconv-power-spectrum/semilogy.png
+"Logarithmic y-axis")
 
 ## Power Spectrum of the Response function
