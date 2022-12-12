@@ -136,10 +136,12 @@ y-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5c18d59d54162b51f
     C(amplitude, exponent) = 0.958
 ```
 
-**powerlaw** output from power law fit of the power spectra of the response function.
+**powerlaw** output from power law fit of the power spectra of the response function,
+where `sigma` is standard deviation on the power `alpha`.
 
 ```toml
-0.5826287465799062
+fit.power_law.alpha = 1.8239139860706672
+fit.power_law.sigma = 0.5826287465799062
 ```
 
 ![Loglog
