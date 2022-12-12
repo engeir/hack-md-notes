@@ -145,5 +145,5 @@ fit.power_law.sigma = 0.5826287465799062
 ```
 
 ![Loglog
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/f6615d8fa41c7de73f83b966abb383e00f09600f/assets/pic/deconv-power-spectrum/loglog-newest.png
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/50bb4f5fbdafa6ac5b37facd39610756a802eb85/assets/pic/deconv-power-spectrum/loglog-newest.png
 "Loglog axis")
