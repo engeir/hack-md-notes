@@ -113,3 +113,35 @@ y-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5c18d59d54162b51f
 "Logarithmic y-axis")
 
 ## Power Spectrum of the Response function
+
+**lmfit** output from power law fit of the power spectra of the response function.
+
+```toml
+[[Model]]
+    Model(powerlaw)
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 35
+    # data points      = 896
+    # variables        = 2
+    chi-square         = 0.00280794
+    reduced chi-square = 3.1409e-06
+    Akaike info crit   = -11351.2270
+    Bayesian info crit = -11341.6311
+    R-squared          = 0.90466032
+[[Variables]]
+    amplitude:  0.00518431 +/- 1.9615e-04 (3.78%) (init = 0.001236972)
+    exponent:  -1.30151327 +/- 0.01797807 (1.38%) (init = -2.078565)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(amplitude, exponent) = 0.958
+```
+
+**powerlaw** output from power law fit of the power spectra of the response function.
+
+```toml
+0.5826287465799062
+```
+
+![Loglog
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/f6615d8fa41c7de73f83b966abb383e00f09600f/assets/pic/deconv-power-spectrum/loglog-newest.png
+"Loglog axis")
