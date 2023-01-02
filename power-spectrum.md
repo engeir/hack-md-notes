@@ -13,21 +13,21 @@ geometry: margin=3cm,top=3cm
 ## Temperature decay
 
 We first do a quick comparison between the decaying phase of the temperature time
-series, and a couple of analytical functions.
+series and a couple of analytical functions.
 
 All fits are made with the [**lmfit**](https://lmfit.github.io/lmfit-py/) library.
 
 As one can see, the single exponential does not do a good job, while the double
 exponential and the power law both follow the decay of the original time series well.
 From the statistics provided by **lmfit**, the double exponential fit comes out on top
-with respect to the `R-squared` value, with a value $0.006222$ higher than what the
-power law fit obtained. The fitting parameters are four for the double exponential, and
-two for the power law. One should note, however, that the time axis has also been
-adjusted to improve the fit of the power law.
+concerning the `R-squared`` value, with a value $0.006222$ higher than what the power
+law fit obtained. The fitting parameters are four for the double exponential, and two
+for the power law. One should note, however, that the time axis has also been adjusted
+to improve the fit of the power law.
 
 ### Exponential(s)
 
-In the plots below, we try both with one single exponential, and with two superposed
+In the plots below, we try both with one single exponential and with two superposed
 exponentials.
 
 The single exponential was made using the following fitting parameters:
@@ -114,21 +114,21 @@ y-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5c18d59d54162b51f
 
 ## Power Spectrum of the Response function
 
-The power spectrum of the response function obtained from the CESM LME data set follow a
-power law, which can be clearly seen when plotted on log-log axis. In this case we see
+The power spectrum of the response function obtained from the CESM LME data set follows
+a power law, which can be seen when plotted on the log-log axis. In this case, we see
 the weakness of the [**lmfit**](https://lmfit.github.io/lmfit-py/) library (red line in
 the plot below), since it does not properly consider data as being on a log-log scale.
 That is, the absolute difference on a linear axis is used, which for the small values in
 the tail makes for a bad fit when plotted on log-log.
 
 Let us see if the [**powerlaw**](https://github.com/jeffalstott/powerlaw) library can
-cook up something better. This is the yellow fit in the figure below, which do come
-closer to the original power spectrum (blue). This library return an exponent of `1.824`
-(the library defines the power law as $p(x)\propto x^{-\alpha}$) while **lmfit**
-returned an exponent of `-1.306`.
+cook up something better. This is the yellow fit in the figure below, which does come
+closer to the original power spectrum (blue). This library returns an exponent of
+`1.824` (the library defines the power law as $p(x)\propto x^{-\alpha}$) while **lmfit**
+returns an exponent of `-1.306`.
 
 Also included is a double exponential fit, again using the **lmfit** library, which in
-this case do not provide a good fit over the full frequency range.
+this case does not provide a good fit over the full frequency range.
 
 **lmfit** output from power law fit of the power spectra of the response function.
 
@@ -153,13 +153,13 @@ this case do not provide a good fit over the full frequency range.
 ```
 
 **powerlaw** output from power law fit of the power spectra of the response function,
-where `sigma` is standard deviation on the power `alpha`.
+where `sigma` is the standard deviation on the power `alpha`.
 
 ```toml
 fit.power_law.alpha = 1.8239139860706672
 fit.power_law.sigma = 0.5826287465799062
 ```
 
-![Loglog
+![Log-log
 axis](https://raw.githubusercontent.com/engeir/hack-md-notes/50bb4f5fbdafa6ac5b37facd39610756a802eb85/assets/pic/deconv-power-spectrum/loglog-newest.png
-"Loglog axis")
+"Log-log axis")
