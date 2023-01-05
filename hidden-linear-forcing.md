@@ -30,10 +30,23 @@ imbalance.
 
 ![Aerosol optical depth for three different volcanic
 eruptions](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caad1afbb1cf9ebe5dda0b137c550a85/assets/pic/hidden-linear-forcing/aod-which-forcing.png>
-"Aerosol optical depth for three different volcanic eruptions" =33%x)
-![Total injected sulphate for three different volcanic
+"Aerosol optical depth for three different volcanic eruptions" =33%x) ![Total injected
+sulphate for three different volcanic
 eruptions](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caad1afbb1cf9ebe5dda0b137c550a85/assets/pic/hidden-linear-forcing/injected-which-forcing.png>
-"Total injected sulphate for three different volcanic eruptions" =32%x)
-![Radiation imbalance for three different volcanic
+"Total injected sulphate for three different volcanic eruptions" =32%x) ![Radiation
+imbalance for three different volcanic
 eruptions](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caad1afbb1cf9ebe5dda0b137c550a85/assets/pic/hidden-linear-forcing/raddiff-which-forcing.png>
 "Radiation imbalance for three different volcanic eruptions" =33%x)
+
+## Comparison
+
+Now, let us use the peak values, marked in each plot above with red, horizontal lines,
+and plot forcing peaks against temperature peaks.
+
+![Aerosol optical depth versus
+temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caad1afbb1cf9ebe5dda0b137c550a85/assets/pic/hidden-linear-forcing/aod-trefht-which-forcing.png>
+"Aerosol optical depth versus temperature" =33%x) ![Total injected sulphate versus
+temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caad1afbb1cf9ebe5dda0b137c550a85/assets/pic/hidden-linear-forcing/injected-trefht-which-forcing.png>
+"Total injected sulphate versus temperature" =32%x) ![Radiation imbalance versus
+temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caad1afbb1cf9ebe5dda0b137c550a85/assets/pic/hidden-linear-forcing/raddiff-trefht-which-forcing.png>
+"Radiation imbalance versus temperature" =33%x)
