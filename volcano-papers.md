@@ -63,6 +63,11 @@ external drivers).
 
 > DOI: [10.1007/s10584-016-1648-7](https://doi.org/10.1007/s10584-016-1648-7)
 
+- Uses the MAECHAM5-HAM model, which takes emissions from AEROCOM(?) (see [this
+  paper](https://acp.copernicus.org/articles/5/1125/2005/acp-5-1125-2005.pdf), [Timmreck
+  et al. (2010)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL045464)
+  also use that emission source). Combines this with MPI-ESM
+  ([source](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jame.20038)).
 - Might have some interesting data: double volcano event in 536 and 540 CE.
 - Single events were not large compared to the last about 2000 years, but their combined
   response was the largest within that same time period.
