@@ -50,6 +50,38 @@ external drivers).
   1. Divide the loading by $1.5\times 10^{14}\,\mathrm{Tg}$ to obtain optical depth
   2. Multiply optical depth by $20$ to obtain the radiative forcing in $\mathrm{W/m^2}$
 
+### 2010 - Timmreck et al.: Aerosol size confines climate response to volcanic super‐eruptions
+
+> DOI: [10.1029/2010GL045464](https://doi.org/10.1029/2010GL045464)
+
+**Take away:** Global mean temperature anomalies (from YTT) are three times weaker than
+previously suggested.
+
+- Two more recent simulations with coupled atmosphere-ocean models calculated a decade
+  of severe cooling of up to $-10\,\mathrm{K}$ (global mean) for a Toba simulation
+  comparable to 100 times Pinatubo.
+- _For estimating climatic consequences of large volcanic eruptions, the stratospheric
+  sulphur (S) emission of the erupting magma is of central importance._ (Estimates vary
+  with more than one order of magnitude.)
+- Immediately after the eruption:
+  1. SO~2~ is oxidized into condensable H~2~SO~4~ vapour (SO~2~ oxidation is delayed
+     when compared with the evolution after the much weaker 1991 Pinatubo eruption due
+     to the limiting factor of OH-abundance)
+  2. After the maximum size is reached (about one year after the eruption), rapid
+     sedimentation of large aerosol particles occurs, so AOD is already at background
+     levels by year four (smaller than the lifetime given by Bekki of ten years)
+- In all ensemble members, maximum cooling is much smaller and of considerably shorter
+  duration than reported in former model studies. Previous studies have:
+  - $-3.5\,\mathrm{K}$ cooling but a prolonged cooling response
+  - $-10\,\mathrm{K}$ cooling but back to normal well within a decade
+- Advection of mild moist air from the Atlantic overrides the effect of radiative
+  cooling in this region (northern Eurasia), something that has been observed after most
+  historic volcanic eruptions
+- A more complete treatment of stratospheric aerosol formation and growth lead to much
+  weaker radiative forcing due to larger particle sizes and faster removal rate
+- The global distribution of temperature anomalies is highly dependent on the initial
+  state of the Pacific
+
 ### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
 
 > DOI: [10.1038/nclimate2573](https://doi.org/10.1038/nclimate2573)
