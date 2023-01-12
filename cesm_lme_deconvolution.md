@@ -75,10 +75,32 @@ response](https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic
 
 ## Noise
 
-![Cut off after 3 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut3-iter50.png)
-![Cut off after 20 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut20-iter50.png)
-![Cut off after 70 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut70-iter50.png)
-![Cut off after 90 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut90-iter50.png)
-![Cut off after 200 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut200-iter50-example194.png)
-![Cut off after 3 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut50-iter50-example6.png)
-![Cut off after 3 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut90-iter50-example194.png)
+Three different cut-offs, with the same x-axis.
+
+![Cut off after 3
+years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut3-iter50.png
+"Cut off after 3 years") ![Cut off after 20
+years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut20-iter50.png
+"Cut off after 20 years") ![Cut off after 70
+years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut70-iter50.png
+"Cut off after 70 years")
+
+Cut-off after 90 years.
+
+![Cut off after 90
+years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut90-iter50.png
+"Cut off after 90 years")
+
+Cut-off after 90 and 200 years, zoomed in on the year 194.
+
+![Cut off after 90
+years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut90-iter50-example194.png
+"Cut off after 90 years") ![Cut off after 200
+years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut200-iter50-example194.png
+"Cut off after 200 years")
+
+Cut-off after 8 years, zoomed in on the initial peak.
+
+![Cut off after 8 years, zoomed in on year
+6](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut8-iter50-example6.png
+"Cut off after 8 years, zoomed in on year 6")
