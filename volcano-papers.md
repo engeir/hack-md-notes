@@ -50,7 +50,7 @@ external drivers).
   1. Divide the loading by $1.5\times 10^{14}\,\mathrm{Tg}$ to obtain optical depth
   2. Multiply optical depth by $20$ to obtain the radiative forcing in $\mathrm{W/m^2}$
 
-### 2010 - Timmreck et al.: Aerosol size confines climate response to volcanic super‐eruptions
+### 2010 — Timmreck et al.: Aerosol size confines climate response to volcanic super‐eruptions
 
 > DOI: [10.1029/2010GL045464](https://doi.org/10.1029/2010GL045464)
 
@@ -60,9 +60,9 @@ previously suggested.
 - Two more recent simulations with coupled atmosphere-ocean models calculated a decade
   of severe cooling of up to $-10\,\mathrm{K}$ (global mean) for a Toba simulation
   comparable to 100 times Pinatubo.
-- _For estimating climatic consequences of large volcanic eruptions, the stratospheric
-  sulphur (S) emission of the erupting magma is of central importance._ (Estimates vary
-  with more than one order of magnitude.)
+- _For estimating the climatic consequences of large volcanic eruptions, the
+  stratospheric sulphur (S) emission of the erupting magma is of central importance._
+  (Estimates vary with more than one order of magnitude.)
 - Immediately after the eruption:
   1. SO~2~ is oxidized into condensable H~2~SO~4~ vapour (SO~2~ oxidation is delayed
      when compared with the evolution after the much weaker 1991 Pinatubo eruption due
