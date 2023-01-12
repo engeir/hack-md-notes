@@ -12,14 +12,15 @@ tags: Showcase, Notes
 The data is from a series of CESM simulations of the last millennium, part of the CESM
 last millennium ensemble (LME) project.
 
-The forcing used is _net solar flux at the top of the atmosphere_ while the temperature
-used is the _reference height temperature_. From the CESM LME set of simulations, an
-ensemble of five runs were performed where volcanoes were the only external forcing.
+The forcing used is the _net solar flux at the top of the atmosphere_ while the
+temperature used is the _reference height temperature_. From the CESM LME set of
+simulations, an ensemble of five runs was performed where volcanoes were the only
+external forcing.
 
 ## All ensemble members averaging
 
-We use all ensemble members to average over, where each ensemble run have been smoothed
-prior to averaging by removing frequencies in the Fourier domain. This includes the
+We use all ensemble members to average over, where each ensemble run has been smoothed
+before averaging by removing frequencies in the Fourier domain. This includes the
 seasonal variability and some overtones found at multiples of the seasonal frequency.
 
 After this, the time series are flipped (multiplied by -1), then shifted and scaled to
@@ -54,7 +55,7 @@ iterations")
 
 From [Deconvolution of strange data](/FFrnfgKrRTmOC8BqAiVgEA) it is evident that the
 forcing with some duration time on all peaks, a decaying part, is much harder to
-deconvolve than a forcing that only contain arrival times and amplitude. Therefore, we
+deconvolve than a forcing that only contains arrival times and amplitude. Therefore, we
 instead find the raw volcanic forcing used in CESM1 to make the CESM LME simulations and
 deconvolve this with the temperature.
 
