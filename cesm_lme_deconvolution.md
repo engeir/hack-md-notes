@@ -76,6 +76,34 @@ response](https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic
 
 ## Noise
 
+### Method
+
+The following analysis uses the bootstrapping method to look at the noise level in the
+original response function we obtain from the deconvolution algorithm using the CESM LME
+data sets, all shown above.
+
+Creating the time series then consists of the following steps:
+
+1. Let $F$ and $T$ be the de-seasonalized forcing and temperature time series from the
+   CESM LME data set.
+2. Deconvolution gives the estimates shown in the plots above for the response function,
+   $R$.
+3. We then create a new response function by setting all values to zero after a given
+   year, for example after year 20, and denote this $R_{\mathrm{cut}}$.
+4. From a control run in the CESM LME data set we have a temperature time series
+   $T_{\mathrm{ctrl}}$, representing internal noise, then let
+   $\widetilde{T}_{\mathrm{ctrl}}$ be that temperature time series but with randomized
+   phase.
+5. A new forced temperature time series is created as
+   $T_{\mathrm{cut}}=F\ast{}R_{\mathrm{cut}}+\widetilde{T}_{\mathrm{ctrl}}$.
+6. A new estimate of the response function is then created as
+   $\widehat{R}_{\mathrm{cut}}=f(T_{\mathrm{cut}}, F)$, where $f()$ represents the
+   deconvolution algorithm.
+7. Repeat steps 5 and 6 to get any number of new estimates of the response function.
+   Importantly, the random phase temperature is re-generated each time.
+
+### Plots
+
 Three different cut-offs, with the same x-axis.
 
 ![Cut off after 3
