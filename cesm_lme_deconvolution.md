@@ -72,3 +72,13 @@ response](https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic
 ![With 10000 iterations:
 response](https://raw.githubusercontent.com/engeir/hack-md-notes/main/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_delta_10000-respnse.png
 "With 10000 iterations: response")
+
+## Noise
+
+![Cut off after 3 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut3-iter50.png)
+![Cut off after 20 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut20-iter50.png)
+![Cut off after 70 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut70-iter50.png)
+![Cut off after 90 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut90-iter50.png)
+![Cut off after 200 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut200-iter50-example194.png)
+![Cut off after 3 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut50-iter50-example6.png)
+![Cut off after 3 years](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut90-iter50-example194.png)
