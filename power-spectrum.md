@@ -229,5 +229,5 @@ axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0
 "Log-log axis")
 
 ![Log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-newest_new2.png
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/7e5596ba082e8c7031ee9c80fd4a5c0df3e50700/assets/pic/deconv-power-spectrum/loglog-newest_new2.png
 "Log-log axis")
