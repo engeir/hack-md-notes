@@ -114,6 +114,22 @@ y-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5c18d59d54162b51f
 
 ## Power Spectrum of the Response function
 
+We first define how PSD is to be calculated. We do this with the Welch method from the
+**scipy** library:
+
+```python
+def spectrum(signal) -> tuple[np.ndarray, np.ndarray]:
+    """Calculate the one sided spectrum of the signal."""
+    signal = (signal - signal.mean()) / signal.std()
+    sample_frequency = 365
+    frequency, power = ssi.welch(
+        signal, sample_frequency, nperseg=2**13, return_onesided=False
+    )
+    frequency_plus = frequency[frequency > 0]
+    power_plus = power[frequency > 0]
+    return np.asarray(frequency_plus[1:]), np.asarray(power_plus[1:])
+```
+
 The power spectrum of the response function obtained from the CESM LME data set follows
 a power law, which can be seen when plotted on the log-log axis. In this case, we see
 the weakness of the [**lmfit**](https://lmfit.github.io/lmfit-py/) library (red line in
@@ -162,4 +178,56 @@ fit.power_law.sigma = 0.5826287465799062
 
 ![Log-log
 axis](https://raw.githubusercontent.com/engeir/hack-md-notes/50bb4f5fbdafa6ac5b37facd39610756a802eb85/assets/pic/deconv-power-spectrum/loglog-newest.png
+"Log-log axis")
+
+### All PSDs
+
+```toml
+[[Model]]
+    Model(powerlaw)
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 889
+    # variables        = 2
+    chi-square         = 3.8829e-52
+    reduced chi-square = 4.3775e-55
+    Akaike info crit   = -111270.304
+    Bayesian info crit = -111260.723
+    R-squared          = 1.00000000
+[[Variables]]
+    amplitude:  0.00137242 +/- 2.5928e-04 (18.89%) (init = 0.001195273)
+    exponent:  -2.09505979 +/- 0.05204010 (2.48%) (init = -2.066896)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(amplitude, exponent) = -1.000
+#######################################################################
+[[Model]]
+    Model(powerlaw)
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 59
+    # data points      = 889
+    # variables        = 2
+    chi-square         = 9.9370e-50
+    reduced chi-square = 1.1203e-52
+    Akaike info crit   = -106340.921
+    Bayesian info crit = -106331.341
+    R-squared          = 1.00000000
+[[Variables]]
+    amplitude:  0.00472482 +/- 0.00170018 (35.98%) (init = 0.01773909)
+    exponent:  -2.23039279 +/- 0.09908338 (4.44%) (init = -2.540198)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(amplitude, exponent) = -1.000
+```
+
+![Log-log
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-all-new2.png
+"Log-log axis")
+
+![Log-log
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-all-newest.png
+"Log-log axis")
+
+![Log-log
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-newest_new2.png
 "Log-log axis")
