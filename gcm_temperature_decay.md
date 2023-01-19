@@ -3,7 +3,7 @@ tags: Showcase, Notes
 geometry: margin=3cm,top=3cm
 ---
 
-# [GCM] Temperature Decay Times
+# [GCM](gcm) Temperature Decay Times
 
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/S1XVyfNC5)
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/gcm_temperature_dacay.md)
@@ -40,9 +40,9 @@ unrealistic.
 The below show _total aerosol optical depth in visible band_ corresponding to the
 simulations above.
 
-![Forcing represented by the variable [AEROD_v] corresponding to the above temperature
+![Forcing represented by the variable AEROD_v corresponding to the above temperature
 plot](https://raw.githubusercontent.com/engeir/hack-md-notes/504487314220080ea12835270742ae91f26fa886/assets/pic/gcm-temperature-decay/temperature-decay-aerod_v.png
-"Forcing represented by the variable [AEROD_v] corresponding to the above temperature
+"Forcing represented by the variable AEROD_v corresponding to the above temperature
 plot")
 
 ## Comparing to historical eruptions
@@ -66,8 +66,7 @@ but also from $10$ to $360$ time Mount Pinatubo[^5]. Whether the climate model c
 with such perturbations realistically, as it should with Pinatubo-like eruptions, is
 more uncertain.
 
-[GCM]: General Circulation Model
-[AEROD_v]: total aerosol optical depth in visible band
+*[GCM]: General Circulation Model
 
 [^1]:
     Toohey, M., Stevens, B., et al. (2016), Easy Volcanic Aerosol (EVA v1.0): An
