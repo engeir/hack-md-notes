@@ -3,7 +3,7 @@ tags: Showcase, Notes
 geometry: margin=3cm,top=3cm
 ---
 
-# GCM Temperature Decay Times
+# [GCM] Temperature Decay Times
 
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/S1XVyfNC5)
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/gcm_temperature_dacay.md)
@@ -16,7 +16,7 @@ both of the same size as the middle single-event volcano.
 
 ![Raw surface air reference temperature for a control run, single-event runs and a
 double-event
-run](https://raw.githubusercontent.com/engeir/hack-md-notes/fa58e16e7d510e15ffe8a589ad09984fb795e327/assets/pic/gcm-temperature-decay/temperature-decay-raw.png
+run](https://raw.githubusercontent.com/engeir/hack-md-notes/504487314220080ea12835270742ae91f26fa886/assets/pic/gcm-temperature-decay/temperature-decay-raw.png
 "Raw surface air reference temperature for a control run, single-event runs and a
 double-event run")
 
@@ -24,7 +24,7 @@ Let us have a different look at this where we average over each year:
 
 ![Yearly averaged surface air reference temperature for a control run, single-event runs
 and a double-event
-run](https://raw.githubusercontent.com/engeir/hack-md-notes/4cfe0e39fca9474b5dcdbf9ab59eae968a32ecd4/assets/pic/gcm-temperature-decay/temperature-decay-avg.png
+run](https://raw.githubusercontent.com/engeir/hack-md-notes/504487314220080ea12835270742ae91f26fa886/assets/pic/gcm-temperature-decay/temperature-decay-avg.png
 "Yearly averaged surface air reference temperature for a control run, single-event runs
 and a double-event run")
 
@@ -40,9 +40,9 @@ unrealistic.
 The below show _total aerosol optical depth in visible band_ corresponding to the
 simulations above.
 
-![Forcing represented by the variable AEROD_v corresponding to the above temperature
-plot](https://raw.githubusercontent.com/engeir/hack-md-notes/9b9a0c0ec490b45097cd861e0a9b876363b9d11d/assets/pic/gcm-temperature-decay/temperature-decay-aerod_v.png
-"Forcing represented by the variable AEROD_v corresponding to the above temperature
+![Forcing represented by the variable [AEROD_v] corresponding to the above temperature
+plot](https://raw.githubusercontent.com/engeir/hack-md-notes/504487314220080ea12835270742ae91f26fa886/assets/pic/gcm-temperature-decay/temperature-decay-aerod_v.png
+"Forcing represented by the variable [AEROD_v] corresponding to the above temperature
 plot")
 
 ## Comparing to historical eruptions
@@ -66,8 +66,8 @@ but also from $10$ to $360$ time Mount Pinatubo[^5]. Whether the climate model c
 with such perturbations realistically, as it should with Pinatubo-like eruptions, is
 more uncertain.
 
-_[GCM]: General Circulation Model
-_[AEROD_v]: total aerosol optical depth in visible band
+[GCM]: General Circulation Model
+[AEROD_v]: total aerosol optical depth in visible band
 
 [^1]:
     Toohey, M., Stevens, B., et al. (2016), Easy Volcanic Aerosol (EVA v1.0): An
