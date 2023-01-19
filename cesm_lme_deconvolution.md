@@ -133,3 +133,10 @@ Cut-off after 8 years, zoomed in on the initial peak.
 ![Cut off after 8 years, zoomed in on year
 6](https://raw.githubusercontent.com/engeir/hack-md-notes/aaa8494525cd9b2e50ae76219b22a48f84611a10/assets/pic/deconv-cesm-lme/cesm-lme-cut8-iter50-example6.png
 "Cut off after 8 years, zoomed in on year 6")
+
+Instead of cutting off at a specified index, we now use an exponentially decaying
+response function.
+
+![Exponential response
+function](https://raw.githubusercontent.com/engeir/hack-md-notes/5b997428db1314129d6f170956dc9a9258d5cc1e/assets/pic/deconv-cesm-lme/cesm-lme-cutexp-iter50.png
+"Exponential response function")
