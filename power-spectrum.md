@@ -182,6 +182,18 @@ axis](https://raw.githubusercontent.com/engeir/hack-md-notes/50bb4f5fbdafa6ac5b3
 
 ### All PSDs
 
+![180-day running
+mean](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-all-newest.png
+"180-day running mean")
+
+![15-day running
+mean](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-all-new2.png
+"15-day running mean")
+
+![No running
+mean](https://raw.githubusercontent.com/engeir/hack-md-notes/8627648fed0dcf3bd59e79d1aac84089fd800e66/assets/pic/deconv-power-spectrum/loglog-all-old-daily-3000it.png
+"No running mean")
+
 ```toml
 [[Model]]
     Model(powerlaw)
@@ -238,18 +250,7 @@ axis](https://raw.githubusercontent.com/engeir/hack-md-notes/50bb4f5fbdafa6ac5b3
     C(amplitude, exponent) = -0.991
 ```
 
-![Log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-all-new2.png
-"Log-log axis")
-
-![Log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0715d7560cb39ae2cd4aca/assets/pic/deconv-power-spectrum/loglog-all-newest.png
-"Log-log axis")
-
-![Log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/8627648fed0dcf3bd59e79d1aac84089fd800e66/assets/pic/deconv-power-spectrum/loglog-all-old-daily-3000it.png
-"Log-log axis")
-
-![Log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/8627648fed0dcf3bd59e79d1aac84089fd800e66/assets/pic/deconv-power-spectrum/loglog-newest_new2_olddaily.png
-"Log-log axis")
+![PSD and power estimate for a smaller range of frequencies of the above three response
+functions](https://raw.githubusercontent.com/engeir/hack-md-notes/8627648fed0dcf3bd59e79d1aac84089fd800e66/assets/pic/deconv-power-spectrum/loglog-newest_new2_olddaily.png
+"PSD and power estimate for a smaller range of frequencies of the above three response
+functions")
