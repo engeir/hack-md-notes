@@ -190,34 +190,52 @@ axis](https://raw.githubusercontent.com/engeir/hack-md-notes/50bb4f5fbdafa6ac5b3
     # function evals   = 13
     # data points      = 889
     # variables        = 2
-    chi-square         = 3.8829e-52
-    reduced chi-square = 4.3775e-55
-    Akaike info crit   = -111270.304
-    Bayesian info crit = -111260.723
+    chi-square         = 5.5977e-20
+    reduced chi-square = 6.3108e-23
+    Akaike info crit   = -45441.1908
+    Bayesian info crit = -45431.6106
     R-squared          = 1.00000000
 [[Variables]]
-    amplitude:  0.00137242 +/- 2.5928e-04 (18.89%) (init = 0.001195273)
-    exponent:  -2.09505979 +/- 0.05204010 (2.48%) (init = -2.066896)
+    amplitude:  0.00109805 +/- 1.5096e-05 (1.37%) (init = 0.001195273)
+    exponent:  -2.03713872 +/- 0.00465884 (0.23%) (init = -2.066896)
 [[Correlations]] (unreported correlations are < 0.100)
-    C(amplitude, exponent) = -1.000
+    C(amplitude, exponent) = -0.970
 #######################################################################
 [[Model]]
     Model(powerlaw)
 [[Fit Statistics]]
     # fitting method   = leastsq
-    # function evals   = 59
+    # function evals   = 22
     # data points      = 889
     # variables        = 2
-    chi-square         = 9.9370e-50
-    reduced chi-square = 1.1203e-52
-    Akaike info crit   = -106340.921
-    Bayesian info crit = -106331.341
+    chi-square         = 3.0428e-19
+    reduced chi-square = 3.4305e-22
+    Akaike info crit   = -43936.0946
+    Bayesian info crit = -43926.5144
     R-squared          = 1.00000000
 [[Variables]]
-    amplitude:  0.00472482 +/- 0.00170018 (35.98%) (init = 0.01773909)
-    exponent:  -2.23039279 +/- 0.09908338 (4.44%) (init = -2.540198)
+    amplitude:  0.00847024 +/- 3.4066e-04 (4.02%) (init = 0.005694137)
+    exponent:  -2.47469249 +/- 0.01655384 (0.67%) (init = -2.380111)
 [[Correlations]] (unreported correlations are < 0.100)
-    C(amplitude, exponent) = -1.000
+    C(amplitude, exponent) = -0.917
+#######################################################################
+[[Model]]
+    Model(powerlaw)
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 26
+    # data points      = 889
+    # variables        = 2
+    chi-square         = 2.1253e-17
+    reduced chi-square = 2.3961e-20
+    Akaike info crit   = -40161.1313
+    Bayesian info crit = -40151.5511
+    R-squared          = 1.00000000
+[[Variables]]
+    amplitude:  0.00544160 +/- 4.3852e-04 (8.06%) (init = 0.002388811)
+    exponent:  -1.40405019 +/- 0.02461607 (1.75%) (init = -1.153645)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(amplitude, exponent) = -0.991
 ```
 
 ![Log-log
@@ -229,5 +247,9 @@ axis](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0
 "Log-log axis")
 
 ![Log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/7e5596ba082e8c7031ee9c80fd4a5c0df3e50700/assets/pic/deconv-power-spectrum/loglog-newest_new2.png
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/8627648fed0dcf3bd59e79d1aac84089fd800e66/assets/pic/deconv-power-spectrum/loglog-all-old-daily-3000it.png
+"Log-log axis")
+
+![Log-log
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/8627648fed0dcf3bd59e79d1aac84089fd800e66/assets/pic/deconv-power-spectrum/loglog-newest_new2_olddaily.png
 "Log-log axis")
