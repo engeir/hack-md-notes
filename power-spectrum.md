@@ -20,10 +20,10 @@ All fits are made with the [**lmfit**](https://lmfit.github.io/lmfit-py/) librar
 As one can see, the single exponential does not do a good job, while the double
 exponential and the power law both follow the decay of the original time series well.
 From the statistics provided by **lmfit**, the double exponential fit comes out on top
-concerning the `R-squared`` value, with a value $0.006222$ higher than what the power
-law fit obtained. The fitting parameters are four for the double exponential, and two
-for the power law. One should note, however, that the time axis has also been adjusted
-to improve the fit of the power law.
+concerning the `R-squared` value, with a value $0.006222$ higher than what the power law
+fit obtained. The fitting parameters are four for the double exponential, and two for
+the power law. One should note, however, that the time axis has also been adjusted to
+improve the fit of the power law.
 
 ### Exponential(s)
 
