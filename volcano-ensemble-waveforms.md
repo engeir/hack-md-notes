@@ -38,11 +38,11 @@ zero, we get the plot shown below.
 ![Medium (blue and full), medium-plus (orage and dotted) and strong (green dashed)
 overlaid. The black plots are the medians across the four participant ensemble, while
 the coloured shading cover the 5th to the 95th
-percentile](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png
+percentile](https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png
 "Medium (blue and full), medium-plus (orage and dotted) and strong (green dashed)
 overlaid. The black plots are the medians across the four participant ensemble, while
 the coloured shading cover the 5th to the 95th percentile")
 
 ![Same as above, but scaled by the maximum
-value](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png
+value](https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png
 "Same as above, but scaled by the maximum value")
