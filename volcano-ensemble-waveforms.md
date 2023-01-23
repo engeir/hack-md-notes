@@ -44,5 +44,5 @@ overlaid. The black plots are the medians across the four participant ensemble, 
 the coloured shading cover the 5th to the 95th percentile")
 
 ![Same as above, but scaled by the maximum
-value](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png
+value](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png
 "Same as above, but scaled by the maximum value")
