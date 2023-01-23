@@ -18,15 +18,15 @@ We may first have a look at what the ensemble median and the 5th to 95th percent
 look like.
 
 ![Medium (smallest) forcing
-strength](https://raw.githubusercontent.com/engeir/hack-md-notes/08784c9b33ad61721e095bb34a3a7651ed43c14b/assets/pic/volcano-ensemble-waveforms/medium-waveform.png
+strength](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/medium-waveform.png
 "Medium (smallest) forcing strength")
 
 ![Medium-plus (middle) forcing
-strength](https://raw.githubusercontent.com/engeir/hack-md-notes/08784c9b33ad61721e095bb34a3a7651ed43c14b/assets/pic/volcano-ensemble-waveforms/medium-plus-waveform.png
+strength](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/medium-plus-waveform.png
 "Medium-plus (middle) forcing strength")
 
 ![Strong (strongest) forcing
-strength](https://raw.githubusercontent.com/engeir/hack-md-notes/08784c9b33ad61721e095bb34a3a7651ed43c14b/assets/pic/volcano-ensemble-waveforms/strong-waveform.png
+strength](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/strong-waveform.png
 "Strong (strongest) forcing strength")
 
 ## Comparing normalized time series
@@ -38,7 +38,11 @@ zero, we get the plot shown below.
 ![Medium (blue and full), medium-plus (orage and dotted) and strong (green dashed)
 overlaid. The black plots are the medians across the four participant ensemble, while
 the coloured shading cover the 5th to the 95th
-percentile](https://raw.githubusercontent.com/engeir/hack-md-notes/08784c9b33ad61721e095bb34a3a7651ed43c14b/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png
+percentile](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png
 "Medium (blue and full), medium-plus (orage and dotted) and strong (green dashed)
 overlaid. The black plots are the medians across the four participant ensemble, while
 the coloured shading cover the 5th to the 95th percentile")
+
+![Same as above, but scaled by the maximum
+value](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png
+"Same as above, but scaled by the maximum value")
