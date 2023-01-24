@@ -140,3 +140,9 @@ response function.
 ![Exponential response
 function](https://raw.githubusercontent.com/engeir/hack-md-notes/5b997428db1314129d6f170956dc9a9258d5cc1e/assets/pic/deconv-cesm-lme/cesm-lme-cutexp-iter50.png
 "Exponential response function")
+
+And a function with algebraic decay.
+
+![Algebraic response
+function](https://raw.githubusercontent.com/engeir/hack-md-notes/c34e802bb40472fa4c38a7c8c99e6057423498b9/assets/pic/deconv-cesm-lme/cesm-lme-cutpow-iter50.png
+"Algebraic response function")
