@@ -161,3 +161,8 @@ lag](https://raw.githubusercontent.com/engeir/hack-md-notes/ec30afc13b104eb83d60
 ![Adjusted height, aligned forcing and response function, positive time
 lag](https://raw.githubusercontent.com/engeir/hack-md-notes/ec30afc13b104eb83d60dd714f005a2c7b07e226/assets/pic/deconv-cesm-lme/cesm-lme-cutpow-iter10-aligned_forcing-zoom.png
 "Adjusted height, aligned forcing and response function, positive time lag")
+
+From this, it is clear that the deconvolution is affected by the different peaks in the
+forcing time series. In year 194, the largest spike appears, but also between 300 and
+400 years there are several spikes, as well as near the end at a time lag of almost 600
+years.
