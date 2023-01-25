@@ -194,6 +194,10 @@ mean](https://raw.githubusercontent.com/engeir/hack-md-notes/c205d5901f991cde5a0
 mean](https://raw.githubusercontent.com/engeir/hack-md-notes/8627648fed0dcf3bd59e79d1aac84089fd800e66/assets/pic/deconv-power-spectrum/loglog-all-old-daily-3000it.png
 "No running mean")
 
+![No running
+mean, log-lin scale](https://raw.githubusercontent.com/engeir/hack-md-notes/8b377384f3aab852ae3907358177afc57bdf20c8/assets/pic/deconv-power-spectrum/loglog-all-old-daily-3000it-log-lin.png
+"No running mean, log-lin scale")
+
 ```toml
 [[Model]]
     Model(powerlaw)
