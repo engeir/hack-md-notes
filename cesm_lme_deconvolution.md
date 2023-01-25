@@ -146,3 +146,18 @@ And a function with algebraic decay.
 ![Algebraic response
 function](https://raw.githubusercontent.com/engeir/hack-md-notes/c34e802bb40472fa4c38a7c8c99e6057423498b9/assets/pic/deconv-cesm-lme/cesm-lme-cutpow-iter50.png
 "Algebraic response function")
+
+### Aligning volcanic forcing
+
+There are some spikes in the noise that likely are due to the most prominent volcanic
+forcing events. As a quick check, we roll the forcing such that the largest eruption
+sits at the response time lag equal to zero, in the hope that the other eruptions will
+line up with the spikes in the response function.
+
+![Full height aligned forcing and response function, positive time
+lag](https://raw.githubusercontent.com/engeir/hack-md-notes/ec30afc13b104eb83d60dd714f005a2c7b07e226/assets/pic/deconv-cesm-lme/cesm-lme-cutpow-iter10-aligned_forcing.png
+"Full height aligned forcing and response function, positive time lag")
+
+![Adjusted height, aligned forcing and response function, positive time
+lag](https://raw.githubusercontent.com/engeir/hack-md-notes/ec30afc13b104eb83d60dd714f005a2c7b07e226/assets/pic/deconv-cesm-lme/cesm-lme-cutpow-iter10-aligned_forcing-zoom.png
+"Adjusted height, aligned forcing and response function, positive time lag")
