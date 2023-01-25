@@ -50,3 +50,20 @@ temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caa
 "Total injected sulphate versus temperature" =32%x) ![Radiation imbalance versus
 temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/23da90d9caad1afbb1cf9ebe5dda0b137c550a85/assets/pic/hidden-linear-forcing/raddiff-trefht-which-forcing.png>
 "Radiation imbalance versus temperature" =33%x)
+
+## CESM LME
+
+But in the above, we have only three data points to compare, which are many too few. Let
+us instead try to plot all non-zero values in the CESM LME forcing time series and the
+corresponding temperature value at that element. There will be significant noise to
+consider especially for the smallest eruptions, and some eruptions that follow close may
+get unrealistically large temperature values, but maybe the large number of events will
+clear things up.
+
+![On a lin-lin
+scale](https://raw.githubusercontent.com/engeir/hack-md-notes/d73ba8798c0e9d554886e41c27fbc585bd12c7d7/assets/pic/hidden-linear-forcing/cesm-lme-frc-vs-temp-lin.png
+"On a lin-lin scale")
+
+![On a log-lin
+scale](https://raw.githubusercontent.com/engeir/hack-md-notes/d73ba8798c0e9d554886e41c27fbc585bd12c7d7/assets/pic/hidden-linear-forcing/cesm-lme-frc-vs-temp-log-lin.png
+"On a log-lin scale")
