@@ -565,7 +565,7 @@ Simulations
 
 > DOI: [10.1038/s41561-018-0286-2](https://doi.org/10.1038/s41561-018-0286-2)
 
-### 2019 - Zanchettin et al.: Clarifying the Relative Role of Forcing Uncertainties and Initial-Condition Unknowns in Spreading the Climate Response to Volcanic Eruptions
+### 2019 — Zanchettin et al.: Clarifying the Relative Role of Forcing Uncertainties and Initial-Condition Unknowns in Spreading the Climate Response to Volcanic Eruptions
 
 > DOI: [10.1029/2018GL081018](https://doi.org/10.1029/2018GL081018)
 
