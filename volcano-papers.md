@@ -565,6 +565,10 @@ Simulations
 
 > DOI: [10.1038/s41561-018-0286-2](https://doi.org/10.1038/s41561-018-0286-2)
 
+### 2019 - Zanchettin et al.: Abstract Radiative forcing from volcanic aerosol impacts surface temperatures; however, the background climate state also affects the response. A key question thus concerns whether constraining forcing estimates is more important than constraining initial conditions for accurate simulation and attribution of posteruption climate anomalies. Here we test whether different realistic volcanic forcing magnitudes for the 1815 Tambora eruption yield distinguishable ensemble surface temperature responses. We perform a cluster analysis on a superensemble of climate simulations including three 30-member ensembles using the same set of initial conditions but different volcanic forcings based on uncertainty estimates. Results clarify how forcing uncertainties can overwhelm initial-condition spread in boreal summer due to strong direct radiative impact, while the effect of initial conditions predominate in winter, when dynamics contribute to large ensemble spread. In our setup, current uncertainties affecting reconstruction-simulation comparisons prevent conclusions about the magnitude of the Tambora eruption and its relation to the “year without summer.”
+
+> DOI: [10.1029/2018GL081018](https://doi.org/10.1029/2018GL081018)
+
 ## Motivation
 
 - Comment in Nature: [Huge volcanic eruptions: time to
