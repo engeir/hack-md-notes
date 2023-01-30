@@ -12,9 +12,8 @@ lang: en-GB
 
 :::info
 Potential simulations from MIPs (although I haven't found any realizations of them yet)
-are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**'
-(VolMIP tier 3) and '**[past1000-volc-cluster]**' (PMIP tier 3, this includes all
-external drivers).
+are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMIP tier
+3) and '**[past1000-volc-cluster]**' (PMIP tier 3, this includes all external drivers).
 :::
 
 ## Literature
