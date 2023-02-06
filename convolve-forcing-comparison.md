@@ -15,9 +15,15 @@ different forcing alternatives that we get from CESM2.
 
 The forcing alternatives are
 
-1. Total aerosol optical depth in visible band
-2. Total injected SO2 aerosols
-3. Radiation imbalance at the top of the atmosphere
+1. Total aerosol optical depth in visible band (AOD)
+2. Total injected SO2 aerosols (Injection)
+3. Radiation imbalance at the top of the atmosphere (Imbalance)
+
+The figure below shows the three alternatives scaled to have similar maximum amplitudes.
+
+![Forcing
+alternatives](https://raw.githubusercontent.com/engeir/hack-md-notes/51a885097f07416f79c7bc6ffb724dbc42722eb3/assets/pic/convolve-forcing-comparison/forcing-convolution-forcings.png
+"Forcing alternatives")
 
 ## Response
 
