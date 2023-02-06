@@ -5,7 +5,7 @@ lang: en-GB
 
 # Convolve forcing with made-up responses
 
-[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/SJPvH8Ecj)
+[![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/ByJm9tCno)
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/convolve-forcing-comparison.md)
 
 Here, we want to create a response function from a functional form and convolve it with
