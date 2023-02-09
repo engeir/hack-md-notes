@@ -21,9 +21,17 @@ The forcing alternatives are
 
 The figure below shows the three alternatives scaled to have similar maximum amplitudes.
 
-![Forcing
-alternatives](https://raw.githubusercontent.com/engeir/hack-md-notes/51a885097f07416f79c7bc6ffb724dbc42722eb3/assets/pic/convolve-forcing-comparison/forcing-convolution-forcings.png
-"Forcing alternatives")
+![Forcing alternatives,
+medium](https://raw.githubusercontent.com/engeir/hack-md-notes/600b766e13a589d9ef67821931f3b03f89f995ee/assets/pic/convolve-forcing-comparison/forcing-convolution-forcings-medium.png
+"Forcing alternatives, medium")
+
+![Forcing alternatives,
+medium-plus](https://raw.githubusercontent.com/engeir/hack-md-notes/600b766e13a589d9ef67821931f3b03f89f995ee/assets/pic/convolve-forcing-comparison/forcing-convolution-forcings-medium-plus.png
+"Forcing alternatives, medium-plus")
+
+![Forcing alternatives,
+strong](https://raw.githubusercontent.com/engeir/hack-md-notes/600b766e13a589d9ef67821931f3b03f89f995ee/assets/pic/convolve-forcing-comparison/forcing-convolution-forcings-strong.png
+"Forcing alternatives, strong")
 
 ## Response
 
