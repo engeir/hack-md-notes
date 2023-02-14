@@ -33,6 +33,10 @@ medium-plus](https://raw.githubusercontent.com/engeir/hack-md-notes/600b766e13a5
 strong](https://raw.githubusercontent.com/engeir/hack-md-notes/600b766e13a589d9ef67821931f3b03f89f995ee/assets/pic/convolve-forcing-comparison/forcing-convolution-forcings-strong.png
 "Forcing alternatives, strong")
 
+![Forcing alternatives, strong, with a log-lin
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/6f220e7/assets/pic/convolve-forcing-comparison/forcing-convolution-forcings-strong-semilogy.png
+"Forcing alternatives, strong, with a log-lin axis")
+
 ## Response
 
 We create two different response functions; one with exponential decay and one with
