@@ -32,6 +32,15 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 - Sensitivity matter less in the first year or two, then larger sensitivity gives a
   slower recovery to equilibrium than the weak sensitivity case.
 
+### 2005 — Hansen et al.: Efficacy of climate forcings
+
+> DOI: [10.1029/2005JD005776](https://doi.org/10.1029/2005JD005776)
+
+- Wishes to compare the efficacy of different climate forcings, where ideally they all
+  have the same efficacy of one
+- The efficacy is defined as the global temperature response per unit forcing relative
+  to the response to CO2 forcing
+
 ### 2005 — Jones et al.: An AOGCM simulation of the climate response to a volcanic super-eruption
 
 > DOI: [10.1007/s00382-005-0066-8](https://doi.org/10.1007/s00382-005-0066-8)
@@ -159,6 +168,18 @@ Results and discussion
   fixed sea-surface temperature).
 - ==Uses large aerosol perturbations, and it is assumed that the temperature response
   scales linearly with forcing strengths. Calls for further studies to explore that.==
+
+### 2019 — Zanchettin et al.: Clarifying the Relative Role of Forcing Uncertainties and Initial-Condition Unknowns in Spreading the Climate Response to Volcanic Eruptions
+
+> DOI: [10.1029/2018GL081018](https://doi.org/10.1029/2018GL081018)
+
+- Want to answer the question "Is constraining the magnitude of forcing estimates more
+  important than constraining initial conditions to be able to accurately simulate the
+  climate response to a specific volcanic eruption?"
+- Initial conditions can dominate the global mean temperature response from volcanic
+  eruptions compared to different realistic choices on its magnitude
+- A big summer-winter asymmetry in the ensemble spread of posteruption anomalies,
+  reflecting a prominent contribution of internal dynamics to the winter response
 
 ### 2020 — Gregory et al.: How accurately can the climate sensitivity to CO~2~ be estimated from historical climate change?
 
@@ -565,10 +586,6 @@ Simulations
 ### 2019 — Toohey et al.: Disproportionately strong climate forcing from extratropical explosive volcanic eruptions
 
 > DOI: [10.1038/s41561-018-0286-2](https://doi.org/10.1038/s41561-018-0286-2)
-
-### 2019 — Zanchettin et al.: Clarifying the Relative Role of Forcing Uncertainties and Initial-Condition Unknowns in Spreading the Climate Response to Volcanic Eruptions
-
-> DOI: [10.1029/2018GL081018](https://doi.org/10.1029/2018GL081018)
 
 ## Motivation
 
