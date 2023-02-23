@@ -45,8 +45,26 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 
 > DOI: [10.1007/s00382-005-0066-8](https://doi.org/10.1007/s00382-005-0066-8)
 
-- AOD of ~15, similar in size to Toba 72ky ago (two orders of magnitude larger than
-  Mount Pinatubo, i.e., Pinatubo volcanic aerosol time 100).
+- The first coupled model simulation of a generic volcanic super-eruption
+- Examined the response to a maximum stratospheric loading of $1.4\,\mathrm{Gt}$
+  ($=1400\,\mathrm{Mt}=1400\,\mathrm{Tg}$) of sulphate aerosols
+- AOD of $\sim 15$, similar in size to Toba 72ky ago (two orders of magnitude larger
+  than Mount Pinatubo, i.e., Pinatubo volcanic aerosol times 100).
+- Maximum radiation TOA imbalance of $-60\,\mathrm{Wm^{-2}}$
+- A maximum temperature fall of $10.7\,\mathrm{K}$, $9.4\,\mathrm{K}$ for the maximum
+  annual mean
+- Albedo increase from $0.3$ to $0.7$
+- They used HadCM3, with the optical depth values input into the model as monthly
+  quarterspheric values
+- Within the model, the sulphuric acid mass was calculated and distributed evenly above
+  the model tropopause
+- Since they use aerosol concentrations of $100\times$Pinatubo, any non-linear chemical
+  processes that may occur will not be included
+- For example, the highest level in HadCM3 is $5\,\mathrm{hPa}$ ($\sim
+  30\,\mathrm{km}$), but a plume from a super-eruption could possibly reach above
+  $40\,\mathrm{km}$
+- ==Encourage more work on expanding our knowledge of past volcanic eruptions and their
+  impact on the environment==
 
 ### 2008 — Gao et al.: Volcanic forcing of climate over the past 1500 years: An improved ice core-based index for climate models
 
