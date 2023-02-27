@@ -58,12 +58,17 @@ us instead try to plot all non-zero values in the CESM LME forcing time series a
 corresponding temperature value at that element. There will be significant noise to
 consider especially for the smallest eruptions, and some eruptions that follow close may
 get unrealistically large temperature values, but maybe the large number of events will
-clear things up.
+clear things up. We may also use the deconvolution algorithm to get a response function
+estimate that we subsequently use to estimate the temperature, thus reducing the noise.
 
-![On a lin-lin
-scale](https://raw.githubusercontent.com/engeir/hack-md-notes/d73ba8798c0e9d554886e41c27fbc585bd12c7d7/assets/pic/hidden-linear-forcing/cesm-lme-frc-vs-temp-lin.png
-"On a lin-lin scale")
+![Injection versus
+temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/injection_vs_temperature.png
+"Injection versus temperature")
 
-![On a log-lin
-scale](https://raw.githubusercontent.com/engeir/hack-md-notes/d73ba8798c0e9d554886e41c27fbc585bd12c7d7/assets/pic/hidden-linear-forcing/cesm-lme-frc-vs-temp-log-lin.png
-"On a log-lin scale")
+![Injection versus aerosol optical
+depth](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/injection_vs_aod.png
+"Injection versus aerosol optical depth")
+
+![Aerosol optical depth versus
+temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/aod_vs_temperature.png
+"Aerosol optical depth versus temperature")
