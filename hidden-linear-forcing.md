@@ -65,6 +65,10 @@ estimate that we subsequently use to estimate the temperature, thus reducing the
 temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/injection_vs_temperature.png
 "Injection versus temperature")
 
+![Injection versus temperature without
+deconvolution](https://raw.githubusercontent.com/engeir/hack-md-notes/b66540b/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png
+"Injection versus temperature without deconvolution")
+
 ![Injection versus aerosol optical
 depth](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/injection_vs_aod.png
 "Injection versus aerosol optical depth")
