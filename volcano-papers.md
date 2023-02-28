@@ -549,6 +549,7 @@ Simulations
 
 > DOI: [10.5194/gmd-11-2633-2018](https://doi.org/10.5194/gmd-11-2633-2018)
 
+- A good resource for what processes affect and are affected by volcanic eruptions
 - An intercomparison revealed that modelled volcanic sulphate deposition varies
   substantially in timing, spatial pattern, and magnitude between the models
 - Still, no clear understanding of which model is closer to reality in describing the
@@ -558,6 +559,12 @@ Simulations
 - There is rising interest among the climate community in global models with interactive
   aerosol microphysics, partly because of the unclear role of major and smaller
   volcanoes in the future climate (e.g., Bethke et al., 2017; Klobas et al., 2017)
+- Initially, SAGE II data experience a saturation effect, and HIRS data is better to
+  use, but as the atmosphere becomes sufficiently transparent it is expected that SAGE
+  II measurements provide more accurate aerosol extinction
+- Lower tropical stratospheric warming after major volcanic eruptions is one of the key
+  features of volcanic influence on climate
+- Numerically diffusive methods must be avoided
 
 ### 2019 — Rugenstein et al.: LongRunMIP: Motivation and Design for a Large Collection of Millennial-Length AOGCM Simulations
 
