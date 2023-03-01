@@ -136,6 +136,34 @@ previously suggested.
 - Found indications of prolonged impacts of the eruptions on decade-length scales in
   Arctic sea-ice production.
 
+### 2018 — Marshall et al.: Multi-model comparison of the volcanic sulfate deposition from the 1815 eruption of Mt. Tambora
+
+> DOI: [10.5194/acp-18-2307-2018](https://doi.org/10.5194/acp-18-2307-2018)
+
+- CESM1(WACCM) starts spreading at a later time, and the sulfate stays for longer
+- Aerosol formation and growth are simulated through parametrizations of nucleation,
+  condensation and coagulation
+- Modal aerosol schemes represent aerosol particle size distribution by several
+  log-normal modes
+- Transport of stratospheric aerosols happens through sedimentation and large-scale
+  circulation by the Brewer-Dobson circulation
+- The QBO is nudged (by CESM1(WACCM))
+- Dry deposition schemes are resistance-based and wet deposition is parametrized based
+  on model precipitation and convective processes
+- Aerosol removal is calculated via first-order loss processes representing in-cloud and
+  below-cloud scavenging
+- CESM1(WACCM) includes interactive hydroxyl radical (OH) chemistry, allowing OH
+  concentrations to evolve throughout the simulations (MAECHAM5-HAM does not have this,
+  which is why SO2 levels peak earlier)
+- The Brewer-Dobson circulation is stronger during winter, therefore the transport to
+  the SH of sulfate aerosols is stronger than the transport to the NH
+- In CESM1(WACCM) the poleward transport of volcanic aerosol may be too weak or
+  midlatitude deposition too strong
+- CESM1(WACCM) has the strongest polar jets, which may affect the polar sulfate
+  deposition, but it appears to be a combination of factors
+- Scavenging and deposition parametrizations are highly uncertain, especially as the
+  eruptions become larger
+
 ### 2019 — Yang et al.: Climate Impacts From Large Volcanic Eruptions in a High-Resolution Climate Model: The importance of Forcing Structure
 
 > DOI: [10.1029/2019GL082367](https://doi.org/10.1029/2019GL082367)
