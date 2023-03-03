@@ -62,25 +62,29 @@ clear things up. We may also use the deconvolution algorithm to get a response f
 estimate that we subsequently use to estimate the temperature, thus reducing the noise.
 
 ![Injection versus
-temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/injection_vs_temperature.png
+temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature.png
 "Injection versus temperature")
 
 ![Injection versus temperature without
-deconvolution](https://raw.githubusercontent.com/engeir/hack-md-notes/b66540b/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png
+deconvolution](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png
 "Injection versus temperature without deconvolution")
 
 ![Injection versus aerosol optical
-depth](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/injection_vs_aod.png
+depth](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_aod.png
 "Injection versus aerosol optical depth")
+
+== DEPRECATED ==
 
 ![Injection versus aerosol optical depth on log-log
 axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5e6c202/assets/pic/hidden-linear-forcing/injection_vs_aod_loglog.png
 "Injection versus aerosol optical depth")
+
+== DEPRECATED ==
 
 ![Aerosol optical depth versus
 temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/aod_vs_temperature.png
 "Aerosol optical depth versus temperature")
 
 ![Aerosol optical depth versus temperature on semilog-x
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5e6c202/assets/pic/hidden-linear-forcing/aod_vs_temperature_semilogx.png
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/aod_vs_temperature_semilogx.png
 "Aerosol optical depth versus temperature")
