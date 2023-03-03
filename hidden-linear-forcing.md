@@ -73,16 +73,12 @@ deconvolution](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/as
 depth](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_aod.png
 "Injection versus aerosol optical depth")
 
-==DEPRECATED==
-
 ![Injection versus aerosol optical depth on log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/5e6c202/assets/pic/hidden-linear-forcing/injection_vs_aod_loglog.png
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/injection_vs_aod_loglog.png
 "Injection versus aerosol optical depth")
 
-==DEPRECATED==
-
 ![Aerosol optical depth versus
-temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/a3ae5d0/assets/pic/hidden-linear-forcing/aod_vs_temperature.png
+temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/aod_vs_temperature.png
 "Aerosol optical depth versus temperature")
 
 ![Aerosol optical depth versus temperature on semilog-x
