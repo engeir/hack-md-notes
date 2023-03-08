@@ -78,6 +78,24 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   1. Divide the loading by $1.5\times 10^{14}\,\mathrm{Tg}$ to obtain optical depth
   2. Multiply optical depth by $20$ to obtain the radiative forcing in $\mathrm{W/m^2}$
 
+### 2009 — Timmreck et al.: Limited temperature response to the very large {AD} 1258 volcanic eruption
+
+> DOI: [10.1029/2009GL040083](https://doi.org/10.1029/2009GL040083)
+
+- ==Examines the climate response as a function of aerosol size==
+- The 1258 eruption had ten times as much stratospheric sulphate load as Pinatubo, but
+  the temperature response does not compare
+- Larger particles scatter less visible light and absorb more efficiently in the near-
+  and far-infrared
+- Uses the MPI-M model
+- Forcing is AOD at 550 nm specified on four equal-area latitude bands
+- The find no significant difference in the greenhouse effect, but the albedo effect is
+  strongly modulated
+- Larger particles are removed more quickly (due to gravity), but an opposing effect
+  that might occur is that OH radicals are depleted and the conversion rate from SO2 to
+  sulphuric acid vapour is reduced, which would impede (get in the way of; hinder) the
+  growth of aerosol particles and prolong their atmospheric lifetime
+
 ### 2010 — Timmreck et al.: Aerosol size confines climate response to volcanic super‐eruptions
 
 > DOI: [10.1029/2010GL045464](https://doi.org/10.1029/2010GL045464)

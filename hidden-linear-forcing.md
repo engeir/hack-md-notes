@@ -57,8 +57,8 @@ But in the above, we have only three data points to compare, which are many too 
 us instead try to plot all non-zero values in the CESM LME forcing time series and the
 corresponding temperature value at that element. There will be significant noise to
 consider especially for the smallest eruptions, and some eruptions that follow close may
-get unrealistically large temperature values, but maybe the large number of events will
-clear things up. We may also use the deconvolution algorithm to get a response function
+get unrealistically large temperature values, but maybe numerous events will clear
+things up. We may also use the deconvolution algorithm to get a response function
 estimate that we subsequently use to estimate the temperature, thus reducing the noise.
 
 ![Injection versus
