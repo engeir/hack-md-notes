@@ -78,7 +78,7 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
   1. Divide the loading by $1.5\times 10^{14}\,\mathrm{Tg}$ to obtain optical depth
   2. Multiply optical depth by $20$ to obtain the radiative forcing in $\mathrm{W/m^2}$
 
-### 2009 — Timmreck et al.: Limited temperature response to the very large {AD} 1258 volcanic eruption
+### 2009 — Timmreck et al.: Limited temperature response to the very large AD 1258 volcanic eruption
 
 > DOI: [10.1029/2009GL040083](https://doi.org/10.1029/2009GL040083)
 
