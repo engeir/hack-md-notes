@@ -19,20 +19,28 @@ look like.
 ![Medium (smallest) forcing
 strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/medium-waveform.png>
 "Medium (smallest) forcing strength" =32%x)
-
 ![Medium-plus (middle) forcing
 strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/medium-plus-waveform.png>
 "Medium-plus (middle) forcing strength" =32%x)
-
 ![Strong (strongest) forcing
 strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/strong-waveform.png>
 "Strong (strongest) forcing strength" =32%x)
 
-## Different forcings compared to temperature
+## Comparing normalized time series
 
-![Forcing of all ensembles with
-averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/bc886d14675a7adf135447fdcaa8683dd90fdb97/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ensall_mean_10000_forcing.png>
-"Forcing of all ensembles with averaging" =45%x)
-![Temperature of all ensembles with
-averaging](<https://raw.githubusercontent.com/engeir/hack-md-notes/bc886d14675a7adf135447fdcaa8683dd90fdb97/assets/pic/deconv-cesm-lme/cesm_lme_deconvolution_ensall_mean_10000_temperature.png>
-"Temperature of all ensembles with averaging" =45%x)
+If we now normalize all the time series by dividing by the integral over the whole time
+series, where we first shift all the time series so that the equilibrium temperature is
+at zero, we get the plot shown below.
+
+![Medium (blue and full), medium-plus (orange and dotted) and strong (green dashed)
+overlaid. The black plots are the medians across the four participant ensemble, while
+the coloured shading covers the 5th to the 95th
+percentile](<https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png>
+"Medium (blue and full), medium-plus (orange and dotted) and strong (green dashed)
+overlaid. The black plots are the medians across the four participant ensemble, while
+the coloured shading covers the 5th to the 95th percentile" =49%x)
+![Same as above, but scaled by the maximum
+value](<https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png>
+"Same as above, but scaled by the maximum value" =49%x)
+
+## Different forcings compared to temperature
