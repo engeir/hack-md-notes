@@ -72,3 +72,26 @@ temperature (red). Shading shows the length of the single event time series with
 padding" =49%x)
 
 ## Different forcings compared to temperature
+
+How do the different forcings relate to the temperature, and does any of them have a
+linear relationship with temperature?
+
+With this, we want to look at how close the different forcings come to forming a linear
+relationship with the temperature signal.
+
+Let us try to plot all non-zero values in the CESM LME forcing time series and the
+corresponding temperature value at that element. There will be significant noise to
+consider, especially for the smallest eruptions, and some eruptions that follow close
+may get unrealistically large temperature values, but maybe numerous events will clear
+things up. We may also use the deconvolution algorithm to get a response function
+estimate that we subsequently use to estimate the temperature, thus reducing the noise.
+
+We also add the CESM2 simulations and other simulation and observation data that we find
+elsewhere to the mix.
+
+![Injection versus
+temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature.png>
+"Injection versus temperature" =49%x)
+![Injection versus temperature without
+deconvolution](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png>
+"Injection versus temperature without deconvolution" =49%x)
