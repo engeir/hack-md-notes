@@ -95,3 +95,17 @@ temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/ass
 ![Injection versus temperature without
 deconvolution](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png>
 "Injection versus temperature without deconvolution" =49%x)
+
+![Injection versus aerosol optical
+depth](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_aod.png>
+"Injection versus aerosol optical depth" =49%x)
+![Injection versus aerosol optical depth on log-log
+axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/injection_vs_aod_loglog.png>
+"Injection versus aerosol optical depth" =49%x)
+
+![Aerosol optical depth versus
+temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/aod_vs_temperature.png>
+"Aerosol optical depth versus temperature" =49%x)
+![Aerosol optical depth versus temperature on semilog-x
+axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/aod_vs_temperature_semilogx.png>
+"Aerosol optical depth versus temperature" =49%x)
