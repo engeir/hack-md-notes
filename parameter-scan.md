@@ -7,11 +7,44 @@ tags: Showcase, Papers
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/SkEWr9Okh)
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/parameter-scan.md)
 
-This note first looks into how the three different forcing strengths alter the
+## Introduction
+
+> We investigate how the global mean temperature responds to single volcanic events of
+> different magnitudes and to multiple events occurring close in time. We are using the
+> Community Earth System Model version 2 (CESM2) to simulate the Earth system forced
+> only with stratospheric aerosols from explosive volcanoes, with the rest of the
+> climate system fixed at 1850 conditions. The model is run with a dynamical ocean
+> component, and the Whole Atmosphere Community Climate Model version 6 (WACCM6)
+> atmosphere component using middle atmosphere chemistry.
+>
+> Previous efforts of estimating a response function assume a linear relationship
+> between the forcing and the deterministic temperature response to the forcing
+> [^@rypdal2016b], defined as $T^{\mathrm{det}}(t)=\hat{L}[F(t)]$. Studies also show
+> that the forcing is similar across forcing agents [^@richardson2019] (although this is
+> not a settled debate [^@salvi2022]), in which case volcanoes could provide a valuable
+> means of estimating global temperature response to radiative forcing due to their
+> short-lived and large temperature responses.
+>
+> We present simulations of single volcano events with ejected sulphate aerosol loadings
+> differing in orders of magnitude and simulations where two volcanic eruptions are
+> close enough in time that the second eruption occurs as the temperature is still
+> recovering from the first event.
+>
+> We show that the functional form of the temperature response is similar for volcanic
+> events of different magnitudes and that non-linearities are not important as a second
+> eruption occurs when the temperature is well below equilibrium in a perturbed state.
+> The results further suggest the global mean temperature time series may be reduced to
+> a simple superposition of individual pulses, and thus that it may be described by a
+> convolution between a linear response function and some forcing, analogous to the
+> model used by [^@rypdal2016b].
+
+## Results
+
+Let us first have a look into how the three different forcing strengths alter the
 temperature signal. That is if we normalize and do not care about the amplitude of the
 signals, does the temperature show a similar shape across all three forcing strengths?
 
-## Individual without normalization
+### Individual without normalization
 
 We may first have a look at what the ensemble median and the 5th to 95th percentiles
 look like.
@@ -26,7 +59,7 @@ strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699
 strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/strong-waveform.png>
 "Strong (strongest) forcing strength" =32%x)
 
-## Comparing normalized time series
+### Comparing normalized time series
 
 If we now normalize all the time series by dividing by the integral over the whole time
 series, where we first shift all the time series so that the equilibrium temperature is
@@ -43,7 +76,7 @@ the coloured shading covers the 5th to the 95th percentile" =49%x)
 value](<https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png>
 "Same as above, but scaled by the maximum value" =49%x)
 
-## Smoothing
+### Smoothing
 
 Let us first consider the raw reference temperature. The smoothing is done by removing
 frequencies around $1$ in the Fourier domain.
@@ -51,7 +84,7 @@ frequencies around $1$ in the Fourier domain.
 Removing frequencies in the Fourier domain works quite well, but the sharp initial
 response to the forcing is smoothed more than one would hope for.
 
-## Superposition
+### Superposition
 
 Finally, let us grab one of the single-event simulations and try to superpose a copy of
 itself with an appropriate shift in time, to see how close we get to the double-event
@@ -71,7 +104,7 @@ padding](<https://raw.githubusercontent.com/engeir/hack-md-notes/1e3d1dca42484fc
 temperature (red). Shading shows the length of the single event time series without
 padding" =49%x)
 
-## Different forcings compared to temperature
+### Different forcings compared to temperature
 
 How do the different forcings relate to the temperature, and does any of them have a
 linear relationship with temperature?
@@ -109,3 +142,15 @@ temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/ass
 ![Aerosol optical depth versus temperature on semilog-x
 axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/aod_vs_temperature_semilogx.png>
 "Aerosol optical depth versus temperature" =49%x)
+
+[^@rypdal2016b]:
+    K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
+    of last millennium climate to volcanic and solar forcing” by S. Lovejoy and C.
+    Varotsos (2016)’, Earth System Dynamics, 2016, vol. 7, no. 3, pp. 597–609.
+[^@richardson2019]
+    T. B. Richardson et al., ‘Efficacy of Climate Forcings in PDRMIP Models’, Journal of
+    Geophysical Research: Atmospheres, 2019, vol. 124, no. 23, pp. 12824–12844.
+[^@salvi2022]:
+    P. Salvi, P. Ceppi, and J. M. Gregory, ‘Interpreting differences in radiative
+    feedbacks from aerosols versus greenhouse gases’, Geophysical Research Letters,
+    2022, vol. 49, no. 8, p. e2022GL097766.
