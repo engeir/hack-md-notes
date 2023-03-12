@@ -9,6 +9,8 @@ tags: Showcase, Papers
 
 ## Introduction
 
+> _EGU abstract_
+>
 > We investigate how the global mean temperature responds to single volcanic events of
 > different magnitudes and to multiple events occurring close in time. We are using the
 > Community Earth System Model version 2 (CESM2) to simulate the Earth system forced
