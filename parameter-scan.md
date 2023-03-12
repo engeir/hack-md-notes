@@ -18,12 +18,12 @@ tags: Showcase, Papers
 > atmosphere component using middle atmosphere chemistry.
 >
 > Previous efforts of estimating a response function assume a linear relationship
-> between the forcing and the deterministic temperature response to the forcing
-> [^@rypdal2016b], defined as $T^{\mathrm{det}}(t)=\hat{L}[F(t)]$. Studies also show
-> that the forcing is similar across forcing agents [^@richardson2019] (although this is
-> not a settled debate [^@salvi2022]), in which case volcanoes could provide a valuable
-> means of estimating global temperature response to radiative forcing due to their
-> short-lived and large temperature responses.
+> between the forcing and the deterministic temperature response to the
+> forcing[^@rypdal2016b], defined as $T^{\mathrm{det}}(t)=\hat{L}[F(t)]$. Studies also
+> show that the forcing is similar across forcing agents[^@richardson2019] (although
+> this is not a settled debate[^@salvi2022]), in which case volcanoes could provide a
+> valuable means of estimating global temperature response to radiative forcing due to
+> their short-lived and large temperature responses.
 >
 > We present simulations of single volcano events with ejected sulphate aerosol loadings
 > differing in orders of magnitude and simulations where two volcanic eruptions are
@@ -36,7 +36,7 @@ tags: Showcase, Papers
 > The results further suggest the global mean temperature time series may be reduced to
 > a simple superposition of individual pulses, and thus that it may be described by a
 > convolution between a linear response function and some forcing, analogous to the
-> model used by [^@rypdal2016b].
+> model used by[^@rypdal2016b].
 
 ## Results
 
@@ -147,7 +147,7 @@ axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
     of last millennium climate to volcanic and solar forcing” by S. Lovejoy and C.
     Varotsos (2016)’, Earth System Dynamics, 2016, vol. 7, no. 3, pp. 597–609.
-[^@richardson2019]
+[^@richardson2019]:
     T. B. Richardson et al., ‘Efficacy of Climate Forcings in PDRMIP Models’, Journal of
     Geophysical Research: Atmospheres, 2019, vol. 124, no. 23, pp. 12824–12844.
 [^@salvi2022]:
