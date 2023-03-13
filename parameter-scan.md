@@ -58,6 +58,7 @@ altitude are the same in all cases.
 #### Other volcanic eruption data
 
 <!-- FIXME: -->
+
 **VolMIP 1 and 2** are from a simulation where the aerosol optical depth of the Tambora
 1816 eruption was investigated, where the VolMIP1 AOD is from the EVA(eVolv2k) dataset
 and VolMIP2 AOD is from the ICI reconstruction. The injection value is the default SO~2~
@@ -71,8 +72,9 @@ example Sukhodolov (2018) or Jones et al. (2005).
 The **100 times Pinatubo** data is from Jones et al. (2005).
 
 The **CESM1 LME** data is from a large project with Otto-Bliesner as the principal
-investigator. The injected SO~2~ used is from the Gao et al. (2008) ice-core derived
-estimates, and temperature records are the ensemble median over five simulation runs.
+investigator[^@ottobliesner2016]. The injected SO~2~ used is from the Gao et al. (2008)
+ice-core derived estimates, and temperature records are the ensemble median over five
+simulation runs.
 
 ## Results
 
@@ -156,14 +158,15 @@ How do the different forcings relate to the temperature, and does any of them ha
 linear relationship with temperature?
 
 With this, we want to look at how close the different forcings come to forming a linear
-relationship with the temperature signal.
+relationship with the temperature signal, that is, the absolute value of the temperature
+anomaly due to the forcing.
 
 Let us try to plot all non-zero values in the CESM LME forcing time series and the
 corresponding temperature value at that element. There will be significant noise to
 consider, especially for the smallest eruptions, and some eruptions that follow close
-may get unrealistically large temperature values, but maybe numerous events will clear
-things up. We may also use the deconvolution algorithm to get a response function
-estimate that we subsequently use to estimate the temperature, thus reducing the noise.
+may get too large temperature values, but maybe numerous events will clear things up. We
+may also use the deconvolution algorithm to get a response function estimate that we
+subsequently use to estimate the temperature, thus reducing the noise.
 
 We also add the CESM2 simulations and other simulation and observation data that we find
 elsewhere to the mix.
@@ -204,10 +207,17 @@ as defined by the injected SO~2~ forcing time series</sup>
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
     of last millennium climate to volcanic and solar forcing” by S. Lovejoy and C.
     Varotsos (2016)’, Earth System Dynamics, 2016, vol. 7, no. 3, pp. 597–609.
+
 [^@richardson2019]:
     T. B. Richardson et al., ‘Efficacy of Climate Forcings in PDRMIP Models’, Journal of
     Geophysical Research: Atmospheres, 2019, vol. 124, no. 23, pp. 12824–12844.
+
 [^@salvi2022]:
     P. Salvi, P. Ceppi, and J. M. Gregory, ‘Interpreting differences in radiative
     feedbacks from aerosols versus greenhouse gases’, Geophysical Research Letters,
     2022, vol. 49, no. 8, p. e2022GL097766.
+
+[^@ottobliesner2016]:
+    Otto-Bliesner, B. L., Brady, E. C., et al., Climate Variability and Change since 850
+    CE: An Ensemble Approach with the Community Earth System Model, Bulletin of the
+    American Meteorological Society, 2016, vol. 97, no. 5, p. 735–754.
