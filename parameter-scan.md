@@ -122,6 +122,11 @@ the coloured shading covers the 5th to the 95th percentile" =49%x)
 value](<https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png>
 "Same as above, but scaled by the maximum value" =49%x)
 
+<sup>**Figure:** Normalized temperature anomalies of the three different magnitude
+simulations. The normalization constant is given in each label; on the left found by
+making sure all temperature time series integrate to unity, on the right found as the
+value that makes the minimum value equal to unity</sup>
+
 #### Smoothing
 
 Let us first consider the raw reference temperature. The smoothing is done by removing
@@ -149,6 +154,10 @@ padding](<https://raw.githubusercontent.com/engeir/hack-md-notes/1e3d1dca42484fc
 "Superposition (blue) of two single events (black) on top of Fourier smoothed
 temperature (red). Shading shows the length of the single event time series without
 padding" =49%x)
+
+<sup>**Figure:** The time series of the double-event simulation overlaid with
+single-event simulations of the same magnitude, superposed and as individual time
+series</sup>
 
 ### Aggregated data
 
