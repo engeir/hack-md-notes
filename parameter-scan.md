@@ -9,8 +9,8 @@ tags: Showcase, Papers
 
 ## Introduction
 
-> _EGU abstract_
->
+### EGU abstract
+
 > We investigate how the global mean temperature responds to single volcanic events of
 > different magnitudes and to multiple events occurring close in time. We are using the
 > Community Earth System Model version 2 (CESM2) to simulate the Earth system forced
@@ -40,9 +40,9 @@ tags: Showcase, Papers
 > convolution between a linear response function and some forcing, analogous to the
 > model used by[^@rypdal2016b].
 
-## Results
+### Data
 
-### CESM2 Simulations
+#### Own CESM2 simulations
 
 We have simulated volcanic eruptions using the CESM2(WACCM6) climate model. This is run
 with the component setting (compset) "BWma1850", which is a compset that runs the model
@@ -54,6 +54,29 @@ longitude column and in given altitude levels. From there, the climate model spr
 SO~2~ and takes care of chemical reactions. Across the different CESM2 simulations, the
 only difference in forcing is the amount of SO~2~ injected; latitude, longitude and
 altitude are the same in all cases.
+
+#### Other volcanic eruption data
+
+<!-- FIXME: -->
+**VolMIP 1 and 2** are from a simulation where the aerosol optical depth of the Tambora
+1816 eruption was investigated, where the VolMIP1 AOD is from the EVA(eVolv2k) dataset
+and VolMIP2 AOD is from the ICI reconstruction. The injection value is the default SO~2~
+used in VolMIP simulations and the temperature response is from unknown.
+
+**Obs. Pinatubo** is from observational data of the Mount Pinatubo eruption of 1991. The
+temperature data is from the GISS paper of Hansen et al. (1999), the aerosol optical
+depth is based on the reports of Sukhodolov (2018), and the injection data is from for
+example Sukhodolov (2018) or Jones et al. (2005).
+
+The **100 times Pinatubo** data is from Jones et al. (2005).
+
+The **CESM1 LME** data is from a large project with Otto-Bliesner as the principal
+investigator. The injected SO~2~ used is from the Gao et al. (2008) ice-core derived
+estimates, and temperature records are the ensemble median over five simulation runs.
+
+## Results
+
+### CESM2 Simulations
 
 Let us first have a look into how the three different forcing strengths alter the
 temperature signal. That is if we normalize and do not care about the amplitude of the
@@ -144,25 +167,6 @@ estimate that we subsequently use to estimate the temperature, thus reducing the
 
 We also add the CESM2 simulations and other simulation and observation data that we find
 elsewhere to the mix.
-
-#### Data
-
-<!-- FIXME: -->
-VolMIP 1 and 2 are from a simulation where the aerosol optical depth of the Tambora 1816
-eruption was investigated, where the VolMIP1 AOD is from the EVA(eVolv2k) dataset and
-VolMIP2 AOD is from the ICI reconstruction. The injection value is the default SO~2~
-used in VolMIP simulations and the temperature response is from unknown.
-
-Obs. Pinatubo is from observational data of the Mount Pinatubo eruption of 1991. The
-temperature data is from the GISS paper of Hansen et al. (1999), the aerosol optical
-depth is based on the reports of Sukhodolov (2018), and the injection data is from for
-example Sukhodolov (2018) or Jones et al. (2005).
-
-The 100 time Pinatubo data is from Jones et al. (2005).
-
-The CESM1 LME data is from a large project with Otto-Bliesner as the principal
-investigator. The injected SO~2~ used is from the Gao et al. (2008) ice-core derived
-estimates, and temperature records are the ensemble median over five simulation runs.
 
 ![Injection versus
 temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature.png>
