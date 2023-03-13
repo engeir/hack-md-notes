@@ -218,6 +218,6 @@ as defined by the injected SO~2~ forcing time series</sup>
     2022, vol. 49, no. 8, p. e2022GL097766.
 
 [^@ottobliesner2016]:
-    Otto-Bliesner, B. L., Brady, E. C., et al., Climate Variability and Change since 850
-    CE: An Ensemble Approach with the Community Earth System Model, Bulletin of the
+    Otto-Bliesner, B. L., Brady, E. C., et al., 'Climate Variability and Change since
+    850 CE: An Ensemble Approach with the Community Earth System Model', Bulletin of the
     American Meteorological Society, 2016, vol. 97, no. 5, p. 735–754.
