@@ -62,14 +62,16 @@ altitude are the same in all cases.
 and VolMIP2 AOD is from the ICI reconstruction (figure 5 in Toohey and Sigl,
 2017)[^@toohey2017]. The injection value is the default SO~2~ used in VolMIP
 simulations[^volmip-volc-long-eq] and the temperature response is from inspecting one of
-the contributions to the **volc-long-eq** experiment[^volmip-volc-long-eq-realisation].
+the contributions to the **volc-long-eq** experiment[^volmip-volc-long-eq-realisation],
+which used the MPI-ESM1.2-LR climate model.
 
 **Obs. Pinatubo** is from observational data of the Mount Pinatubo eruption of 1991. The
 temperature data is from the GISS paper of Hansen et al. (1999)[^@hansen1999], the
 aerosol optical depth is based on the reports of Sukhodolov (2018)[^@sukhodolov2018],
-and the injection data is from Guo et al., 2004[^@guo2004].
+and the injection data is from Guo et al. (2004)[^@guo2004].
 
-The **100 times Pinatubo** data is from Jones et al. (2005)[^@jones2005].
+The **100 times Pinatubo** data is from Jones et al. (2005)[^@jones2005]. They used the
+third generation Hadley Centre AOGCM, HadCM3.
 
 The **CESM1 LME** data is from a large project with Otto-Bliesner as the principal
 investigator[^@ottobliesner2016]. The injected SO~2~ used is from the Gao et al.
