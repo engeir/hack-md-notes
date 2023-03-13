@@ -42,11 +42,24 @@ tags: Showcase, Papers
 
 ## Results
 
+### CESM2 Simulations
+
+We have simulated volcanic eruptions using the CESM2(WACCM6) climate model. This is run
+with the component setting (compset) "BWma1850", which is a compset that runs the model
+with external forcing cycling on 1850s conditions. Its atmospheric resolution is nominal
+two degrees, with the "middle atmosphere" chemistry package.
+
+Volcanoes are specified by giving an amount of injected SO~2~ for a given latitude and
+longitude column and in given altitude levels. From there, the climate model spread the
+SO~2~ and takes care of chemical reactions. Across the different CESM2 simulations, the
+only difference in forcing is the amount of SO~2~ injected; latitude, longitude and
+altitude are the same in all cases.
+
 Let us first have a look into how the three different forcing strengths alter the
 temperature signal. That is if we normalize and do not care about the amplitude of the
 signals, does the temperature show a similar shape across all three forcing strengths?
 
-### Individual without normalization
+#### Individual without normalization
 
 We may first have a look at what the ensemble median and the 5th to 95th percentiles
 look like.
@@ -61,7 +74,13 @@ strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699
 strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/strong-waveform.png>
 "Strong (strongest) forcing strength" =32%x)
 
-### Comparing normalized time series
+<sup>**Figure:** Three simulations of a volcanic eruption of identical
+location in space and time, but with three different magnitudes of injected SO~2~. All
+magnitudes include four simulations, one in each season (Feb, May, Aug, Nov). Seasonal
+variability is removed first in Fourier domain, then their median and the 5^th^ to
+95^th^ percentiles are calculated</sup>
+
+#### Comparing normalized time series
 
 If we now normalize all the time series by dividing by the integral over the whole time
 series, where we first shift all the time series so that the equilibrium temperature is
@@ -78,7 +97,7 @@ the coloured shading covers the 5th to the 95th percentile" =49%x)
 value](<https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png>
 "Same as above, but scaled by the maximum value" =49%x)
 
-### Smoothing
+#### Smoothing
 
 Let us first consider the raw reference temperature. The smoothing is done by removing
 frequencies around $1$ in the Fourier domain.
@@ -86,7 +105,7 @@ frequencies around $1$ in the Fourier domain.
 Removing frequencies in the Fourier domain works quite well, but the sharp initial
 response to the forcing is smoothed more than one would hope for.
 
-### Superposition
+#### Superposition
 
 Finally, let us grab one of the single-event simulations and try to superpose a copy of
 itself with an appropriate shift in time, to see how close we get to the double-event
@@ -106,7 +125,9 @@ padding](<https://raw.githubusercontent.com/engeir/hack-md-notes/1e3d1dca42484fc
 temperature (red). Shading shows the length of the single event time series without
 padding" =49%x)
 
-### Different forcings compared to temperature
+### Aggregated data
+
+#### Different forcings compared to temperature
 
 How do the different forcings relate to the temperature, and does any of them have a
 linear relationship with temperature?
@@ -124,12 +145,36 @@ estimate that we subsequently use to estimate the temperature, thus reducing the
 We also add the CESM2 simulations and other simulation and observation data that we find
 elsewhere to the mix.
 
+#### Data
+
+<!-- FIXME: -->
+VolMIP 1 and 2 are from a simulation where the aerosol optical depth of the Tambora 1816
+eruption was investigated, where the VolMIP1 AOD is from the EVA(eVolv2k) dataset and
+VolMIP2 AOD is from the ICI reconstruction. The injection value is the default SO~2~
+used in VolMIP simulations and the temperature response is from unknown.
+
+Obs. Pinatubo is from observational data of the Mount Pinatubo eruption of 1991. The
+temperature data is from the GISS paper of Hansen et al. (1999), the aerosol optical
+depth is based on the reports of Sukhodolov (2018), and the injection data is from for
+example Sukhodolov (2018) or Jones et al. (2005).
+
+The 100 time Pinatubo data is from Jones et al. (2005).
+
+The CESM1 LME data is from a large project with Otto-Bliesner as the principal
+investigator. The injected SO~2~ used is from the Gao et al. (2008) ice-core derived
+estimates, and temperature records are the ensemble median over five simulation runs.
+
 ![Injection versus
 temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature.png>
 "Injection versus temperature" =49%x)
 ![Injection versus temperature without
 deconvolution](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png>
 "Injection versus temperature without deconvolution" =49%x)
+
+<sup>**Figure:** Temperature anomaly against injected SO~2~. The left plot show data
+from CESM1 LME where the temperature values are from a re-created time series from
+convolving with the forcing and an estimated response function. The right plot show the
+raw temperature values at the given forcing position</sup>
 
 ![Injection versus aerosol optical
 depth](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_aod.png>
@@ -138,12 +183,18 @@ depth](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pi
 axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/injection_vs_aod_loglog.png>
 "Injection versus aerosol optical depth" =49%x)
 
+<sup>**Figure:** Aerosol optical depth against injected SO~2~ on linear-linear axis
+(left) and log-log axis (right)</sup>
+
 ![Aerosol optical depth versus
 temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/aod_vs_temperature.png>
 "Aerosol optical depth versus temperature" =49%x)
 ![Aerosol optical depth versus temperature on semilog-x
 axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/aod_vs_temperature_semilogx.png>
 "Aerosol optical depth versus temperature" =49%x)
+
+<sup>**Figure:** Temperature anomaly against aerosol optical depth at the same locations
+as defined by the injected SO~2~ forcing time series</sup>
 
 [^@rypdal2016b]:
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
