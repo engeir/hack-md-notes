@@ -57,24 +57,24 @@ altitude are the same in all cases.
 
 #### Other volcanic eruption data
 
-<!-- FIXME: -->
-
 **VolMIP 1 and 2** are from a simulation where the aerosol optical depth of the Tambora
-1816 eruption was investigated, where the VolMIP1 AOD is from the EVA(eVolv2k) dataset
-and VolMIP2 AOD is from the ICI reconstruction. The injection value is the default SO~2~
-used in VolMIP simulations and the temperature response is from unknown.
+1815 eruption was investigated, where the VolMIP1 AOD is from the EVA(eVolv2k) dataset
+and VolMIP2 AOD is from the ICI reconstruction (figure 5 in Toohey and Sigl,
+2017)[^@toohey2017]. The injection value is the default SO~2~ used in VolMIP
+simulations[^volmip-volc-long-eq] and the temperature response is from inspecting one of
+the contributions to the **volc-long-eq** experiment[^volmip-volc-long-eq-realisation].
 
 **Obs. Pinatubo** is from observational data of the Mount Pinatubo eruption of 1991. The
-temperature data is from the GISS paper of Hansen et al. (1999), the aerosol optical
-depth is based on the reports of Sukhodolov (2018), and the injection data is from for
-example Sukhodolov (2018) or Jones et al. (2005).
+temperature data is from the GISS paper of Hansen et al. (1999)[^@hansen1999], the
+aerosol optical depth is based on the reports of Sukhodolov (2018)[^@sukhodolov2018],
+and the injection data is from Guo et al., 2004[^@guo2004].
 
-The **100 times Pinatubo** data is from Jones et al. (2005).
+The **100 times Pinatubo** data is from Jones et al. (2005)[^@jones2005].
 
 The **CESM1 LME** data is from a large project with Otto-Bliesner as the principal
-investigator[^@ottobliesner2016]. The injected SO~2~ used is from the Gao et al. (2008)
-ice-core derived estimates, and temperature records are the ensemble median over five
-simulation runs.
+investigator[^@ottobliesner2016]. The injected SO~2~ used is from the Gao et al.
+(2008)[^@gao2008] ice-core derived estimates, and temperature records are the ensemble
+median over five simulation runs.
 
 ## Results
 
@@ -230,3 +230,38 @@ as defined by the injected SO~2~ forcing time series</sup>
     Otto-Bliesner, B. L., Brady, E. C., et al., 'Climate Variability and Change since
     850 CE: An Ensemble Approach with the Community Earth System Model', Bulletin of the
     American Meteorological Society, 2016, vol. 97, no. 5, p. 735–754.
+
+[^@guo2004]:
+    Guo, S., Bluth, G. J. S., et al., 'Re-evaluation of SO2 release of the 15 June 1991
+    Pinatubo eruption using ultraviolet and infrared satellite sensors', Geochemistry,
+    Geophysics, Geosystems, 2004, vol. 5, no. 4, p. Q04001.
+
+[^@sukhodolov2018]:
+    Sukhodolov, T., Sheng, J-X., et al., 'Stratospheric aerosol evolution after Pinatubo
+    simulated with a coupled size-resolved aerosol-chemistry-climate model,
+    SOCOL-AERv1.0', Geoscientific Model Development, 2018, vol. 11, no. 7, p. 2633–2647.
+
+[^@jones2005]:
+    Jones, G. S., Gregory, J. M., et al., 'An AOGCM simulation of the climate response
+    to a volcanic super-eruption', Climate Dynamics, 2005, vol. 25, no. 7, p. 725–738.
+
+[^@hansen1999]:
+    Hansen, J., Ruedy, R., et al., 'GISS analysis of surface temperature change',
+    Journal of Geophysical Research: Atmospheres, 1999, vol. 104, no. D24, p.
+    30997–31022.
+
+[^@gao2008]:
+    Gao, C., Robock, A., et al., 'Volcanic forcing of climate over the past 1500 years:
+    An improved ice core-based index for climate models', Journal of Geophysical
+    Research: Atmospheres, 2008, vol. 113, no. D23, p. D23111.
+
+[^@toohey2017]:
+    Toohey, M. and Sigl, M., 'Volcanic stratospheric sulfur injections and aerosol
+    optical depth from 500\,BCE to 1900\,CE', Earth System Science Data, 2017, vol. 9,
+    no. 2, p. 809–831.
+
+[^volmip-volc-long-eq]:
+    https://view.es-doc.org/index.html?renderMethod=id&project=cmip6&id=fc04f8eb-feff-4fa4-ba91-41cf9041a2ef&version=1
+
+[^volmip-volc-long-eq-realisation]:
+    https://furtherinfo.es-doc.org/CMIP6.MPI-M.MPI-ESM1-2-LR.volc-long-eq.none.r11i1p1f1
