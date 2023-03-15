@@ -128,6 +128,34 @@ previously suggested.
 - The global distribution of temperature anomalies is highly dependent on the initial
   state of the Pacific
 
+### 2012 — Rypdal, K., Global temperature response to radiative forcing: Solar cycle versus volcanic eruptions
+
+> DOI: [10.1029/2011JD017283](https://doi.org/10.1029/2011JD017283)
+
+**Take away:** An overview of simple EBMs and how well-suited they are to represent the
+GMST from 1880 to 2010.
+
+- $-\lambda^{-1}\Delta T$ (he uses $\lambda=S_\mathrm{eq}$) represents the change of
+  flux of infrared radiation in response to the temperature change $\Delta T$
+- The parameter $\lambda$ measures how much the equilibrium temperature $\Delta
+  T_\mathrm{eq}$ changes in response to a forcing perturbation $\Delta F$, and is
+  therefore called the climate sensitivity
+- _Explanation of "warming in the pipeline"_
+- _Why the temperature response to volcanic eruptions represent a useful tool to
+  determine the sensitivity and time constant_
+- The mismatch in spectral index as well as in amplitude, clearly indicates that the
+  climate noise is internally generated and not a response to fluctuations in solar
+  forcing
+- Inferring sensitivity and time constants from MLE is misleading since it assumes a
+  model in which white noise is used to represent internal variability, but the
+  fluctuations in the climate system is not white noise
+- The MLE approach is futile (with some restrictions)
+- (In support of the scale-free response.) Before dismissing the idea of a scale-free
+  response one should not forget that eq.(1) is derived without taking into account slow
+  feedbacks. [...] the temperature that was in equilibrium with the forcing a few
+  decades ago is not in equilibrium with the same forcing today. A measure of climate
+  sensitivity as a single parameter may make little sense
+
 ### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
 
 > DOI: [10.1038/nclimate2573](https://doi.org/10.1038/nclimate2573)
