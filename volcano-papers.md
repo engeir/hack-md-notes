@@ -152,9 +152,9 @@ GMST from 1880 to 2010.
 - The MLE approach is futile (with some restrictions)
 - (In support of the scale-free response.) Before dismissing the idea of a scale-free
   response one should not forget that eq.(1) is derived without taking into account slow
-  feedbacks. [...] the temperature that was in equilibrium with the forcing a few
-  decades ago is not in equilibrium with the same forcing today. A measure of climate
-  sensitivity as a single parameter may make little sense
+  feedback. The temperature that was in equilibrium with the forcing a few decades ago
+  is not in equilibrium with the same forcing today. A measure of climate sensitivity as
+  a single parameter may make little sense
 
 ### 2015 — Johansson et al.: Equilibrium climate sensitivity in light of observations over the warming hiatus
 
