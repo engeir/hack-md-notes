@@ -70,8 +70,8 @@ temperature data is from the GISS paper of Hansen et al. (1999)[^@hansen1999], t
 aerosol optical depth is based on the reports of Sukhodolov (2018)[^@sukhodolov2018],
 and the injection data is from Guo et al. (2004)[^@guo2004].
 
-The **100 times Pinatubo** data is from Jones et al. (2005)[^@jones2005]. They used the
-third generation Hadley Centre AOGCM, HadCM3.
+The **100 times Pinatubo** data is from Jones et al. (2005)[^@jones2005]. This uses the
+third-generation Hadley Centre AOGCM, HadCM3.
 
 The **CESM1 LME** data is from a large project with Otto-Bliesner as the principal
 investigator[^@ottobliesner2016]. The injected SO~2~ used is from the Gao et al.
@@ -101,11 +101,11 @@ strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699
 strength](<https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f3dd51cf9a8234d9142e54e9d1/assets/pic/volcano-ensemble-waveforms/strong-waveform.png>
 "Strong (strongest) forcing strength" =32%x)
 
-<sup>**Figure:** Three simulations of a volcanic eruption of identical
-location in space and time, but with three different magnitudes of injected SO~2~. All
-magnitudes include four simulations, one in each season (Feb, May, Aug, Nov). Seasonal
-variability is removed first in Fourier domain, then their median and the 5^th^ to
-95^th^ percentiles are calculated</sup>
+<sup>**Figure:** Three simulations of a volcanic eruption of identical location in space
+and time, but with three different magnitudes of injected SO~2~. All magnitudes include
+four simulations, one in each season (Feb, May, Aug, Nov). Seasonal variability is
+removed first in the Fourier domain, then their median and the 5^th^ to 95^th^
+percentiles are calculated</sup>
 
 #### Comparing normalized time series
 
