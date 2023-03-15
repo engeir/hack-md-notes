@@ -7,7 +7,7 @@ tags: Showcase, Notes
 [![hackmd-github-sync-badge](https://hackmd.io/j4L-EIhRQqGdl5KmiIZ-_w/badge)](https://hackmd.io/@engeir/SJPvH8Ecj)
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/hidden-linear-forcing.md)
 
-> How does the different forcings relate to the temperature, and does any of them have a
+> How do the different forcings relate to the temperature, and does any of them have a
 > linear relationship with temperature?
 
 With this, we want to look at how close the different forcings come to forming a linear

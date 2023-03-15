@@ -92,9 +92,9 @@ are: '**[volc-cluster-ctrl]**' (VolMIP tier 2), '**[volc-cluster-mill]**' (VolMI
 - The find no significant difference in the greenhouse effect, but the albedo effect is
   strongly modulated
 - Larger particles are removed more quickly (due to gravity), but an opposing effect
-  that might occur is that OH radicals are depleted and the conversion rate from SO2 to
-  sulphuric acid vapour is reduced, which would impede (get in the way of; hinder) the
-  growth of aerosol particles and prolong their atmospheric lifetime
+  that might occur is that OH radicals are depleted and the conversion rate from SO~2~
+  to sulphuric acid vapour is reduced, which would impede (get in the way of; hinder)
+  the growth of aerosol particles and prolong their atmospheric lifetime
 
 ### 2010 — Timmreck et al.: Aerosol size confines climate response to volcanic super‐eruptions
 
@@ -312,8 +312,8 @@ sensitivity) than CO~2~ does, in contrast to Richardson (2019)
 - From Mann et al. (2021), volcanoes are the main driver of 40- to 60-year variability
   of SST over NA
 - Discusses volcanic impact on the deep ocean:
-  Strong volcanoes (at least more than $50\mathrm{Tg}$, but should be more than
-  $100\mathrm{Tg}$) can strengthen the AMOC which subsequently cools the deep ocean
+  Strong volcanoes (at least more than $50\,\mathrm{Tg}$, but should be more than
+  $100\,\mathrm{Tg}$) can strengthen the AMOC which subsequently cools the deep ocean
 
 ### 2022 — Lin et al.: Magnitude frequency and climate forcing of global volcanism during the last glacial period as seen in Greenland and Antarctic ice cores (60-9 ka)
 

@@ -9,7 +9,7 @@ geometry: margin=3cm,top=3cm
 [![view-on-github](https://img.shields.io/badge/View%20on-GitHub-yellowgreen)](https://github.com/engeir/hack-md-notes/blob/main/volcano-ensemble-waveforms.md)
 
 This note looks into how the three different forcing strengths alter the temperature
-signal. That is, if we normalize and do not care about the amplitude of the signals, do
+signal. That is if we normalize and do not care about the amplitude of the signals, does
 the temperature show a similar shape across all three forcing strengths?
 
 ## Individual without normalization
@@ -31,17 +31,17 @@ strength](https://raw.githubusercontent.com/engeir/hack-md-notes/4c76fa84d73699f
 
 ## Comparing normalized time series
 
-If we now normalize all time series by dividing by the integral over the whole time
-series, where we first shift all time series so that the equilibrium temperature is at
-zero, we get the plot shown below.
+If we now normalize all the time series by dividing by the integral over the whole time
+series, where we first shift all the time series so that the equilibrium temperature is
+at zero, we get the plot shown below.
 
-![Medium (blue and full), medium-plus (orage and dotted) and strong (green dashed)
+![Medium (blue and full), medium-plus (orange and dotted) and strong (green dashed)
 overlaid. The black plots are the medians across the four participant ensemble, while
-the coloured shading cover the 5th to the 95th
+the coloured shading covers the 5th to the 95th
 percentile](https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-integrate.png
-"Medium (blue and full), medium-plus (orage and dotted) and strong (green dashed)
+"Medium (blue and full), medium-plus (orange and dotted) and strong (green dashed)
 overlaid. The black plots are the medians across the four participant ensemble, while
-the coloured shading cover the 5th to the 95th percentile")
+the coloured shading covers the 5th to the 95th percentile")
 
 ![Same as above, but scaled by the maximum
 value](https://raw.githubusercontent.com/engeir/hack-md-notes/91302ea7b928b6a0072972295f121a76536bef7a/assets/pic/volcano-ensemble-waveforms/compare-waveform-max.png
