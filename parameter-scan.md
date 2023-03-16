@@ -182,6 +182,20 @@ subsequently use to estimate the temperature, thus reducing the noise.
 We also add the CESM2 simulations and other simulation and observation data that we find
 elsewhere to the mix.
 
+> **_Legend explanation:_** Circles indicate CESM, triangles indicate VolMIP and
+> quadrilaterals indicate Pinatubo. Short names relate to long names as follows:
+>
+> | Short Name | Long Name                    |
+> | :--------- | :--------------------------- |
+> | C2W        | CESM2(WACCM6)                |
+> | C2WN       | CESM2(WACCM6), high latitude |
+> | C2C        | CESM2(CAM6)                  |
+> | C1C        | CESM1(CAM5)                  |
+> | P          | Pinatubo, observational      |
+> | P100       | 100 times Pinatubo           |
+> | V1         | VolMIP, version 1            |
+> | V2         | VolMIP, version 2            |
+
 ![Injection versus
 temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature.png>
 "Injection versus temperature" =49%x)
@@ -262,8 +276,5 @@ as defined by the injected SO~2~ forcing time series</sup>
     optical depth from 500\,BCE to 1900\,CE', Earth System Science Data, 2017, vol. 9,
     no. 2, p. 809–831.
 
-[^volmip-volc-long-eq]:
-    https://view.es-doc.org/index.html?renderMethod=id&project=cmip6&id=fc04f8eb-feff-4fa4-ba91-41cf9041a2ef&version=1
-
-[^volmip-volc-long-eq-realisation]:
-    https://furtherinfo.es-doc.org/CMIP6.MPI-M.MPI-ESM1-2-LR.volc-long-eq.none.r11i1p1f1
+[^volmip-volc-long-eq]: https://view.es-doc.org/index.html?renderMethod=id&project=cmip6&id=fc04f8eb-feff-4fa4-ba91-41cf9041a2ef&version=1
+[^volmip-volc-long-eq-realisation]: https://furtherinfo.es-doc.org/CMIP6.MPI-M.MPI-ESM1-2-LR.volc-long-eq.none.r11i1p1f1
