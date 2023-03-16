@@ -197,32 +197,30 @@ elsewhere to the mix.
 > | V2         | VolMIP, version 2            |
 
 ![Injection versus
-temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature.png>
+temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_temperature.png>
 "Injection versus temperature" =49%x)
-![Injection versus temperature without
-deconvolution](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png>
-"Injection versus temperature without deconvolution" =49%x)
+![Injection versus temperature on
+semilog-x](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/pic/hidden-linear-forcing/injection_vs_temperature_logscale.png>
+"Injection versus temperature on semilog-x" =49%x)
 
-<sup>**Figure:** Temperature anomaly against injected SO~2~. The left plot show data
-from CESM1 LME where the temperature values are from a re-created time series from
-convolving with the forcing and an estimated response function. The right plot show the
-raw temperature values at the given forcing position</sup>
+<sup>**Figure:** Temperature anomaly against injected SO~2~ on linear-linear axis (left)
+and semilog-x axis (right)</sup>
 
 ![Injection versus aerosol optical
-depth](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_aod.png>
+depth](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_aod.png>
 "Injection versus aerosol optical depth" =49%x)
 ![Injection versus aerosol optical depth on log-log
-axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/injection_vs_aod_loglog.png>
+axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_aod_logscale.png>
 "Injection versus aerosol optical depth" =49%x)
 
 <sup>**Figure:** Aerosol optical depth against injected SO~2~ on linear-linear axis
 (left) and log-log axis (right)</sup>
 
 ![Aerosol optical depth versus
-temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/aod_vs_temperature.png>
+temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/aod_vs_temperature.png>
 "Aerosol optical depth versus temperature" =49%x)
 ![Aerosol optical depth versus temperature on semilog-x
-axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/aod_vs_temperature_semilogx.png>
+axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/aod_vs_temperature_logscale.png>
 "Aerosol optical depth versus temperature" =49%x)
 
 <sup>**Figure:** Temperature anomaly against aerosol optical depth at the same locations

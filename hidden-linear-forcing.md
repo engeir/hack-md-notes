@@ -59,28 +59,29 @@ corresponding temperature value at that element. There will be significant noise
 consider especially for the smallest eruptions, and some eruptions that follow close may
 get unrealistically large temperature values, but maybe numerous events will clear
 things up. We may also use the deconvolution algorithm to get a response function
-estimate that we subsequently use to estimate the temperature, thus reducing the noise.
+estimate that we subsequently use to estimate the temperature, thus reducing the noise
+(not shown here).
 
 ![Injection versus
-temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature.png
+temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_temperature.png
 "Injection versus temperature")
 
-![Injection versus temperature without
-deconvolution](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_temperature_orig.png
-"Injection versus temperature without deconvolution")
+![Injection versus temperature on
+semilog-x](https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_temperature_logscale.png
+"Injection versus temperature on semilog-x")
 
 ![Injection versus aerosol optical
-depth](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/injection_vs_aod.png
+depth](https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_aod.png
 "Injection versus aerosol optical depth")
 
 ![Injection versus aerosol optical depth on log-log
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/injection_vs_aod_loglog.png
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_aod_logscale.png
 "Injection versus aerosol optical depth")
 
 ![Aerosol optical depth versus
-temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/97a5f57/assets/pic/hidden-linear-forcing/aod_vs_temperature.png
+temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/aod_vs_temperature.png
 "Aerosol optical depth versus temperature")
 
 ![Aerosol optical depth versus temperature on semilog-x
-axis](https://raw.githubusercontent.com/engeir/hack-md-notes/b9109bd/assets/pic/hidden-linear-forcing/aod_vs_temperature_semilogx.png
+axis](https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/aod_vs_temperature_logscale.png
 "Aerosol optical depth versus temperature")
