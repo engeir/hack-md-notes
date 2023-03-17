@@ -200,7 +200,7 @@ elsewhere to the mix.
 temperature](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_temperature.png>
 "Injection versus temperature" =49%x)
 ![Injection versus temperature on
-semilog-x](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/pic/hidden-linear-forcing/injection_vs_temperature_logscale.png>
+semilog-x](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic/hidden-linear-forcing/injection_vs_temperature_logscale.png>
 "Injection versus temperature on semilog-x" =49%x)
 
 <sup>**Figure:** Temperature anomaly against injected SO~2~ on linear-linear axis (left)
