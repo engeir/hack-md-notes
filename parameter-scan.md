@@ -247,6 +247,8 @@ We also include for reference the difference between `AOD(dn)` and `SAOD(dn)`.
 fields](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/cesm2_field.png
 "Different CESM2 AOD fields")
 
+<sup>**Figure:** Different CESM2 AOD fields</sup>
+
 Let us then focus more on the difference time series, namely `AOD(dn)-SAOD(dn)`, and
 compare this to the AOD field that is found in the CESM LME data set. This also include
 a shifted version, where the biggest eruption (1258) has been placed in 1852. This
@@ -264,12 +266,17 @@ series](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pi
 "CESM LME original and shifted compared to the difference time series. Also included for
 reference is the AOD(dn) time series")
 
+<sup>**Figure:** CESM LME original and shifted compared to the difference time series.
+Also included for reference is the AOD(dn) time series</sup>
+
 To better see the prominence of the 1258 eruption and where it was shifted to, below is
 a plot of the full CESM LME AOD time series with both the original and shifted version.
 
 ![CESM LME original and shifted
 version](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/view_shifted.png
 "CESM LME original and shifted version")
+
+<sup>**Figure:** CESM LME original and shifted version</sup>
 
 [^@rypdal2016b]:
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
