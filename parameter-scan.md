@@ -78,6 +78,58 @@ investigator[^@ottobliesner2016]. The injected SO~2~ used is from the Gao et al.
 (2008)[^@gao2008] ice-core derived estimates, and temperature records are the ensemble
 median over five simulation runs.
 
+#### Note on CESM-LME aerosol optical depth
+
+The AODVIS field from the CESM LME data set seems to be too small, or at least very much
+smaller than the corresponding fields that I get form my own CESM2 simulations.
+Therefore, in the above plots, the CESM LME AOD has been scaled up by 24.05.
+
+Let us first have a look at the fields that can be found in CESM2 that says something
+about aerosol optical depth. This include:
+
+| Legend   | Short Name | Long name                                             |
+| :------- | :--------- | :---------------------------------------------------- |
+| AOD(d)   | AODVIS     | Aerosol optical depth 550 nm, day only                |
+| AOD(dn)  | AODVISdn   | Aerosol optical depth 550 nm, day night               |
+| SAOD(nd) | AODVISstdn | Stratospheric aerosol optical depth 550 nm, day night |
+
+We also include for reference the difference between `AOD(dn)` and `SAOD(dn)`.
+
+![Different CESM2 AOD
+fields](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/cesm2_field.png
+"Different CESM2 AOD fields")
+
+<sup>**Figure:** Different CESM2 AOD fields</sup>
+
+Let us then focus more on the difference time series, namely `AOD(dn)-SAOD(dn)`, and
+compare this to the AOD field that is found in the CESM LME data set. This also include
+a shifted version, where the biggest eruption (1258) has been placed in 1852. This
+eruption has an estimated injected SO~2~ of 258 Tg, while the CESM2 simulation we
+compare with now uses an injected SO~2~ of 400 Tg.
+
+| Legend      | Short Name | Long name                                     |
+| :---------- | :--------- | :-------------------------------------------- |
+| CL AOD      | AODVIS     | Aerosol optical depth 550 nm                  |
+| CL AOD 1258 | AODVIS     | Aerosol optical depth 550 nm, shifted version |
+
+![CESM LME original and shifted compared to the difference time series. Also included
+for reference is the AOD(dn) time
+series](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/compared_view.png
+"CESM LME original and shifted compared to the difference time series. Also included for
+reference is the AOD(dn) time series")
+
+<sup>**Figure:** CESM LME original and shifted compared to the difference time series.
+Also included for reference is the AOD(dn) time series</sup>
+
+To better see the prominence of the 1258 eruption and where it was shifted to, below is
+a plot of the full CESM LME AOD time series with both the original and shifted version.
+
+![CESM LME original and shifted
+version](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/view_shifted.png
+"CESM LME original and shifted version")
+
+<sup>**Figure:** CESM LME original and shifted version</sup>
+
 ## Results
 
 ### CESM2 Simulations
@@ -225,58 +277,6 @@ axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic
 
 <sup>**Figure:** Temperature anomaly against aerosol optical depth at the same locations
 as defined by the injected SO~2~ forcing time series</sup>
-
-#### Note on CESM-LME aerosol optical depth
-
-The AODVIS field from the CESM LME data set seems to be too small, or at least very much
-smaller than the corresponding fields that I get form my own CESM2 simulations.
-Therefore, in the above plots, the CESM LME AOD has been scaled up by 24.05.
-
-Let us first have a look at the fields that can be found in CESM2 that says something
-about aerosol optical depth. This include:
-
-| Legend   | Short Name | Long name                                             |
-| :------- | :--------- | :---------------------------------------------------- |
-| AOD(d)   | AODVIS     | Aerosol optical depth 550 nm, day only                |
-| AOD(dn)  | AODVISdn   | Aerosol optical depth 550 nm, day night               |
-| SAOD(nd) | AODVISstdn | Stratospheric aerosol optical depth 550 nm, day night |
-
-We also include for reference the difference between `AOD(dn)` and `SAOD(dn)`.
-
-![Different CESM2 AOD
-fields](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/cesm2_field.png
-"Different CESM2 AOD fields")
-
-<sup>**Figure:** Different CESM2 AOD fields</sup>
-
-Let us then focus more on the difference time series, namely `AOD(dn)-SAOD(dn)`, and
-compare this to the AOD field that is found in the CESM LME data set. This also include
-a shifted version, where the biggest eruption (1258) has been placed in 1852. This
-eruption has an estimated injected SO~2~ of 258 Tg, while the CESM2 simulation we
-compare with now uses an injected SO~2~ of 400 Tg.
-
-| Legend      | Short Name | Long name                                     |
-| :---------- | :--------- | :-------------------------------------------- |
-| CL AOD      | AODVIS     | Aerosol optical depth 550 nm                  |
-| CL AOD 1258 | AODVIS     | Aerosol optical depth 550 nm, shifted version |
-
-![CESM LME original and shifted compared to the difference time series. Also included
-for reference is the AOD(dn) time
-series](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/compared_view.png
-"CESM LME original and shifted compared to the difference time series. Also included for
-reference is the AOD(dn) time series")
-
-<sup>**Figure:** CESM LME original and shifted compared to the difference time series.
-Also included for reference is the AOD(dn) time series</sup>
-
-To better see the prominence of the 1258 eruption and where it was shifted to, below is
-a plot of the full CESM LME AOD time series with both the original and shifted version.
-
-![CESM LME original and shifted
-version](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pic/cesm-lme-aodvis/view_shifted.png
-"CESM LME original and shifted version")
-
-<sup>**Figure:** CESM LME original and shifted version</sup>
 
 [^@rypdal2016b]:
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
