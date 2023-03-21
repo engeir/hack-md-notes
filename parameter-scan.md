@@ -310,7 +310,7 @@ but is also different from the chemical package included in WACCM6.
 > Pinatubo eruption. Vertical and horizontal shape functions are assigned to each of the
 > three boxes, again based on the observed extinction of Pinatubo aerosols."
 >
-> [^toohey2017], sec. 2.4.
+> [^@toohey2017], sec. 2.4.
 >
 > "The ICI reconstruction (Crowley and Unterman, 2013) contains estimates of zonal mean
 > SAOD at 550 nm for four equal-area latitude bands over the period 800–2000. The
@@ -319,7 +319,7 @@ but is also different from the chemical package included in WACCM6.
 > estimates as they are provided and simply average the four equal area bands into a
 > global annual mean SAOD."
 >
-> [^toohey2017], sec. 2.5.3.
+> [^@toohey2017], sec. 2.5.3.
 
 [^@rypdal2016b]:
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
