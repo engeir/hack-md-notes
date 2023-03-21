@@ -82,7 +82,7 @@ median over five simulation runs.
 
 The AODVIS field from the CESM LME data set seems to be too small, or at least very much
 smaller than the corresponding fields that I get form my own CESM2 simulations.
-Therefore, in the above plots, the CESM LME AOD has been scaled up by 24.05.
+Therefore, in the above plots, the CESM LME AOD has been scaled up by $24.05$.
 
 Let us first have a look at the fields that can be found in CESM2 that says something
 about aerosol optical depth. This include:
@@ -278,6 +278,49 @@ axis](<https://raw.githubusercontent.com/engeir/hack-md-notes/8821260/assets/pic
 <sup>**Figure:** Temperature anomaly against aerosol optical depth at the same locations
 as defined by the injected SO~2~ forcing time series</sup>
 
+#### Model differences
+
+One thing to notice is the large span that shows up at large injected SO~2~ values in
+the plots of AOD against injected SO~2~. The CESM2 runs that used WACCM6, the most
+sophisticated atmosphere model, are illustrated with blue and orange circle markers.
+Together with these is also the 100 times Pinatubo simulation in brown square marker,
+but this should perhaps lie further to the right and have a higher value when compared
+to total injected SO~2~ (scaling the `P` mark used for Pinatubo places it at
+$1800\,\mathrm{Tg}$ instead of $1400\,\mathrm{Tg}$). This is also a direct upscaling of
+the values provided by [^@sato1993], and hence they will not be able to include the
+non-linear chemical processes that may be different between eruptions differing two
+orders of magnitude.
+
+At lower AOD values we find C2C (CESM2(CAM6)), both VolMIP simulations and the Pinatubo
+observed values. We also find the CESM LME data set here, but we remember that the AOD
+values have already been scaled up by $24.05$.
+
+The first difference we might think of is the use of WACCM for the high AOD values, and
+CAM for the low AOD values. But this does not hold for the VolMIP AOD values or Pinatubo
+AOD values. The VolMIP values come from the EVA(eVolv2k) simulation and the ICI
+reconstruction from ice core estimates. The EVA(eVolv2k) uses a three-box model to
+calculate AOD from injected SO~2~ levels, which is fitted to observed satellite values
+but is also different from the chemical package included in WACCM6.
+
+> "The EVA module takes stratospheric sulfur injection estimates as input and outputs
+> vertically and latitudinally varying aerosol optical properties designed for easy
+> implementation in climate models. The spatio-temporal structure of the EVA output
+> fields is based on a simple three-box model of stratospheric transport, with
+> timescales of mixing and transport based on fits to satellite observations of the 1991
+> Pinatubo eruption. Vertical and horizontal shape functions are assigned to each of the
+> three boxes, again based on the observed extinction of Pinatubo aerosols."
+>
+> [^toohey2017], sec. 2.4.
+>
+> "The ICI reconstruction (Crowley and Unterman, 2013) contains estimates of zonal mean
+> SAOD at 550 nm for four equal-area latitude bands over the period 800–2000. The
+> reconstruction is based on a scaling of Greenland and Antarctic ice core composites to
+> measured SAOD after the Mt. Pinatubo eruption of 1991. Here, we take the ICI SAOD
+> estimates as they are provided and simply average the four equal area bands into a
+> global annual mean SAOD."
+>
+> [^toohey2017], sec. 2.5.3.
+
 [^@rypdal2016b]:
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
     of last millennium climate to volcanic and solar forcing” by S. Lovejoy and C.
@@ -328,3 +371,6 @@ as defined by the injected SO~2~ forcing time series</sup>
 
 [^volmip-volc-long-eq]: https://view.es-doc.org/index.html?renderMethod=id&project=cmip6&id=fc04f8eb-feff-4fa4-ba91-41cf9041a2ef&version=1
 [^volmip-volc-long-eq-realisation]: https://furtherinfo.es-doc.org/CMIP6.MPI-M.MPI-ESM1-2-LR.volc-long-eq.none.r11i1p1f1
+[^@sato1993]:
+    Sato, M., Hansen, J. E., et al., 'Stratospheric aerosol optical depths, 1850-1990',
+    J. Geophys. Res., 1993, vol. 98, no. , p. 22987–22994.
