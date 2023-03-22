@@ -321,6 +321,17 @@ but is also different from the chemical package included in WACCM6.
 >
 > [^@toohey2017], sec. 2.5.3.
 
+---
+
+A second noticeable feature is how well aligned all points in the temperature against
+aerosol optical depth are. While the temperature versus injected SO~2~ have larger and
+larger spread as we go to higher values, as well as what seems to suggest a different
+slope between different model complexities, the temperature versus AOD fit nicely for
+all data used here. This is, however, again with the assumption that the AOD from CESM
+LME is well represented _after_ being scaled. Other data that has not been scaled or
+altered in funky ways should be considered to be able to include the CESM LME data set
+fully in this context.
+
 [^@rypdal2016b]:
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
     of last millennium climate to volcanic and solar forcing” by S. Lovejoy and C.
@@ -338,7 +349,7 @@ but is also different from the chemical package included in WACCM6.
 [^@ottobliesner2016]:
     Otto-Bliesner, B. L., Brady, E. C., et al., 'Climate Variability and Change since
     850 CE: An Ensemble Approach with the Community Earth System Model', Bulletin of the
-    American Meteorological Society, 2016, vol. 97, no. 5, p. 735–754.
+    American Meteorological Society, 2016, vol. 97, no. 5, pp. 735–754.
 
 [^@guo2004]:
     Guo, S., Bluth, G. J. S., et al., 'Re-evaluation of SO2 release of the 15 June 1991
@@ -348,15 +359,15 @@ but is also different from the chemical package included in WACCM6.
 [^@sukhodolov2018]:
     Sukhodolov, T., Sheng, J-X., et al., 'Stratospheric aerosol evolution after Pinatubo
     simulated with a coupled size-resolved aerosol-chemistry-climate model,
-    SOCOL-AERv1.0', Geoscientific Model Development, 2018, vol. 11, no. 7, p. 2633–2647.
+    SOCOL-AERv1.0', Geoscientific Model Development, 2018, vol. 11, no. 7, pp. 2633–2647.
 
 [^@jones2005]:
     Jones, G. S., Gregory, J. M., et al., 'An AOGCM simulation of the climate response
-    to a volcanic super-eruption', Climate Dynamics, 2005, vol. 25, no. 7, p. 725–738.
+    to a volcanic super-eruption', Climate Dynamics, 2005, vol. 25, no. 7, pp. 725–738.
 
 [^@hansen1999]:
     Hansen, J., Ruedy, R., et al., 'GISS analysis of surface temperature change',
-    Journal of Geophysical Research: Atmospheres, 1999, vol. 104, no. D24, p.
+    Journal of Geophysical Research: Atmospheres, 1999, vol. 104, no. D24, pp.
     30997–31022.
 
 [^@gao2008]:
@@ -367,10 +378,10 @@ but is also different from the chemical package included in WACCM6.
 [^@toohey2017]:
     Toohey, M. and Sigl, M., 'Volcanic stratospheric sulfur injections and aerosol
     optical depth from 500\,BCE to 1900\,CE', Earth System Science Data, 2017, vol. 9,
-    no. 2, p. 809–831.
+    no. 2, pp. 809–831.
 
 [^volmip-volc-long-eq]: https://view.es-doc.org/index.html?renderMethod=id&project=cmip6&id=fc04f8eb-feff-4fa4-ba91-41cf9041a2ef&version=1
 [^volmip-volc-long-eq-realisation]: https://furtherinfo.es-doc.org/CMIP6.MPI-M.MPI-ESM1-2-LR.volc-long-eq.none.r11i1p1f1
 [^@sato1993]:
     Sato, M., Hansen, J. E., et al., 'Stratospheric aerosol optical depths, 1850-1990',
-    J. Geophys. Res., 1993, vol. 98, no. , p. 22987–22994.
+    J. Geophys. Res., 1993, vol. 98, no. , pp. 22987–22994.
