@@ -81,11 +81,11 @@ median over five simulation runs.
 #### Note on CESM-LME aerosol optical depth
 
 The AODVIS field from the CESM LME data set seems to be too small, or at least very much
-smaller than the corresponding fields that I get form my own CESM2 simulations.
+smaller than the corresponding fields that I get from my own CESM2 simulations.
 Therefore, in the above plots, the CESM LME AOD has been scaled up by $24.05$.
 
 Let us first have a look at the fields that can be found in CESM2 that says something
-about aerosol optical depth. This include:
+about aerosol optical depth. This includes:
 
 | Legend   | Short Name | Long name                                             |
 | :------- | :--------- | :---------------------------------------------------- |
@@ -102,7 +102,7 @@ fields](https://raw.githubusercontent.com/engeir/hack-md-notes/30fe88b/assets/pi
 <sup>**Figure:** Different CESM2 AOD fields</sup>
 
 Let us then focus more on the difference time series, namely `AOD(dn)-SAOD(dn)`, and
-compare this to the AOD field that is found in the CESM LME data set. This also include
+compare this to the AOD field that is found in the CESM LME data set. This also includes
 a shifted version, where the biggest eruption (1258) has been placed in 1852. This
 eruption has an estimated injected SO~2~ of 258 Tg, while the CESM2 simulation we
 compare with now uses an injected SO~2~ of 400 Tg.
@@ -332,6 +332,19 @@ LME is well represented _after_ being scaled. Other data that has not been scale
 altered in funky ways should be considered to be able to include the CESM LME data set
 fully in this context.
 
+## Aside
+
+Below is a list of paper journals that the references below are published in:
+
+1. AGU: Journal of Geophysical Research: Atmospheres (4)
+2. AGU: Geophysical Research Letters
+3. AMS: Bulletin of the American Meteorological Society
+4. AGU: Geochemistry, Geophysics, Geosystems
+5. EGU: Earth System Dynamics
+6. EGU: Geoscientific Model Development
+7. Springer: Climate Dynamics
+8. Copernicus Publications: Earth System Science Data
+
 [^@rypdal2016b]:
     K. Rypdal and M. Rypdal, ‘Comment on “Scaling regimes and linear/nonlinear responses
     of last millennium climate to volcanic and solar forcing” by S. Lovejoy and C.
@@ -383,5 +396,6 @@ fully in this context.
 [^volmip-volc-long-eq]: https://view.es-doc.org/index.html?renderMethod=id&project=cmip6&id=fc04f8eb-feff-4fa4-ba91-41cf9041a2ef&version=1
 [^volmip-volc-long-eq-realisation]: https://furtherinfo.es-doc.org/CMIP6.MPI-M.MPI-ESM1-2-LR.volc-long-eq.none.r11i1p1f1
 [^@sato1993]:
-    Sato, M., Hansen, J. E., et al., 'Stratospheric aerosol optical depths, 1850-1990',
-    J. Geophys. Res., 1993, vol. 98, no. , pp. 22987–22994.
+    Sato, M., Hansen, J. E., et al., 'Stratospheric aerosol optical depths, 1850–1990',
+    Journal of Geophysical Research: Atmospheres, 1993, vol. 98, no. D12, pp.
+    22987–22994.
