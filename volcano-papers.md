@@ -529,10 +529,24 @@ Simulations
 
 - Relation between aerosol optical depth and radiative forcing (in
   $\text{W}\text{m}^{-2}$) show a linear trend (fig. 4)
+- TCRP - Transient Climate Response Parameter: The increase in global-mean temperature
+  per unit increase in radiative force during time-dependent climate change
 - Their zero layer model overestimates the sudden cooling in the AOGCMs from short-lived
   large negative forcing from volcanic eruptions. Assumed to be due to the zero-layer
   model neglecting upper-layer heat capacity. **Thus, the difference in CO2 vs. volcano
-  forcing is not the sign, but the timescale**.
+  forcing is not the sign, but the timescale**. The TCRP and the zero-layer model is not
+  applicable.
+- Two common issues: the forcing $F$ due to volcanoes is not diagnosed (i.e., no fixed
+  SST run is done), and $\alpha$ might not be the same as it is for $\mathrm{CO_2}$
+- When analysing ocean heat uptake they use a step model which relies on the assumption
+  that the response of the system depends linearly on the forcing
+- Regression of $F$ against AOD gives a slope of $-24.6\pm0.2$ for AR5
+- Confirms that the smaller climate sensitivity to volcanic forcing during the
+  historical period than for elevated $\mathrm{CO_2}$ is also a reason for the
+  overestimation of volcanic cooling by the TCRP in HadCM3, although less important than
+  ocean heat uptake and volcanic forcing (could be due to difference in forcing nature
+  or that the sensitivity depends $\mathrm{CO_2}$ concentration)
+- A large ensemble is needed to precisely evaluate $\alpha$
 - Would be useful for the investigation of volcanic forcing and feedback in CMIP6 if
   ensemble experiments had only historical aerosol forcing, to diagnose the climate
   response. Further, with AGCMs with prescribed sea surface conditions, to diagnose the

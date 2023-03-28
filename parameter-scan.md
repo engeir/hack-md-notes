@@ -215,6 +215,9 @@ series</sup>
 
 ### Aggregated data
 
+> Gregory et al. (2016) does something similar, with a TOA radiative forcing versus AOD
+> plot, among other things. Should have a second read of this one.
+
 #### Different forcings compared to temperature
 
 How do the different forcings relate to the temperature, and does any of them have a
