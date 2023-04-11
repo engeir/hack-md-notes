@@ -17,7 +17,7 @@ We ran the **BWma1850** compset in its default setting from 1850 to 1902, and ge
 the q-flux files based on the years 1856 to 1900. Below is a plot of the temperature
 and ice fraction evolution during the whole control run.
 
-![Reference height temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/c41edac/assets/pic/setting-up-slab-ocean-model/trefht-slab-ocean-control.webp)
+![Reference height temperature](https://raw.githubusercontent.com/engeir/hack-md-notes/7a7ab56/assets/pic/setting-up-slab-ocean-model/trefht-slab-ocean-control.webp)
 
 ![Ice fraction](https://raw.githubusercontent.com/engeir/hack-md-notes/c41edac/assets/pic/setting-up-slab-ocean-model/icefrac-slab-ocean-control.webp)
 
