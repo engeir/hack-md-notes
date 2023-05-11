@@ -526,6 +526,12 @@ Simulations
 ### 2016 — Gregory et al.: Small global-mean cooling due to volcanic radiative forcing
 
 > DOI: [10.1007/s00382-016-3055-1](https://doi.org/10.1007/s00382-016-3055-1)
+>
+> Answer: what is the main goal, why do they not include annual mean temperature against
+> forcing? They look for different reasons why the cooling is smaller than expected. So,
+> maybe it would be a bit counter-intuitive to look at total temperature against
+> forcing? No wait, they actually do. Fig. 6. They get from volcanoes $F=-2.7\pm0.1\\,
+> \mathrm{W/m^2}$, while the abrupt 4xCO2 give $F=7.7\\,\mathrm{W/m^2}$.
 
 - Relation between aerosol optical depth and radiative forcing (in
   $\text{W}\text{m}^{-2}$) show a linear trend (fig. 4)
@@ -545,7 +551,7 @@ Simulations
   historical period than for elevated $\mathrm{CO_2}$ is also a reason for the
   overestimation of volcanic cooling by the TCRP in HadCM3, although less important than
   ocean heat uptake and volcanic forcing (could be due to difference in forcing nature
-  or that the sensitivity depends $\mathrm{CO_2}$ concentration)
+  or that the sensitivity depends on $\mathrm{CO_2}$ concentration)
 - A large ensemble is needed to precisely evaluate $\alpha$
 - Would be useful for the investigation of volcanic forcing and feedback in CMIP6 if
   ensemble experiments had only historical aerosol forcing, to diagnose the climate
@@ -699,6 +705,18 @@ Simulations
 ### 2019 — Toohey et al.: Disproportionately strong climate forcing from extratropical explosive volcanic eruptions
 
 > DOI: [10.1038/s41561-018-0286-2](https://doi.org/10.1038/s41561-018-0286-2)
+
+### Referenced Gregory et al. (2016)
+
+Are any of these relevant?
+
+- [Obata and Adachi (2019)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JG004696)
+- [Marshall et al. (2020)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090241)
+- [Goodwin and Cael (2021)](https://esd.copernicus.org/articles/12/709/2021/)
+- [Marshall et al. (2021)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033578)
+- [Marshall et al. (2022)](https://link.springer.com/article/10.1007/s00445-022-01559-3)
+- [Gunther et al. (2022)](https://journals.ametsoc.org/view/journals/clim/35/24/JCLI-D-22-0306.1.xml)
+- [Dogar et al. (2023)](https://link.springer.com/article/10.1007/s41748-022-00331-z)
 
 ## Motivation
 
