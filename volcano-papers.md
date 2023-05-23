@@ -370,7 +370,7 @@ sensitivity) than CO~2~ does, in contrast to Richardson (2019)
 
 ## Original papers
 
-### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor.\_
+### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor
 
 > DOI: [10.1126/science.296.5568.727](https://www.science.org/doi/10.1126/science.296.5568.727)
 
@@ -402,7 +402,7 @@ Simulations
   aerosols).
 - Data indicate peak 18 months after the eruption (0.5 K cooling).
 
-### 2004 — Wigley et al.: Effect of climate sensitivity on the response to volcanic forcing
+### 2005 — Wigley et al.: Effect of climate sensitivity on the response to volcanic forcing
 
 > DOI: [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
 
