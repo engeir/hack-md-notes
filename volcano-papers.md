@@ -361,7 +361,14 @@ sensitivity) than CO~2~ does, in contrast to Richardson (2019)
   some $43\,\mathrm{kyr}$ ($60$--$9\,\mathrm{ka}$ minus the section of no identified
   bipolar eruptions at $24.5$ to $16.5\,\mathrm{ka}$).
 
-## Original source papers
+### 2022 - Günther et al.: Climate Feedback to Stratospheric Aerosol Forcing: The Key Role of the Pattern Effect
+
+> DOI: [10.1175/JCLI-D-22-0306.1](https://doi.org/10.1175/JCLI-D-22-0306.1)
+
+- **Overall feedback is close to one, but this is because of compensation: early, the
+  feedback is strong, while later the feedback is weak**
+
+## Original papers
 
 ### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor.\_
 
@@ -474,7 +481,7 @@ Simulations
 
 > DOI: [10.1175/JCLI-D-14-00214.1](https://doi.org/10.1175/JCLI-D-14-00214.1)
 
-### 2014 — Arfeuille et al.: Volcanic forcing for a climate modelling: a new microphysics-based data set covering years 1600-present
+### 2014 — Arfeuille et al.: Volcanic forcing for climate modelling: a new microphysics-based data set covering years 1600-present
 
 > DOI: [10.5194/cp-10-359-2014](https://doi.org/10.5194/cp-10-359-2014)
 
