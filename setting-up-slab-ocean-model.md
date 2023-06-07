@@ -29,3 +29,15 @@ We also see some other simulations in the plot. In particular, the orange line i
 **EWma1850** compset, which is supposed to be the slab ocean model run with the WACCM6
 atmosphere. However, the ice fraction and surface temperature are not stable and keep
 diverging far from the level of the control. Why is that?
+
+## Simulations
+
+There seems to be some issues with the climate reaching a new state.
+
+![Temperature](./assets/pic/setting-up-slab-ocean-model/temp_m.png)
+
+![Ice fraction](./assets/pic/setting-up-slab-ocean-model/ice_m.png)
+
+![Temperature](./assets/pic/setting-up-slab-ocean-model/temp_s.png)
+
+![Ice fraction](./assets/pic/setting-up-slab-ocean-model/ice_s.png)
