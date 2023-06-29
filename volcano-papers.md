@@ -169,9 +169,9 @@ GMST from 1880 to 2010.
 
 > DOI: [10.1007/s10584-016-1648-7](https://doi.org/10.1007/s10584-016-1648-7)
 
-- Uses the MAECHAM5-HAM model, which takes emissions from AEROCOM(?) (see [this
-  paper](https://acp.copernicus.org/articles/5/1125/2005/acp-5-1125-2005.pdf), [Timmreck
-  et al. (2010)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL045464)
+- Uses the MAECHAM5-HAM model, which takes emissions from AEROCOM(?) (see
+  [this paper](https://acp.copernicus.org/articles/5/1125/2005/acp-5-1125-2005.pdf),
+  [Timmreck et al. (2010)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL045464)
   also use that emission source). Combines this with MPI-ESM
   ([source](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jame.20038)).
 - Might have some interesting data: double volcano event in 536 and 540 CE.
@@ -245,6 +245,26 @@ Results and discussion
 - Crucial to obtaining an accurate reconstruction of volcanic aerosol radiative property
   spatial structure.
 
+### 2019 — Marshall et al.: Exploring How Eruption Source Parameters Affect Volcanic Radiative Forcing Using Statistical Emulation
+
+> DOI: [10.1029/2018JD028675](https://doi.org/10.1029/2018JD028675)
+
+**Take away:** SO~2~ and latitude of eruption matter, while the injection height is
+relatively unimportant.
+
+- Uses the interactive stratospheric aerosol model UM-UKCA; it treats the full lifecycle
+  of stratospheric aerosol particles
+- They use parameters from a space-filling "maxmin" Latin hypercube
+- The $e$-folding time: based on a linear fit starting one month after the peak until it
+  reaches $10\%$ of the peak burden
+- Integrated values: integrated over $38$ months (end of simulation); the sum of the
+  monthly mean anomalies in global mean SAOD and net radiative forcing
+- The $e$-folding time is dependent on latitude (BDC), SO~2~ emission magnitude
+  (particle growth and increased sedimentation), and weakly on SO~2~ injection height
+  (longer air residence time)
+- Also discusses "phases" of the $e$-folding time that changes the average, i.e., more
+  time scales exist
+
 ### 2019 — Richardson et al.: Efficacy of Climate Forcings in PDRMIP Models
 
 > DOI: [10.1029/2019JD030581](https://doi.org/10.1029/2019JD030581)
@@ -288,6 +308,20 @@ Results and discussion
 - CMIP5 AOGCMs are not realistic in their response to volcanic forcing. In the real
   world, instead of causing a rapid cooling of $T$, volcanoes have the effect of
   "sucking" heat from the ocean beneath.
+
+### 2020 — Marshall et al.: Large Variations in Volcanic Aerosol Forcing Efficiency Due to Eruption Source Parameters and Rapid Adjustments
+
+> DOI: [10.1029/2020GL090241](https://doi.org/10.1029/2020GL090241)
+
+**Take away:** The single scaling of $25\,\mathrm{W/m^2}$ used by IPCC is too crude.
+They find radiative forcing to be about $20\%$ weaker than that reported by the IPCC
+based on Pinatubo only.
+
+- A scaling factor of $25$ is too much
+- They also note that there is a dependence on year-after-eruption, where the first year
+  has the weakest forcing per SAOD, before it increases in years two and three
+- SAOD is weaker in year 1 compared to year 2 (and 3), stronger for tropical than
+  extratropical eruptions, and is stronger for winter than summer eruptions
 
 ### 2021 — Pauling et al.: Robust Inter-Hemispheric Asymmetry in the Response to Symmetric Volcanic Forcing in Model Large Ensembles
 
@@ -339,9 +373,9 @@ sensitivity) than CO~2~ does, in contrast to Richardson (2019)
 - Volcanic eruptions a pacemaker for the phase transition of SST
 - From Mann et al. (2021), volcanoes are the main driver of 40- to 60-year variability
   of SST over NA
-- Discusses volcanic impact on the deep ocean:
-  Strong volcanoes (at least more than $50\,\mathrm{Tg}$, but should be more than
-  $100\,\mathrm{Tg}$) can strengthen the AMOC which subsequently cools the deep ocean
+- Discusses volcanic impact on the deep ocean: Strong volcanoes (at least more than
+  $50\,\mathrm{Tg}$, but should be more than $100\,\mathrm{Tg}$) can strengthen the AMOC
+  which subsequently cools the deep ocean
 
 ### 2022 — Lin et al.: Magnitude frequency and climate forcing of global volcanism during the last glacial period as seen in Greenland and Antarctic ice cores (60-9 ka)
 
@@ -372,7 +406,8 @@ sensitivity) than CO~2~ does, in contrast to Richardson (2019)
 
 ### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor
 
-> DOI: [10.1126/science.296.5568.727](https://www.science.org/doi/10.1126/science.296.5568.727)
+> DOI:
+> [10.1126/science.296.5568.727](https://www.science.org/doi/10.1126/science.296.5568.727)
 
 Water vapour introduction
 
@@ -404,7 +439,8 @@ Simulations
 
 ### 2005 — Wigley et al.: Effect of climate sensitivity on the response to volcanic forcing
 
-> DOI: [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
+> DOI:
+> [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
 
 Introduction
 
@@ -447,8 +483,8 @@ Simulations
 - Uses EBM with coupling between the mixed layer and the thermocline, exponential, exact
   solutions, exponential, exact solutions
 - Get a short response time of $\tau=4.4\mathrm{months}$
-- _Pinatubo: $0.5^{\circ}\mathrm{C}$ cooling and $4\,\mathrm{W/m^2}$ decrease in outgoing
-  longwave radiation_
+- _Pinatubo: $0.5^{\circ}\mathrm{C}$ cooling and $4\,\mathrm{W/m^2}$ decrease in
+  outgoing longwave radiation_
 - $7.6$ months; peak of aerosol forcing
 
 ### 2007 — Boer et al.: Inferring climate sensitivity from volcanic events
@@ -527,8 +563,8 @@ Simulations
   response to volcanic eruptions is consistent, within uncertainties, between models and
   observations. This holds in particular for the coincidence of El Niño events (be it by
   chance or due to an eruption triggering an El Niño event).
-- **The subject of ongoing research:** how (and if) Southern Annular Mode is confounded by
-  superposition of eruptions and El Niño events.
+- **The subject of ongoing research:** how (and if) Southern Annular Mode is confounded
+  by superposition of eruptions and El Niño events.
 
 ### 2016 — Gregory et al.: Small global-mean cooling due to volcanic radiative forcing
 
@@ -694,8 +730,7 @@ Simulations
 ### 2016 — Colose et al.: The influence of volcanic eruptions on the climate of tropical South America during the last millennium in an isotope-enabled general circulation model
 
 > DOI: [10.5194/cp-12-961-2016](https://doi.org/10.5194/cp-12-961-2016) (Also see his
-> [Google Scholar
-> page](https://scholar.google.com/citations?hl=no&user=rx9dKowAAAAJ&view_op=list_works&sortby=pubdate))
+> [Google Scholar page](https://scholar.google.com/citations?hl=no&user=rx9dKowAAAAJ&view_op=list_works&sortby=pubdate))
 
 ### 2016 — Colose et al.: Hemispherically asymmetric volcanic forcing of tropical hydroclimate during the last millennium
 
@@ -727,10 +762,11 @@ Are any of these relevant?
 
 ## Motivation
 
-- Comment in Nature: [Huge volcanic eruptions: time to
-  prepare](https://www.nature.com/articles/d41586-022-02177-x),
+- Comment in Nature:
+  [Huge volcanic eruptions: time to prepare](https://www.nature.com/articles/d41586-022-02177-x),
   [DOI](https://doi.org/10.1038/d41586-022-02177-x)
-- Mentioned on [nrk](https://www.nrk.no/trondelag/eksperter-mener-verden-er-for-darlig-forberedt-pa-en-mulig-vulkankatastrofe-1.16084751)
+- Mentioned on
+  [nrk](https://www.nrk.no/trondelag/eksperter-mener-verden-er-for-darlig-forberedt-pa-en-mulig-vulkankatastrofe-1.16084751)
 
 [volc-cluster-ctrl]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-ctrl
 [volc-cluster-mill]: https://view.es-doc.org/?renderMethod=name&project=cmip6&type=cim.2.designing.NumericalExperiment&client=esdoc&name=volc-cluster-mill
