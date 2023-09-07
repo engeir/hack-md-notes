@@ -269,6 +269,11 @@ relatively unimportant.
 
 > DOI: [10.1029/2019JD030581](https://doi.org/10.1029/2019JD030581)
 
+**Summary for ECS paragraph:** Richardson compared many different sims setups, where
+5xSO4 was one of them, that is, 5 times sulfate aerosol concentrations or emissions, as
+a step function. IRF give differing efficacies (as expected), but for ERF (use this)
+efficacies are closer to unity. MAYBE YES.
+
 **Take away:** Forcing behaves similarly across agents
 
 - No evidence that the geographical location of sulfate aerosol affects its efficacy
@@ -350,6 +355,10 @@ Results and discussion
 
 > DOI: [10.1029/2022GL097766](https://doi.org/10.1029/2022GL097766)
 
+**Summary for ECS paragraph:** Salvi ran simulations of historical aerosols, but this
+does not mean natural volcanic aerosols it seems. Different sensitivity between forcing
+agents, but a bit smaller sample size than Richardson. MAYBE NO.
+
 **Take away:** Aerosols produce more amplifying climate feedback (greater climate
 sensitivity) than CO~2~ does, in contrast to Richardson (2019)
 
@@ -402,6 +411,14 @@ sensitivity) than CO~2~ does, in contrast to Richardson (2019)
 - **Overall feedback is close to one, but this is because of compensation: early, the
   feedback is strong, while later the feedback is weak**
 
+### 2023 - Pauling et al.: The climate response to the Mt. Pinatubo eruption does not constrain climate sensitivity
+
+> DOI: [10.1029/2023GL102946](https://doi.org/10.1029/2023GL102946)
+
+**Summary for ECS paragraph:** Pauling looks at Bender results, among others, and
+conclude we cannot constrain ESC from volcanoes (even if there is a correspondence, Mt
+Pinatubo has too small S-N ratio). HARD NO.
+
 ## Original papers
 
 ### 2002 — Soden et al.: Global Cooling After the Eruption of Mount Pinatubo: A Test of Climate Feedback by Water Vapor
@@ -441,6 +458,11 @@ Simulations
 
 > DOI:
 > [10.1029/2004JD005557](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD005557)
+
+**Summary for ECS paragraph:** Wigley used an ensemble of historic volcanoes, 1890 to
+2000, output of AOGCMs, and ran an upwelling diffusion EBM to emulate an AOGCM. Assume
+sensitivity dependence, if any exist, is small, and thus that one can constrain ECS with
+volcanoes. End up with estimates of ECS. YES.
 
 Introduction
 
@@ -491,6 +513,13 @@ Simulations
 
 > DOI: [10.1007/s00382-006-0193-x](https://doi.org/10.1007/s00382-006-0193-x)
 
+**Summary for ECS paragraph:** Boer did simulationss using volcano-like eruptions:
+changed solar constant according to en exponential. This also means complete
+"ash-cover". Sensitivity need not be constant, so sensitivity for short timescale
+volcano-perturbations is different from ECS. Claims it might be possible to infer
+climate sensitivity if the forcing and heat storage is known (but not temperature
+alone). MAYBE WITH HIGH PRECISION.
+
 - For volcano-like forcing the global mean surface temperature responses of the models
   are very similar, despite their differing equilibrium climate sensitivities,
   indicating that climate sensitivity cannot be inferred from the temperature record
@@ -509,6 +538,9 @@ Simulations
 
 > DOI: [10.1007/s00382-010-0777-3](https://doi.org/10.1007/s00382-010-0777-3)
 
+**Summary for ECS paragraph:** Bender uses Mt. Pinatubo to link to ECS. THERE IS
+CORRESPONDANCE, SO YES WE CAN INFER ECS FROM VOLCANOES.
+
 ### 2012 — Lovejoy and Schertzer: Stochastic and scaling climate sensitivities: Solar, volcanic, and orbital forcings
 
 > DOI: [10.1029/2012GL051871](https://doi.org/10.1029/2012GL051871)
@@ -516,6 +548,10 @@ Simulations
 ### 2014 — Merlis et al.: Constraining Transient Climate Sensitivity Using Coupled Climate Model Simulations of Volcanic Eruptions
 
 > DOI: [10.1175/JCLI-D-14-00214.1](https://doi.org/10.1175/JCLI-D-14-00214.1)
+
+**Summary for ECS paragraph:** Merlis ran an ensemble of SAOD forced Pinatubo eruptions
+and compared with 2xCO2 and 0.5xCo2. Strong focus on volcanoes and how they might
+constrain TCR (and ECS).
 
 ### 2014 — Arfeuille et al.: Volcanic forcing for climate modelling: a new microphysics-based data set covering years 1600-present
 
@@ -538,12 +574,21 @@ Simulations
 
 > DOI: [10.9734/PSIJ/2016/23242](https://doi.org/10.9734/PSIJ/2016/23242)
 
+**Summary for ECS paragraph:** Ollila looked at Pinatubo in a dynamical model, so not a
+GCM. Hmm, not sure what to conclude from this.
+
 - Time constants for the ocean of $2.74$ months and the land of $1.04$ months are
   accurate and applicable in the dynamic analysis.
 
 ### 2016 — Marvel et al.: Implications for climate sensitivity from the response to individual forcings
 
 > DOI: [10.1038/nclimate2888](https://doi.org/10.1038/nclimate2888)
+
+**Summary for ECS paragraph:** Marvel used simulations where many kinds were
+represented, among others idealized volcano simulations. Talk about ERF as opposed to
+IRF... When calculating ESC, do not use the efficacy of \ce{CO2}: individual forcings
+produce different efficacies (this lead to better consistency to previous constraining
+studies).
 
 - Forcing that projects more strongly on the Northern Hemisphere are more effective at
   changing temperatures than CO~2~.
