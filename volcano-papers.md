@@ -324,9 +324,21 @@ based on Pinatubo only.
 
 - A scaling factor of $25$ is too much
 - They also note that there is a dependence on year-after-eruption, where the first year
-  has the weakest forcing per SAOD, before it increases in years two and three
+  has the weakest forcing per SAOD before it increases in years two and three (due to
+  increasing albedo)
 - SAOD is weaker in year 1 compared to year 2 (and 3), stronger for tropical than
   extratropical eruptions, and is stronger for winter than summer eruptions
+- ERF is defined as SW - LW, relative to a control simulation, in an atmosphere-only
+  setup (i.e., what I use)
+- IRF is defined as the difference between ERF and the sum of all RAs (rapid
+  adjustments)
+- They also scale SAOD to instead use 1-exp(-SAOD), which they explain is to account for
+  the spatial distribution of the sulfate aerosol and the ISW, based on a simple
+  application of the Beer‐Lambert law. This is, however, _before_ teking the global
+  annual mean.
+- They note that they also run an AGCM, in addition to an AOGCM, allowing them to
+  diagnose ERF. This implies that ERF is the only variable they get from the AGCM? I.e.,
+  SAOD if from AOGCM?
 
 ### 2021 — Pauling et al.: Robust Inter-Hemispheric Asymmetry in the Response to Symmetric Volcanic Forcing in Model Large Ensembles
 
